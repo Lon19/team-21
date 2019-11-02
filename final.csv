@@ -1,0 +1,9482 @@
+"GEOGRAPHY_NAME","OBS_VALUE"
+"Bank Top",35
+"Central",85
+"Cockerton East",20
+"Cockerton West",35
+"College",5
+"Eastbourne",40
+"Faverdale",5
+"Harrowgate Hill",10
+"Haughton East",40
+"Haughton North",15
+"Haughton West",20
+"Heighington and Coniscliffe",5
+"Hummersknott",5
+"Hurworth",10
+"Lascelles",45
+"Lingfield",20
+"Middleton St George",5
+"Mowden",5
+"North Road",70
+"Northgate",55
+"Park East",65
+"Park West",10
+"Pierremont",35
+"Sadberge and Whessoe",5
+"Annfield Plain",60
+"Aycliffe East",30
+"Aycliffe North",40
+"Aycliffe West",60
+"Barnard Castle East",25
+"Barnard Castle West",10
+"Belmont",15
+"Benfieldside",35
+"Bishop Auckland Town",50
+"Blackhalls",55
+"Brandon",55
+"Burnopfield and Dipton",25
+"Chester-le-Street North and East",25
+"Chester-le-Street South",25
+"Chester-le-Street West Central",70
+"Chilton",50
+"Consett North",50
+"Coundon",75
+"Coxhoe",30
+"Craghead and South Moor",70
+"Crook North and Tow Law",50
+"Crook South",80
+"Dawdon",80
+"Deerness Valley",45
+"Delves Lane and Consett South",75
+"Deneside",60
+"Durham South",25
+"Easington",70
+"Elvet",10
+"Esh",25
+"Evenwood",30
+"Ferryhill",70
+"Framwellgate Moor",30
+"Gilesgate",50
+"Horden",80
+"Lanchester",15
+"Leadgate and Medomsley",40
+"Lumley",35
+"Murton",50
+"Neville's Cross",5
+"Newton Hall",20
+"Ouston and Urpeth",30
+"Pelton",40
+"Peterlee East",80
+"Peterlee West",60
+"Sacriston",35
+"Seaham",15
+"Sedgefield",15
+"Sherburn",40
+"Shildon East",80
+"Shildon West",60
+"Shotton",75
+"Spennymoor and Middlestone",55
+"Stanley",75
+"Tanfield",50
+"Thornley",50
+"Trimdon",45
+"Tudhoe",55
+"Weardale",15
+"West Auckland",35
+"Willington",70
+"Wingate",50
+"Woodhouse Close",85
+"Brus",75
+"Burn Valley",65
+"Dyke House",85
+"Elwick",5
+"Fens",25
+"Foggy Furze",45
+"Grange",60
+"Greatham",10
+"Hart",15
+"Owton",75
+"Park",20
+"Rift House",55
+"Rossmere",35
+"Seaton",25
+"St Hilda",50
+"Stranton",110
+"Throston",25
+"Acklam",25
+"Ayresome",40
+"Beckfield",45
+"Beechwood",40
+"Brookfield",10
+"Clairville",55
+"Coulby Newham",25
+"Gresham",115
+"Hemlington",45
+"Kader",15
+"Ladgate",35
+"Linthorpe",35
+"Marton",5
+"Marton West",10
+"Middlehaven",75
+"North Ormesby and Brambles Farm",85
+"Nunthorpe",5
+"Pallister",60
+"Park",30
+"Park End",65
+"Stainton and Thornton",10
+"Thorntree",100
+"University",65
+"Alnwick",25
+"Amble",25
+"Amble West with Warkworth",5
+"Ashington Central",50
+"Bamburgh",5
+"Bedlington Central",15
+"Bedlington East",40
+"Bedlington West",25
+"Bellingham",5
+"Berwick East",15
+"Berwick North",15
+"Berwick West with Ord",10
+"Bothal",15
+"Bywell",0
+"Chevington with Longhorseley",35
+"Choppington",30
+"College",65
+"Corbridge",5
+"Cowpen",50
+"Cramlington East",35
+"Cramlington Eastfield",25
+"Cramlington North",10
+"Cramlington South East",15
+"Cramlington Village",15
+"Cramlington West",40
+"Croft",65
+"Haltwhistle",10
+"Hartley",15
+"Haydon",15
+"Haydon and Hadrian",5
+"Hexham Central with Acomb",5
+"Hexham East",10
+"Hexham West",0
+"Hirst",85
+"Holywell",20
+"Humshaugh",5
+"Isabella",65
+"Kitty Brewster",65
+"Lesbury",5
+"Longhoughton",5
+"Lynemouth",25
+"Morpeth Kirkhill",15
+"Morpeth North",10
+"Morpeth Stobhill",15
+"Newbiggin Central and East",30
+"Newsham",60
+"Norham and Islandshires",5
+"Pegswood",15
+"Plessey",10
+"Ponteland East",5
+"Ponteland North",5
+"Ponteland South with Heddon",5
+"Ponteland West",0
+"Prudhoe East",20
+"Prudhoe West",15
+"Rothbury",5
+"Seaton with Newbiggin West",35
+"Seghill with Seaton Delaval",50
+"Shilbottle",15
+"Sleekburn",35
+"South Blyth",10
+"South Tynedale",5
+"Stakeford",15
+"Stocksfield and Broomhaugh",10
+"Ulgham",15
+"Wensleydale",30
+"Wooler",10
+"Brotton",45
+"Coatham",55
+"Dormanstown",40
+"Eston",50
+"Grangetown",85
+"Guisborough",45
+"Hutton",20
+"Kirkleatham",50
+"Lockwood",15
+"Loftus",45
+"Longbeck",15
+"Newcomen",20
+"Normanby",30
+"Ormesby",15
+"Saltburn",15
+"Skelton",40
+"South Bank",65
+"St Germain's",25
+"Teesville",45
+"West Dyke",15
+"Westworth",15
+"Zetland",10
+"Billingham Central",55
+"Billingham East",60
+"Billingham North",25
+"Billingham South",40
+"Billingham West",15
+"Bishopsgarth and Elm Tree",25
+"Eaglescliffe",25
+"Fairfield",15
+"Grangefield",30
+"Hardwick",70
+"Hartburn",10
+"Ingleby Barwick East",30
+"Ingleby Barwick West",25
+"Mandale and Victoria",105
+"Newtown",95
+"Northern Parishes",5
+"Norton North",40
+"Norton South",40
+"Norton West",10
+"Parkfield and Oxbridge",105
+"Roseworth",70
+"Stainsby Hill",45
+"Stockton Town Centre",120
+"Village",30
+"Western Parishes",10
+"Yarm",20
+"Birtley",45
+"Blaydon",65
+"Bridges",55
+"Chopwell and Rowlands Gill",65
+"Chowdene",65
+"Crawcrook and Greenside",25
+"Deckham",80
+"Dunston and Teams",70
+"Dunston Hill and Whickham East",35
+"Felling",85
+"High Fell",100
+"Lamesley",55
+"Lobley Hill and Bensham",80
+"Low Fell",20
+"Pelaw and Heworth",35
+"Ryton, Crookhill and Stella",40
+"Saltwell",65
+"Wardley and Leam Lane",45
+"Whickham North",35
+"Whickham South and Sunniside",15
+"Windy Nook and Whitehills",55
+"Winlaton and High Spen",35
+"Benwell and Scotswood",95
+"Blakelaw",80
+"Byker",160
+"Castle",35
+"Dene",20
+"Denton",65
+"East Gosforth",10
+"Elswick",135
+"Fawdon",80
+"Fenham",45
+"Kenton",80
+"Lemington",65
+"Newburn",55
+"North Heaton",15
+"North Jesmond",15
+"Ouseburn",55
+"Parklands",10
+"South Heaton",55
+"South Jesmond",25
+"Walker",150
+"Walkergate",65
+"West Gosforth",30
+"Westerhope",25
+"Westgate",100
+"Wingrove",85
+"Woolsington",75
+"Battle Hill",65
+"Benton",30
+"Camperdown",40
+"Chirton",100
+"Collingwood",70
+"Cullercoats",20
+"Howdon",90
+"Killingworth",20
+"Longbenton",45
+"Monkseaton North",15
+"Monkseaton South",25
+"Northumberland",30
+"Preston",20
+"Riverside",155
+"St Mary's",5
+"Tynemouth",30
+"Valley",60
+"Wallsend",110
+"Weetslade",25
+"Whitley Bay",40
+"Beacon and Bents",110
+"Bede",65
+"Biddick and All Saints",105
+"Boldon Colliery",60
+"Cleadon and East Boldon",15
+"Cleadon Park",70
+"Fellgate and Hedworth",40
+"Harton",50
+"Hebburn North",55
+"Hebburn South",40
+"Horsley Hill",50
+"Monkton",65
+"Primrose",60
+"Simonside and Rekendyke",120
+"West Park",50
+"Westoe",40
+"Whitburn and Marsden",35
+"Whiteleas",60
+"Barnes",45
+"Castle",85
+"Copt Hill",95
+"Doxford",35
+"Fulwell",25
+"Hendon",170
+"Hetton",100
+"Houghton",80
+"Millfield",90
+"Pallion",95
+"Redhill",115
+"Ryhope",55
+"Sandhill",110
+"Shiney Row",75
+"Silksworth",70
+"Southwick",115
+"St Anne's",85
+"St Chad's",35
+"St Michael's",50
+"St Peter's",35
+"Washington Central",55
+"Washington East",50
+"Washington North",120
+"Washington South",40
+"Washington West",70
+"Audley",65
+"Bastwell",55
+"Beardwood with Lammack",15
+"Corporation Park",30
+"Earcroft",35
+"East Rural",0
+"Ewood",55
+"Fernhurst",15
+"Higher Croft",45
+"Little Harwood",45
+"Livesey with Pleasington",15
+"Marsh House",15
+"Meadowhead",35
+"Mill Hill",45
+"North Turton with Tockholes",0
+"Queen's Park",40
+"Roe Lee",20
+"Shadsworth with Whitebirk",75
+"Shear Brow",45
+"Sudell",65
+"Sunnyhurst",35
+"Wensley Fold",80
+"Whitehall",10
+"Anchorsholme",10
+"Bispham",15
+"Bloomfield",95
+"Brunswick",60
+"Claremont",105
+"Clifton",30
+"Greenlands",20
+"Hawes Side",35
+"Highfield",10
+"Ingthorpe",30
+"Layton",30
+"Marton",10
+"Norbreck",5
+"Park",70
+"Squires Gate",20
+"Stanley",10
+"Talbot",80
+"Tyldesley",40
+"Victoria",45
+"Warbreck",35
+"Waterloo",55
+"Alderley Edge",5
+"Alsager",25
+"Audlem",5
+"Bollington",5
+"Brereton Rural",10
+"Broken Cross and Upton",20
+"Bunbury",5
+"Chelford",5
+"Congleton East",30
+"Congleton West",20
+"Crewe Central",65
+"Crewe East",65
+"Crewe North",10
+"Crewe South",55
+"Crewe St Barnabas",35
+"Crewe West",45
+"Dane Valley",5
+"Disley",5
+"Gawsworth",5
+"Handforth",25
+"Haslington",5
+"High Legh",0
+"Knutsford",15
+"Leighton",5
+"Macclesfield Central",25
+"Macclesfield East",10
+"Macclesfield Hurdsfield",15
+"Macclesfield South",30
+"Macclesfield Tytherington",10
+"Macclesfield West and Ivy",20
+"Middlewich",30
+"Mobberley",5
+"Nantwich North and West",25
+"Nantwich South and Stapeley",15
+"Odd Rode",10
+"Poynton East and Pott Shrigley",5
+"Poynton West and Adlington",5
+"Prestbury",0
+"Sandbach Elworth",10
+"Sandbach Ettiley Heath and Wheelock",10
+"Sandbach Heath and East",5
+"Sandbach Town",5
+"Shavington",10
+"Sutton",5
+"Willaston and Rope",5
+"Wilmslow Dean Row",0
+"Wilmslow East",0
+"Wilmslow Lacey Green",5
+"Wilmslow West and Chorley",5
+"Wistaston",5
+"Wrenbury",5
+"Wybunbury",5
+"Blacon",130
+"Boughton",20
+"Chester City",15
+"Chester Villages",15
+"Davenham and Moulton",15
+"Dodleston and Huntington",5
+"Ellesmere Port Town",90
+"Elton",10
+"Farndon",5
+"Frodsham",15
+"Garden Quarter",30
+"Gowy",0
+"Grange",45
+"Great Boughton",10
+"Handbridge Park",10
+"Hartford and Greenbank",20
+"Helsby",5
+"Hoole",30
+"Kingsley",0
+"Lache",30
+"Ledsham and Manor",5
+"Little Neston and Burton",10
+"Malpas",5
+"Marbury",20
+"Neston",15
+"Netherpool",25
+"Newton",25
+"Parkgate",0
+"Rossmore",40
+"Saughall and Mollington",5
+"Shakerley",10
+"St Paul's",40
+"Strawberry",5
+"Sutton",30
+"Tarporley",0
+"Tarvin and Kelsall",5
+"Tattenhall",5
+"Upton",25
+"Weaver and Cuddington",20
+"Whitby",20
+"Willaston and Thornton",0
+"Winnington and Castle",45
+"Winsford Over and Verdin",85
+"Winsford Swanlow and Dene",40
+"Winsford Wharton",45
+"Witton and Rudheath",25
+"Appleton",30
+"Beechwood",5
+"Birchfield",15
+"Broadheath",20
+"Daresbury",5
+"Ditton",35
+"Farnworth",15
+"Grange",65
+"Hale",0
+"Halton Brook",35
+"Halton Castle",55
+"Halton Lea",60
+"Halton View",35
+"Heath",15
+"Hough Green",50
+"Kingsway",50
+"Mersey",35
+"Norton North",30
+"Norton South",50
+"Riverside",45
+"Windmill Hill",25
+"Appleton",5
+"Bewsey and Whitecross",65
+"Birchwood",35
+"Burtonwood and Winwick",15
+"Culcheth, Glazebury and Croft",15
+"Fairfield and Howley",70
+"Grappenhall and Thelwall",10
+"Great Sankey North",15
+"Great Sankey South",30
+"Hatton, Stretton and Walton",5
+"Latchford East",45
+"Latchford West",20
+"Lymm",15
+"Orford",50
+"Penketh and Cuerdley",10
+"Poplars and Hulme",65
+"Poulton North",40
+"Poulton South",10
+"Rixton and Woolston",15
+"Stockton Heath",10
+"Westbrook",5
+"Whittle Hall",30
+"All Saints",5
+"Aspatria",5
+"Boltons",0
+"Broughton St Bridget's",5
+"Christchurch",5
+"Clifton",5
+"Crummock",0
+"Dalton",0
+"Derwent Valley",0
+"Ellen",5
+"Ellenborough",15
+"Ewanrigg",25
+"Flimby",5
+"Harrington",5
+"Holme",5
+"Keswick",0
+"Marsh",0
+"Moorclose",45
+"Moss Bay",45
+"Netherhall",25
+"Seaton",10
+"Silloth",5
+"Solway",0
+"St John's",20
+"St Michael's",45
+"Stainburn",5
+"Wampool",5
+"Warnell",0
+"Waver",0
+"Wharrels",0
+"Wigton",20
+"Barrow Island",15
+"Central",50
+"Dalton North",20
+"Dalton South",25
+"Hawcoat",5
+"Hindpool",55
+"Newbarns",20
+"Ormsgill",35
+"Parkside",20
+"Risedale",35
+"Roosecote",5
+"Walney North",10
+"Walney South",10
+"Belah",15
+"Belle Vue",30
+"Botcherby",35
+"Brampton",10
+"Burgh",0
+"Castle",50
+"Currock",20
+"Dalston",15
+"Denton Holme",25
+"Great Corby and Geltsdale",0
+"Harraby",15
+"Hayton",5
+"Irthing",5
+"Longtown & Rockcliffe",10
+"Lyne",0
+"Morton",25
+"St Aidans",35
+"Stanwix Rural",5
+"Stanwix Urban",5
+"Upperby",25
+"Wetheral",5
+"Yewdale",10
+"Arlecdon",5
+"Beckermet",5
+"Bootle",0
+"Bransty",15
+"Cleator Moor North",15
+"Cleator Moor South",15
+"Distington",15
+"Egremont North",20
+"Egremont South",15
+"Ennerdale",0
+"Frizington",10
+"Gosforth",0
+"Harbour",40
+"Haverigg",5
+"Hensingham",10
+"Hillcrest",5
+"Holborn Hill",10
+"Kells",10
+"Millom Without",0
+"Mirehouse",25
+"Moresby",5
+"Newtown",10
+"Sandwith",20
+"Seascale",0
+"St Bees",5
+"Alston Moor",0
+"Appleby (Appleby)",5
+"Appleby (Bongate)",5
+"Askham",0
+"Brough",0
+"Crosby Ravensworth",0
+"Dacre",0
+"Eamont",0
+"Greystoke",0
+"Hartside",0
+"Hesket",0
+"Kirkby Stephen,Ravenstonedale",10
+"Kirkby Thore",0
+"Kirkoswald",0
+"Langwathby",0
+"Lazonby",0
+"Long Marton",0
+"Morland",0
+"Orton with Tebay",0
+"Penrith Carleton",0
+"Penrith East",10
+"Penrith North",5
+"Penrith Pategill",5
+"Penrith South",10
+"Penrith West",5
+"Shap",5
+"Skelton",0
+"Ullswater",0
+"Warcop",0
+"Ambleside and Grasmere",5
+"Arnside and Beetham",0
+"Broughton",0
+"Burneside",0
+"Burton and Holme",0
+"Cartmel and Grange West",0
+"Coniston and Crake Valley",0
+"Crooklands",0
+"Grange North",0
+"Grange South",0
+"Hawkshead",0
+"Holker",0
+"Kendal Castle",0
+"Kendal Far Cross",5
+"Kendal Fell",10
+"Kendal Heron Hill",0
+"Kendal Highgate",0
+"Kendal Kirkland",10
+"Kendal Mintsfeet",0
+"Kendal Nether",5
+"Kendal Oxenholme and Natland",0
+"Kendal Parks",0
+"Kendal Romney",5
+"Kendal Stonecross",0
+"Kendal Strickland",5
+"Kendal Underley",0
+"Levens",0
+"Low Furness",0
+"Lyth Valley",0
+"Mid Furness",5
+"Milnthorpe",0
+"Sedbergh and Kirkby Lonsdale",5
+"Staveley-in-Cartmel",0
+"Staveley-in-Westmorland",0
+"Ulverston Central",5
+"Ulverston East",5
+"Ulverston North",5
+"Ulverston South",0
+"Ulverston Town",0
+"Ulverston West",0
+"Whinfell",0
+"Windermere Applethwaite and Troutbeck",0
+"Windermere Bowness North",5
+"Windermere Bowness South",0
+"Windermere Town",0
+"Astley Bridge",55
+"Bradshaw",55
+"Breightmet",120
+"Bromley Cross",20
+"Crompton",135
+"Farnworth",150
+"Great Lever",110
+"Halliwell",145
+"Harper Green",105
+"Heaton and Lostock",25
+"Horwich and Blackrod",30
+"Horwich North East",40
+"Hulton",75
+"Kearsley",45
+"Little Lever and Darcy Lever",40
+"Rumworth",125
+"Smithills",65
+"Tonge with the Haulgh",120
+"Westhoughton North and Chew Moor",30
+"Westhoughton South",45
+"Besses",70
+"Church",30
+"East",95
+"Elton",55
+"Holyrood",40
+"Moorside",110
+"North Manor",10
+"Pilkington Park",20
+"Radcliffe East",70
+"Radcliffe North",45
+"Radcliffe West",65
+"Ramsbottom",30
+"Redvales",60
+"Sedgley",35
+"St Mary's",40
+"Tottington",25
+"Unsworth",30
+"Ancoats and Clayton",105
+"Ardwick",135
+"Baguley",100
+"Bradford",145
+"Brooklands",65
+"Burnage",85
+"Charlestown",110
+"Cheetham",135
+"Chorlton",35
+"Chorlton Park",65
+"City Centre",15
+"Crumpsall",85
+"Didsbury East",25
+"Didsbury West",25
+"Fallowfield",95
+"Gorton North",160
+"Gorton South",145
+"Harpurhey",175
+"Higher Blackley",80
+"Hulme",115
+"Levenshulme",65
+"Longsight",110
+"Miles Platting and Newton Heath",155
+"Moss Side",190
+"Moston",80
+"Northenden",95
+"Old Moat",85
+"Rusholme",120
+"Sharston",115
+"Whalley Range",65
+"Withington",45
+"Woodhouse Park",95
+"Alexandra",135
+"Chadderton Central",45
+"Chadderton North",65
+"Chadderton South",75
+"Coldhurst",155
+"Crompton",40
+"Failsworth East",45
+"Failsworth West",50
+"Hollinwood",105
+"Medlock Vale",105
+"Royton North",35
+"Royton South",35
+"Saddleworth North",5
+"Saddleworth South",15
+"Saddleworth West and Lees",30
+"Shaw",55
+"St James'",85
+"St Mary's",155
+"Waterhead",100
+"Werneth",140
+"Balderstone and Kirkholt",70
+"Bamford",45
+"Castleton",60
+"Central Rochdale",110
+"East Middleton",45
+"Healey",45
+"Hopwood Hall",70
+"Kingsway",90
+"Littleborough Lakeside",30
+"Milkstone and Deeplish",115
+"Milnrow and Newhey",30
+"Norden",20
+"North Heywood",70
+"North Middleton",60
+"Smallbridge and Firgrove",75
+"South Middleton",30
+"Spotland and Falinge",75
+"Wardle and West Littleborough",35
+"West Heywood",60
+"West Middleton",95
+"Barton",80
+"Boothstown and Ellenbrook",20
+"Broughton",135
+"Cadishead",45
+"Claremont",30
+"Eccles",40
+"Irlam",35
+"Irwell Riverside",95
+"Kersal",50
+"Langworthy",130
+"Little Hulton",145
+"Ordsall",65
+"Pendlebury",55
+"Swinton North",55
+"Swinton South",40
+"Walkden North",90
+"Walkden South",40
+"Weaste and Seedley",80
+"Winton",80
+"Worsley",10
+"Bramhall North",20
+"Bramhall South",5
+"Bredbury and Woodley",40
+"Bredbury Green and Romiley",55
+"Brinnington and Central",165
+"Cheadle and Gatley",20
+"Cheadle Hulme North",25
+"Cheadle Hulme South",20
+"Davenport and Cale Green",70
+"Edgeley and Cheadle Heath",55
+"Hazel Grove",15
+"Heald Green",20
+"Heatons North",20
+"Heatons South",40
+"Manor",45
+"Marple North",15
+"Marple South",15
+"Offerton",50
+"Reddish North",55
+"Reddish South",40
+"Stepping Hill",25
+"Ashton Hurst",85
+"Ashton St Michael's",85
+"Ashton Waterloo",55
+"Audenshaw",45
+"Denton North East",50
+"Denton South",45
+"Denton West",40
+"Droylsden East",45
+"Droylsden West",40
+"Dukinfield",85
+"Dukinfield Stalybridge",40
+"Hyde Godley",75
+"Hyde Newton",80
+"Hyde Werneth",45
+"Longdendale",50
+"Mossley",50
+"St Peter's",105
+"Stalybridge North",105
+"Stalybridge South",40
+"Altrincham",20
+"Ashton upon Mersey",10
+"Bowdon",10
+"Broadheath",30
+"Brooklands",10
+"Bucklow-St Martins",75
+"Clifford",95
+"Davyhulme East",30
+"Davyhulme West",25
+"Flixton",15
+"Gorse Hill",60
+"Hale Barns",10
+"Hale Central",0
+"Longford",55
+"Priory",15
+"Sale Moor",30
+"St Mary's",40
+"Stretford",50
+"Timperley",10
+"Urmston",20
+"Village",25
+"Abram",100
+"Ashton",25
+"Aspull New Springs Whelley",25
+"Astley Mosley Common",30
+"Atherleigh",65
+"Atherton",130
+"Bryn",50
+"Douglas",70
+"Golborne and Lowton West",35
+"Hindley",90
+"Hindley Green",35
+"Ince",100
+"Leigh East",70
+"Leigh South",80
+"Leigh West",130
+"Lowton East",30
+"Orrell",25
+"Pemberton",100
+"Shevington with Lower Ground",15
+"Standish with Langtree",20
+"Tyldesley",55
+"Wigan Central",70
+"Wigan West",60
+"Winstanley",15
+"Worsley Mesnes",75
+"Bank Hall",60
+"Briercliffe",10
+"Brunshaw",50
+"Cliviger with Worsthorne",5
+"Coal Clough with Deerplay",20
+"Daneshouse with Stoneyholme",55
+"Gannow",50
+"Gawthorpe",45
+"Hapton with Park",20
+"Lanehead",25
+"Queensgate",35
+"Rosegrove with Lowerhouse",50
+"Rosehill with Burnley Wood",40
+"Trinity",85
+"Whittlefield with Ightenhill",20
+"Adlington and Anderton",10
+"Astley and Buckshaw",15
+"Brindle and Hoghton",0
+"Chisnall",5
+"Chorley East",25
+"Chorley North East",25
+"Chorley North West",10
+"Chorley South East",30
+"Chorley South West",45
+"Clayton-le-Woods and Whittle-le-Woods",10
+"Clayton-le-Woods North",35
+"Clayton-le-Woods West and Cuerden",5
+"Coppull",25
+"Eccleston and Mawdesley",10
+"Euxton North",10
+"Euxton South",0
+"Heath Charnock and Rivington",5
+"Lostock",5
+"Pennine",0
+"Wheelton and Withnell",5
+"Ansdell",0
+"Ashton",10
+"Central",20
+"Clifton",0
+"Elswick and Little Eccleston",0
+"Fairhaven",5
+"Freckleton East",5
+"Freckleton West",5
+"Heyhouses",10
+"Kilnhouse",15
+"Kirkham North",10
+"Kirkham South",5
+"Medlar-with-Wesham",5
+"Newton and Treales",0
+"Park",10
+"Ribby-with-Wrea",5
+"Singleton and Greenhalgh",0
+"St Johns",15
+"St Leonards",10
+"Staining and Weeton",5
+"Warton and Westby",10
+"Altham",25
+"Barnfield",40
+"Baxenden",5
+"Central",60
+"Church",55
+"Clayton-le-Moors",25
+"Huncoat",15
+"Immanuel",20
+"Milnshaw",20
+"Netherton",35
+"Overton",10
+"Peel",35
+"Rishton",30
+"Spring Hill",50
+"St Andrew's",25
+"St Oswald's",15
+"Bare",10
+"Bolton-le-Sands",5
+"Bulk",35
+"Carnforth",5
+"Castle",20
+"Duke's",15
+"Ellel,University",5
+"Halton-with-Aughton",5
+"Harbour",50
+"Heysham Central",15
+"Heysham North",45
+"Heysham South",20
+"John O'Gaunt",10
+"Kellet",0
+"Lower Lune Valley",5
+"Overton",10
+"Poulton",60
+"Scotforth East",10
+"Scotforth West",10
+"Silverdale",0
+"Skerton East",35
+"Skerton West",50
+"Slyne-with-Hest",5
+"Torrisholme",10
+"Upper Lune Valley",0
+"Warton",5
+"Westgate",35
+"Barrowford",5
+"Blacko and Higherford",0
+"Boulsworth",0
+"Bradley",45
+"Brierfield",30
+"Clover Hill",30
+"Coates",15
+"Craven",5
+"Earby",10
+"Foulridge",0
+"Higham and Pendleside",0
+"Horsfield",20
+"Marsden",10
+"Old Laund Booth",0
+"Reedley",15
+"Southfield",40
+"Vivary Bridge",25
+"Walverden",20
+"Waterside",30
+"Whitefield",15
+"Ashton",20
+"Brookfield",25
+"Cadley",10
+"College",5
+"Deepdale",25
+"Fishwick",35
+"Garrison",15
+"Greyfriars",5
+"Ingol",25
+"Larches",35
+"Lea",20
+"Moor Park",30
+"Preston Rural East",5
+"Preston Rural North",5
+"Ribbleton",50
+"Riversway",35
+"Sharoe Green",15
+"St George's",60
+"St Matthew's",50
+"Town Centre",50
+"Tulketh",40
+"University",15
+"Aighton, Bailey and Chaigley",0
+"Alston and Hothersall",5
+"Billington and Old Langho",0
+"Bowland, Newton and Slaidburn",0
+"Chatburn",5
+"Chipping",0
+"Clayton-le-Dale with Ramsgreave",0
+"Derby and Thornley",0
+"Dilworth",5
+"Edisford and Low Moor",5
+"Gisburn, Rimington",0
+"Langho",0
+"Littlemoor",10
+"Mellor",0
+"Primrose",5
+"Read and Simonstone",5
+"Ribchester",0
+"Sabden",0
+"Salthill",5
+"St Mary's",5
+"Waddington and West Bradford",0
+"Whalley",0
+"Wilpshire",5
+"Wiswell and Pendleton",0
+"Cribden",10
+"Eden",5
+"Facit and Shawforth",15
+"Goodshaw",5
+"Greenfield",20
+"Greensclough",30
+"Hareholme",25
+"Healey and Whitworth",20
+"Helmshore",10
+"Irwell",45
+"Longholme",30
+"Stacksteads",20
+"Whitewell",15
+"Worsley",50
+"Bamber Bridge East",10
+"Bamber Bridge North",10
+"Bamber Bridge West",15
+"Broad Oak",10
+"Charnock",5
+"Coupe Green and Gregson Lane",5
+"Earnshaw Bridge",10
+"Farington East",5
+"Farington West",10
+"Golden Hill",20
+"Howick and Priory",5
+"Kingsfold",20
+"Leyland Central",15
+"Leyland St. Ambrose",15
+"Leyland St. Mary's",5
+"Little Hoole and Much Hoole",5
+"Longton and Hutton West",5
+"Lostock Hall",10
+"Lowerhouse",30
+"Middleforth",5
+"Moss Side",10
+"New Longton and Hutton East",5
+"Samlesbury and Walton",5
+"Seven Stars",15
+"Tardy Gate",5
+"Walton-le-Dale",5
+"Whitefield",5
+"Ashurst",20
+"Aughton and Downholland",0
+"Aughton Park",5
+"Bickerstaffe",0
+"Birch Green",30
+"Burscough East",5
+"Burscough West",10
+"Derby",15
+"Digmoor",50
+"Halsall",5
+"Hesketh-with-Becconsall",5
+"Knowsley",5
+"Moorside",30
+"Newburgh",0
+"North Meols",10
+"Parbold",5
+"Rufford",5
+"Scarisbrick",10
+"Scott",15
+"Skelmersdale North",25
+"Skelmersdale South",20
+"Tanhouse",35
+"Tarleton",10
+"Up Holland",20
+"Wrightington",5
+"Bourne",20
+"Breck",0
+"Brock",0
+"Cabus",5
+"Calder",0
+"Carleton",5
+"Catterall",0
+"Cleveleys Park",10
+"Garstang",0
+"Great Eccleston",5
+"Hambleton and Stalmine-with-Staynall",5
+"Hardhorn",5
+"High Cross",10
+"Jubilee",10
+"Mount",20
+"Norcross",10
+"Park",20
+"Pharos",60
+"Pilling",0
+"Preesall",15
+"Rossall",30
+"Staina",5
+"Tithebarn",10
+"Victoria",5
+"Warren",20
+"Wyresdale",0
+"Cherryfield",40
+"Halewood North",15
+"Halewood South",35
+"Halewood West",40
+"Kirkby Central",50
+"Longview",100
+"Northwood",80
+"Page Moss",70
+"Park",55
+"Prescot East",50
+"Prescot West",20
+"Roby",10
+"Shevington",30
+"St Bartholomews",30
+"St Gabriels",50
+"St Michaels",55
+"Stockbridge",50
+"Swanside",15
+"Whiston North",25
+"Whiston South",40
+"Whitefield",35
+"Allerton and Hunts Cross",35
+"Anfield",115
+"Belle Vale",90
+"Central",35
+"Childwall",25
+"Church",20
+"Clubmoor",95
+"County",145
+"Cressington",35
+"Croxteth",65
+"Everton",170
+"Fazakerley",100
+"Greenbank",60
+"Kensington and Fairfield",175
+"Kirkdale",135
+"Knotty Ash",70
+"Mossley Hill",20
+"Norris Green",90
+"Old Swan",90
+"Picton",165
+"Princes Park",200
+"Riverside",105
+"Speke-Garston",165
+"St Michael's",40
+"Tuebrook and Stoneycroft",140
+"Warbreck",90
+"Wavertree",50
+"West Derby",30
+"Woolton",25
+"Yew Tree",85
+"Ainsdale",35
+"Birkdale",25
+"Blundellsands",20
+"Cambridge",30
+"Church",75
+"Derby",115
+"Duke's",50
+"Ford",90
+"Harington",5
+"Kew",50
+"Linacre",185
+"Litherland",85
+"Manor",45
+"Meols",25
+"Molyneux",30
+"Netherton and Orrell",70
+"Norwood",60
+"Park",15
+"Ravenmeols",20
+"St Oswald",75
+"Sudell",25
+"Victoria",35
+"Billinge and Seneley Green",25
+"Blackbrook",40
+"Bold",50
+"Earlestown",60
+"Eccleston",25
+"Haydock",40
+"Moss Bank",50
+"Newton",50
+"Parr",115
+"Rainford",15
+"Rainhill",25
+"Sutton",55
+"Thatto Heath",85
+"Town Centre",120
+"West Park",55
+"Windle",50
+"Bebington",40
+"Bidston and St James",125
+"Birkenhead and Tranmere",275
+"Bromborough",65
+"Clatterbridge",20
+"Claughton",70
+"Eastham",35
+"Greasby, Frankby and Irby",25
+"Heswall",10
+"Hoylake and Meols",20
+"Leasowe and Moreton East",100
+"Liscard",105
+"Moreton West and Saughall Massie",50
+"New Brighton",65
+"Oxton",50
+"Pensby and Thingwall",25
+"Prenton",55
+"Rock Ferry",120
+"Seacombe",185
+"Upton",60
+"Wallasey",30
+"West Kirby and Thurstaston",20
+"Beverley Rural",20
+"Bridlington Central and Old Town",45
+"Bridlington North",25
+"Bridlington South",125
+"Cottingham North",10
+"Cottingham South",20
+"Dale",20
+"Driffield and Rural",40
+"East Wolds and Coastal",15
+"Goole North",40
+"Goole South",75
+"Hessle",45
+"Howden",15
+"Howdenshire",15
+"Mid Holderness",25
+"Minster and Woodmansey",50
+"North Holderness",30
+"Pocklington Provincial",15
+"Snaith, Airmyn, Rawcliffe and Marshland",25
+"South East Holderness",65
+"South Hunsley",15
+"South West Holderness",30
+"St Mary's",25
+"Tranby",35
+"Willerby and Kirk Ella",20
+"Wolds Weighton",15
+"Avenue",75
+"Beverley",15
+"Boothferry",35
+"Bransholme East",105
+"Bransholme West",95
+"Bricknell",30
+"Derringham",40
+"Drypool",80
+"Holderness",40
+"Ings",45
+"Kings Park",30
+"Longhill",100
+"Marfleet",130
+"Myton",185
+"Newington",90
+"Newland",90
+"Orchard Park and Greenwood",155
+"Pickering",80
+"Southcoates East",70
+"Southcoates West",45
+"St Andrew's",95
+"Sutton",60
+"University",60
+"Croft Baker",65
+"East Marsh",165
+"Freshney",40
+"Haverstoe",20
+"Heneage",100
+"Humberston and New Waltham",15
+"Immingham",55
+"Park",50
+"Scartho",30
+"Sidney Sussex",100
+"South",130
+"Waltham",5
+"West Marsh",90
+"Wolds",10
+"Yarborough",50
+"Ashby",70
+"Axholme Central",20
+"Axholme North",25
+"Axholme South",20
+"Barton",55
+"Bottesford",20
+"Brigg and Wolds",30
+"Broughton and Appleby",20
+"Brumby",110
+"Burringham and Gunness",10
+"Burton upon Stather and Winterton",50
+"Crosby and Park",85
+"Ferry",20
+"Frodingham",75
+"Kingsway with Lincoln Gardens",60
+"Ridge",25
+"Town",65
+"Acomb",15
+"Bishopthorpe",5
+"Clifton",30
+"Derwent",5
+"Dringhouses and Woodthorpe",20
+"Fishergate",10
+"Fulford",0
+"Guildhall",25
+"Haxby and Wigginton",5
+"Heslington",0
+"Heworth",40
+"Heworth Without",5
+"Holgate",35
+"Hull Road",20
+"Huntington and New Earswick",15
+"Micklegate",15
+"Osbaldwick",0
+"Rural West York",10
+"Skelton, Rawcliffe and Clifton Without",20
+"Strensall",0
+"Westfield",45
+"Wheldrake",5
+"Aire Valley with Lothersdale",0
+"Barden Fell",0
+"Bentham",5
+"Cowling",0
+"Embsay-with-Eastby",0
+"Gargrave and Malhamdale",0
+"Glusburn",5
+"Grassington",0
+"Hellifield and Long Preston",0
+"Ingleton and Clapham",0
+"Penyghent",0
+"Settle and Ribblebanks",5
+"Skipton East",10
+"Skipton North",0
+"Skipton South",15
+"Skipton West",10
+"Sutton-in-Craven",10
+"Upper Wharfedale",0
+"West Craven",0
+"Bedale",10
+"Brompton",5
+"Broughton and Greenhow",0
+"Cowtons",0
+"Crakehall",0
+"Easingwold",0
+"Great Ayton",15
+"Helperby",0
+"Huby and Sutton",5
+"Leeming",0
+"Leeming Bar",0
+"Morton-on-Swale",0
+"Northallerton Broomfield",5
+"Northallerton Central",20
+"Northallerton North",5
+"Osmotherley",0
+"Romanby",5
+"Rudby",0
+"Shipton",0
+"Sowerby",5
+"Stillington",0
+"Stokesley",15
+"Swainby",0
+"Tanfield",0
+"Thirsk",15
+"Thorntons",0
+"Tollerton",0
+"Topcliffe",5
+"White Horse",0
+"Whitestonecliffe",0
+"Bilton",5
+"Bishop Monkton",5
+"Boroughbridge",0
+"Claro",0
+"Granby",20
+"Harlow Moor",5
+"High Harrogate",15
+"Hookstone",5
+"Killinghall",0
+"Kirkby Malzeard",0
+"Knaresborough East",5
+"Knaresborough King James",5
+"Knaresborough Scriven Park",10
+"Low Harrogate",15
+"Lower Nidderdale",0
+"Marston Moor",5
+"Mashamshire",0
+"New Park",15
+"Newby",5
+"Nidd Valley",5
+"Ouseburn",5
+"Pannal",5
+"Pateley Bridge",5
+"Ribston",0
+"Ripon Minster",15
+"Ripon Moorside",5
+"Ripon Spa",5
+"Rossett",5
+"Saltergate",10
+"Spofforth with Lower Wharfedale",0
+"Starbeck",20
+"Stray",5
+"Washburn",0
+"Wathvale",0
+"Woodfield",10
+"Addlebrough",0
+"Barton",0
+"Bolton Castle",0
+"Brompton-on-Swale and Scorton",5
+"Catterick",5
+"Colburn",35
+"Croft",0
+"Gilling West",5
+"Hawes and High Abbotside",0
+"Hipswell",10
+"Hornby Castle",0
+"Leyburn",0
+"Lower Wensleydale",0
+"Melsonby",0
+"Middleham",0
+"Middleton Tyas",0
+"Newsham with Eppleby",0
+"Penhill",0
+"Reeth and Arkengarthdale",0
+"Richmond Central",10
+"Richmond East",5
+"Richmond West",15
+"Scotton",5
+"Swaledale",0
+"Amotherby",0
+"Ampleforth",0
+"Cropton",0
+"Dales",0
+"Derwent",5
+"Helmsley",0
+"Hovingham",0
+"Kirkbymoorside",0
+"Malton",15
+"Norton East",15
+"Norton West",10
+"Pickering East",5
+"Pickering West",5
+"Rillington",5
+"Ryedale South West",0
+"Sherburn",5
+"Sheriff Hutton",0
+"Sinnington",5
+"Thornton Dale",5
+"Wolds",0
+"Castle",45
+"Cayton",5
+"Central",20
+"Danby",5
+"Derwent Valley",5
+"Eastfield",30
+"Esk Valley",5
+"Falsgrave Park",20
+"Filey",10
+"Fylingdales",0
+"Hertford",5
+"Lindhead",5
+"Mayfield",10
+"Mulgrave",5
+"Newby",10
+"North Bay",15
+"Northstead",10
+"Ramshill",15
+"Scalby, Hackness and Staintondale",5
+"Seamer",5
+"Stepney",10
+"Streonshalh",10
+"Weaponness",5
+"Whitby West Cliff",10
+"Woodlands",15
+"Appleton Roebuck",0
+"Barlby",10
+"Brayton",10
+"Camblesforth",10
+"Cawood with Wistow",5
+"Eggborough",5
+"Fairburn with Brotherton",10
+"Hambleton",5
+"Hemingbrough",10
+"Monk Fryston and South Milford",0
+"North Duffield",0
+"Riccall with Escrick",0
+"Saxton and Ulleskelf",0
+"Selby North",35
+"Selby South",35
+"Selby West",10
+"Sherburn in Elmet",10
+"Tadcaster East",5
+"Tadcaster West",5
+"Whitley",5
+"Central",55
+"Cudworth",65
+"Darfield",50
+"Darton East",35
+"Darton West",25
+"Dearne North",105
+"Dearne South",75
+"Dodworth",25
+"Hoyland Milton",50
+"Kingstone",80
+"Monk Bretton",55
+"North East",55
+"Old Town",55
+"Penistone East",20
+"Penistone West",25
+"Rockingham",35
+"Royston",55
+"St Helens",55
+"Stairfoot",75
+"Wombwell",55
+"Worsbrough",55
+"Adwick",120
+"Armthorpe",50
+"Askern Spa",45
+"Balby",80
+"Bentley",105
+"Bessacarr and Cantley",35
+"Central",195
+"Conisbrough and Denaby",70
+"Edenthorpe, Kirk Sandall and Barnby Dun",30
+"Edlington and Warmsworth",70
+"Finningley",40
+"Great North Road",45
+"Hatfield",35
+"Mexborough",135
+"Rossington",45
+"Sprotbrough",20
+"Stainforth and Moorends",80
+"Thorne",65
+"Torne Valley",35
+"Town Moor",70
+"Wheatley",95
+"Anston and Woodsetts",25
+"Boston Castle",100
+"Brinsworth and Catcliffe",40
+"Dinnington",65
+"Hellaby",30
+"Holderness",35
+"Hoober",60
+"Keppel",35
+"Maltby",75
+"Rawmarsh",85
+"Rother Vale",60
+"Rotherham East",115
+"Rotherham West",75
+"Silverwood",45
+"Sitwell",10
+"Swinton",50
+"Valley",95
+"Wales",25
+"Wath",60
+"Wickersley",35
+"Wingfield",95
+"Arbourthorne",140
+"Beauchief and Greenhill",105
+"Beighton",40
+"Birley",55
+"Broomhill",35
+"Burngreave",175
+"Central",130
+"Crookes",15
+"Darnall",115
+"Dore and Totley",20
+"East Ecclesfield",35
+"Ecclesall",20
+"Firth Park",155
+"Fulwood",5
+"Gleadless Valley",115
+"Graves Park",30
+"Hillsborough",65
+"Manor Castle",145
+"Mosborough",45
+"Nether Edge",30
+"Richmond",75
+"Shiregreen and Brightside",105
+"Southey",130
+"Stannington",45
+"Stocksbridge and Upper Don",45
+"Walkley",60
+"West Ecclesfield",40
+"Woodhouse",85
+"Baildon",25
+"Bingley",40
+"Bingley Rural",45
+"Bolton and Undercliffe",125
+"Bowling and Barkerend",200
+"Bradford Moor",190
+"City",265
+"Clayton and Fairweather Green",105
+"Craven",20
+"Eccleshill",170
+"Great Horton",170
+"Heaton",145
+"Idle and Thackley",45
+"Ilkley",10
+"Keighley Central",135
+"Keighley East",85
+"Keighley West",95
+"Little Horton",265
+"Manningham",235
+"Queensbury",40
+"Royds",125
+"Shipley",60
+"Thornton and Allerton",115
+"Toller",145
+"Tong",195
+"Wharfedale",15
+"Wibsey",90
+"Windhill and Wrose",105
+"Worth Valley",25
+"Wyke",90
+"Brighouse",35
+"Calder",30
+"Elland",45
+"Greetland and Stainland",30
+"Hipperholme and Lightcliffe",20
+"Illingworth and Mixenden",80
+"Luddendenfoot",25
+"Northowram and Shelf",20
+"Ovenden",100
+"Park",150
+"Rastrick",50
+"Ryburn",30
+"Skircoat",40
+"Sowerby Bridge",45
+"Todmorden",60
+"Town",85
+"Warley",65
+"Almondbury",60
+"Ashbrow",120
+"Batley East",100
+"Batley West",130
+"Birstall and Birkenshaw",50
+"Cleckheaton",80
+"Colne Valley",45
+"Crosland Moor and Netherton",125
+"Dalton",95
+"Denby Dale",25
+"Dewsbury East",130
+"Dewsbury South",115
+"Dewsbury West",145
+"Golcar",70
+"Greenhead",120
+"Heckmondwike",85
+"Holme Valley North",40
+"Holme Valley South",40
+"Kirkburton",30
+"Lindley",70
+"Liversedge and Gomersal",95
+"Mirfield",60
+"Newsome",165
+"Adel and Wharfedale",35
+"Alwoodley",50
+"Ardsley and Robin Hood",30
+"Armley",225
+"Beeston and Holbeck",125
+"Bramley and Stanningley",120
+"Burmantofts and Richmond Hill",250
+"Calverley and Farsley",55
+"Chapel Allerton",140
+"City and Hunslet",180
+"Cross Gates and Whinmoor",100
+"Farnley and Wortley",120
+"Garforth and Swillington",40
+"Gipton and Harehills",305
+"Guiseley and Rawdon",35
+"Harewood",10
+"Headingley",55
+"Horsforth",45
+"Hyde Park and Woodhouse",145
+"Killingbeck and Seacroft",220
+"Kippax and Methley",50
+"Kirkstall",95
+"Middleton Park",210
+"Moortown",35
+"Morley North",55
+"Morley South",60
+"Otley and Yeadon",50
+"Pudsey",85
+"Rothwell",45
+"Roundhay",60
+"Temple Newsam",90
+"Weetwood",45
+"Wetherby",15
+"Ackworth, North Elmsall and Upton",30
+"Airedale and Ferry Fryston",90
+"Altofts and Whitwood",70
+"Castleford Central and Glasshoughton",75
+"Crofton, Ryhill and Walton",45
+"Featherstone",65
+"Hemsworth",75
+"Horbury and South Ossett",35
+"Knottingley",85
+"Normanton",55
+"Ossett",50
+"Pontefract North",75
+"Pontefract South",70
+"South Elmsall and South Kirkby",90
+"Stanley and Outwood East",25
+"Wakefield East",90
+"Wakefield North",65
+"Wakefield Rural",30
+"Wakefield South",55
+"Wakefield West",95
+"Wrenthorpe and Outwood West",35
+"Abbey",100
+"Allestree",10
+"Alvaston",100
+"Arboretum",160
+"Blagreaves",35
+"Boulton",75
+"Chaddesden",55
+"Chellaston",30
+"Darley",65
+"Derwent",95
+"Littleover",15
+"Mackworth",75
+"Mickleover",20
+"Normanton",105
+"Oakwood",35
+"Sinfin",105
+"Spondon",30
+"Abbey",75
+"Aylestone",45
+"Beaumont Leys",115
+"Belgrave",35
+"Braunstone Park and Rowley Fields",125
+"Castle",110
+"Charnwood",50
+"Coleman",60
+"Evington",35
+"Eyres Monsell",75
+"Fosse",55
+"Freemen",75
+"Humberstone and Hamilton",75
+"Knighton",35
+"Latimer",30
+"New Parks",125
+"Rushey Mead",35
+"Spinney Hills",100
+"Stoneygate",90
+"Thurncourt",35
+"Westcotes",65
+"Western Park",40
+"Arboretum",120
+"Aspley",200
+"Basford",95
+"Berridge",180
+"Bestwood",140
+"Bilborough",130
+"Bridge",90
+"Bulwell",175
+"Bulwell Forest",55
+"Clifton North",55
+"Clifton South",70
+"Dales",125
+"Dunkirk and Lenton",15
+"Leen Valley",60
+"Mapperley",75
+"Radford and Park",90
+"Sherwood",95
+"St Ann's",150
+"Wollaton East and Lenton Abbey",15
+"Wollaton West",25
+"Braunston and Belton",0
+"Cottesmore",5
+"Exton",0
+"Greetham",0
+"Ketton",0
+"Langham",0
+"Lyddington",0
+"Martinsthorpe",0
+"Normanton",5
+"Oakham North East",0
+"Oakham North West",5
+"Oakham South East",5
+"Oakham South West",0
+"Ryhall and Casterton",10
+"Uppingham",5
+"Whissendine",0
+"Alfreton",40
+"Alport",0
+"Belper Central",15
+"Belper East",10
+"Belper North",5
+"Belper South",15
+"Codnor and Waingroves",15
+"Crich",5
+"Duffield",5
+"Heage and Ambergate",15
+"Heanor and Loscoe",15
+"Heanor East",20
+"Heanor West",35
+"Ironville and Riddings",35
+"Kilburn, Denby and Holbrook",15
+"Langley Mill and Aldercar",40
+"Ripley",35
+"Ripley and Marehay",10
+"Shipley Park, Horsley and Horsley Woodhouse",10
+"Somercotes",45
+"South West Parishes",5
+"Swanwick",5
+"Wingfield",0
+"Barlborough",5
+"Blackwell",15
+"Bolsover North West",15
+"Bolsover South",5
+"Bolsover West",15
+"Clowne North",25
+"Clowne South",15
+"Elmton-with-Creswell",45
+"Pinxton",20
+"Pleasley",10
+"Scarcliffe",10
+"Shirebrook East",5
+"Shirebrook Langwith",5
+"Shirebrook North West",10
+"Shirebrook South East",5
+"Shirebrook South West",5
+"South Normanton East",20
+"South Normanton West",20
+"Tibshelf",15
+"Whitwell",10
+"Barrow Hill and New Whittington",25
+"Brimington North",15
+"Brimington South",20
+"Brockwell",20
+"Dunston",40
+"Hasland",15
+"Hollingwood and Inkersall",15
+"Holmebrook",20
+"Linacre",10
+"Loundsley Green",25
+"Lowgates and Woodthorpe",25
+"Middlecroft and Poolsbrook",40
+"Moor",25
+"Old Whittington",25
+"Rother",65
+"St Helen's",35
+"St Leonard's",30
+"Walton",5
+"West",5
+"Ashbourne North",5
+"Ashbourne South",10
+"Bakewell",0
+"Bradwell",0
+"Brailsford",0
+"Calver",5
+"Carsington Water",0
+"Chatsworth",0
+"Clifton and Bradley",0
+"Darley Dale",10
+"Dovedale and Parwich",0
+"Doveridge and Sudbury",5
+"Hartington and Taddington",0
+"Hathersage and Eyam",5
+"Hulland",0
+"Lathkill and Bradford",0
+"Litton and Longstone",0
+"Masson",5
+"Matlock All Saints",15
+"Matlock St Giles",20
+"Norbury",0
+"Stanton",0
+"Tideswell",0
+"Winster and South Darley",0
+"Wirksworth",15
+"Abbotsford",15
+"Breaston",5
+"Cotmanhay",35
+"Derby Road East",35
+"Derby Road West",30
+"Draycott",5
+"Hallam Fields",20
+"Ilkeston Central",40
+"Ilkeston North",35
+"Kirk Hallam",30
+"Little Eaton and Breadsall",5
+"Little Hallam",10
+"Long Eaton Central",25
+"Nottingham Road",35
+"Ockbrook And Borrowash",20
+"Old Park",20
+"Sandiacre North",30
+"Sandiacre South",10
+"Sawley",30
+"Stanley",10
+"West Hallam and Dale Abbey",15
+"Wilsthorpe",20
+"Barms",10
+"Blackbrook",10
+"Burbage",0
+"Buxton Central",15
+"Chapel East",0
+"Chapel West",5
+"Corbar",5
+"Cote Heath",5
+"Dinting",0
+"Gamesley",20
+"Hadfield North",15
+"Hadfield South",15
+"Hayfield",0
+"Hope Valley",0
+"Howard Town",15
+"Limestone Peak",5
+"New Mills East",5
+"New Mills West",5
+"Old Glossop",15
+"Padfield",5
+"Sett",0
+"Simmondley",5
+"St John's",5
+"Stone Bench",20
+"Temple",0
+"Tintwistle",5
+"Whaley Bridge",10
+"Whitfield",5
+"Ashover",0
+"Barlow and Holmesfield",0
+"Brampton and Walton",0
+"Clay Cross North",35
+"Clay Cross South",20
+"Coal Aston",5
+"Dronfield North",5
+"Dronfield South",5
+"Dronfield Woodhouse",0
+"Eckington North",10
+"Eckington South",10
+"Gosforth Valley",5
+"Grassmoor",20
+"Holmewood and Heath",15
+"Killamarsh East",10
+"Killamarsh West",10
+"North Wingfield Central",20
+"Pilsley and Morton",15
+"Renishaw",10
+"Ridgeway and Marsh Lane",0
+"Shirland",20
+"Sutton",10
+"Tupton",20
+"Unstone",5
+"Wingerworth",5
+"Aston",10
+"Church Gresley",20
+"Etwall",5
+"Hatton",5
+"Hilton",15
+"Linton",15
+"Melbourne",5
+"Midway",25
+"Newhall and Stanton",40
+"Repton",5
+"Seales",0
+"Stenson",10
+"Swadlincote",20
+"Willington and Findern",5
+"Woodville",30
+"Blaby South",10
+"Cosby with South Whetstone",5
+"Countesthorpe",10
+"Croft Hill",5
+"Ellis",10
+"Enderby and St John's",10
+"Fairestone",10
+"Forest",10
+"Millfield",5
+"Muxloe",5
+"Narborough and Littlethorpe",10
+"Normanton",5
+"North Whetstone",10
+"Pastures",5
+"Ravenhurst and Fosse",20
+"Saxondale",15
+"Stanton and Flamville",20
+"Winstanley",15
+"Anstey",10
+"Barrow and Sileby West",10
+"Birstall Wanlip",10
+"Birstall Watermead",15
+"East Goscote",0
+"Forest Bradgate",5
+"Loughborough Ashby",10
+"Loughborough Dishley and Hathern",20
+"Loughborough Garendon",10
+"Loughborough Hastings",50
+"Loughborough Lemyngton",30
+"Loughborough Nanpantan",0
+"Loughborough Outwoods",10
+"Loughborough Shelthorpe",40
+"Loughborough Southfields",20
+"Loughborough Storer",25
+"Mountsorrel",15
+"Queniborough",5
+"Quorn and Mountsorrel Castle",10
+"Rothley and Thurcaston",5
+"Shepshed East",10
+"Shepshed West",15
+"Sileby",15
+"Syston East",20
+"Syston West",15
+"The Wolds",0
+"Thurmaston",20
+"Wreake Villages",0
+"Billesdon",0
+"Bosworth",5
+"Broughton Astley-Astley",5
+"Broughton Astley-Broughton",5
+"Broughton Astley-Primethorpe",5
+"Broughton Astley-Sutton",0
+"Dunton",0
+"Fleckney",10
+"Glen",5
+"Kibworth",5
+"Lubenham",5
+"Lutterworth Brookfield",0
+"Lutterworth Orchard",5
+"Lutterworth Springs",5
+"Lutterworth Swift",5
+"Market Harborough-Great Bowden and Arden",15
+"Market Harborough-Little Bowden",5
+"Market Harborough-Logan",5
+"Market Harborough-Welland",20
+"Misterton",0
+"Nevill",0
+"Peatling",0
+"Thurnby and Houghton",10
+"Tilton",5
+"Ullesthorpe",5
+"Ambien",5
+"Barlestone, Nailstone and Osbaston",5
+"Barwell",35
+"Burbage Sketchley and Stretton",15
+"Burbage St Catherines and Lash Hill",20
+"Cadeby, Carlton and Market Bosworth with Shackerstone",5
+"Earl Shilton",55
+"Groby",10
+"Hinckley Castle",25
+"Hinckley Clarendon",30
+"Hinckley De Montfort",20
+"Hinckley Trinity",20
+"Markfield, Stanton and Fieldhead",5
+"Newbold Verdon with Desford and Peckleton",15
+"Ratby, Bagworth and Thornton",5
+"Twycross and Witherley with Sheepy",0
+"Asfordby",10
+"Bottesford",5
+"Croxton Kerrial",5
+"Frisby-on-the-Wreake",0
+"Gaddesby",0
+"Long Clawson and Stathern",5
+"Melton Craven",15
+"Melton Dorian",5
+"Melton Egerton",30
+"Melton Newport",15
+"Melton Sysonby",15
+"Melton Warwick",5
+"Old Dalby",0
+"Somerby",5
+"Waltham-on-the-Wolds",0
+"Wymondham",0
+"Appleby",0
+"Ashby Castle",0
+"Ashby Holywell",10
+"Ashby Ivanhoe",10
+"Bardon",5
+"Breedon",5
+"Castle Donington",15
+"Coalville",35
+"Greenhill",35
+"Hugglescote",5
+"Ibstock and Heather",10
+"Kegworth and Whatton",5
+"Measham",15
+"Moira",15
+"Oakthorpe and Donisthorpe",5
+"Ravenstone and Packington",0
+"Snibston",15
+"Thringstone",10
+"Valley",5
+"Whitwick",10
+"Oadby Brocks Hill",5
+"Oadby Grange",10
+"Oadby St Peter's",5
+"Oadby Uplands",5
+"Oadby Woodlands",5
+"South Wigston",20
+"Wigston All Saints",15
+"Wigston Fields",15
+"Wigston Meadowcourt",5
+"Wigston St Wolstan's",5
+"Central",15
+"Coastal",10
+"Fenside",25
+"Fishtoft",15
+"Five Village",10
+"Frampton and Holme",5
+"Kirton",25
+"North",5
+"Old Leake and Wrangle",10
+"Pilgrim",10
+"Skirbeck",30
+"South",10
+"Staniland North",5
+"Staniland South",20
+"Swineshead and Holland Fen",20
+"West",5
+"Witham",30
+"Wyberton",15
+"Alford",25
+"Binbrook",5
+"Burgh le Marsh",5
+"Chapel St Leonards",10
+"Coningsby and Tattershall",10
+"Croft",5
+"Frithville",10
+"Grimoldby",5
+"Halton Holegate",5
+"Holton le Clay",5
+"Horncastle",30
+"Hundleby",5
+"Ingoldmells",10
+"Legbourne",5
+"Ludford",10
+"Mablethorpe Central",10
+"Mablethorpe East",10
+"Mablethorpe North",15
+"Mareham le Fen",0
+"Marshchapel",10
+"North Holme",10
+"North Somercotes",5
+"North Thoresby",0
+"Priory",10
+"Roughton",5
+"Scarbrough",50
+"Seacroft",15
+"Sibsey",5
+"Skidbrooke with Saltfleet Haven",5
+"Spilsby",10
+"St Clement's",25
+"St James'",10
+"St Margaret's",5
+"St Mary's",0
+"St Michael's",5
+"Stickney",5
+"Sutton on Sea North",5
+"Sutton on Sea South",5
+"Tetford",5
+"Tetney",0
+"Trinity",20
+"Trusthorpe and Mablethorpe South",10
+"Wainfleet and Friskney",15
+"Willoughby with Sloothby",5
+"Winthorpe",25
+"Withern with Stain",5
+"Woodhall Spa",0
+"Wragby",10
+"Abbey",85
+"Birchwood",70
+"Boultham",30
+"Bracebridge",20
+"Carholme",55
+"Castle",35
+"Glebe",40
+"Hartsholme",15
+"Minster",40
+"Moorland",50
+"Park",90
+"Ashby de la Launde and Cranwell",5
+"Bassingham and Brant Broughton",5
+"Billinghay, Martin and North Kyme",20
+"Bracebridge Heath and Waddington East",15
+"Branston",5
+"Cliff Villages",5
+"Eagle, Swinderby and Witham St Hughs",10
+"Heckington Rural",15
+"Heighington and Washingborough",15
+"Kirkby la Thorpe and South Kyme",5
+"Leasingham and Rauceby",5
+"Metheringham",15
+"North Hykeham Forum",5
+"North Hykeham Memorial",5
+"North Hykeham Mill",15
+"North Hykeham Moor",10
+"North Hykeham Witham",10
+"Osbournby",5
+"Ruskington",20
+"Skellingthorpe",5
+"Sleaford Castle",10
+"Sleaford Holdingham",15
+"Sleaford Navigation",15
+"Sleaford Quarrington and Mareham",20
+"Sleaford Westholme",20
+"Waddington West",0
+"Crowland and Deeping St Nicholas",20
+"Donington, Quadring and Gosberton",25
+"Fleet",5
+"Gedney",5
+"Holbeach Hurn",5
+"Holbeach Town",30
+"Long Sutton",15
+"Moulton, Weston and Cowbit",10
+"Pinchbeck and Surfleet",20
+"Spalding Castle",10
+"Spalding Monks House",5
+"Spalding St John's",20
+"Spalding St Mary's",10
+"Spalding St Paul's",20
+"Spalding Wygate",15
+"Sutton Bridge",15
+"The Saints",5
+"Whaplode and Holbeach St John's",5
+"All Saints",25
+"Aveland",5
+"Barrowby",5
+"Belmont",15
+"Bourne East",20
+"Bourne West",20
+"Deeping St James",20
+"Earlesfield",70
+"Ermine",0
+"Forest",5
+"Glen Eden",5
+"Grantham St John's",40
+"Green Hill",10
+"Greyfriars",20
+"Harrowby",40
+"Heath",5
+"Hillsides",5
+"Isaac Newton",5
+"Lincrest",5
+"Loveden",5
+"Market and West Deeping",15
+"Morkery",5
+"Peascliffe",5
+"Ringstone",5
+"Saxonwell",5
+"St Anne's",30
+"St George's",10
+"St Mary's",10
+"St Wulfram's",5
+"Stamford St John's",5
+"Thurlby",5
+"Toller",0
+"Truesdale",5
+"Witham Valley",0
+"Bardney",5
+"Caistor",10
+"Cherry Willingham",10
+"Dunholme",5
+"Fiskerton",5
+"Gainsborough East",75
+"Gainsborough North",65
+"Gainsborough South-West",75
+"Hemswell",5
+"Kelsey",5
+"Lea",5
+"Market Rasen",15
+"Middle Rasen",5
+"Nettleham",10
+"Saxilby",5
+"Scampton",10
+"Scotter",5
+"Stow",10
+"Sudbrooke",0
+"Thonock",5
+"Torksey",10
+"Waddingham and Spital",5
+"Welton",10
+"Wold View",5
+"Yarborough",5
+"Beanfield",10
+"Central",10
+"Danesholme",30
+"East",35
+"Exeter",15
+"Great Oakley",0
+"Kingswood",70
+"Lodge Park",10
+"Oakley Vale",20
+"Rowlett",15
+"Rural West",0
+"Shire Lodge",15
+"Stanion and Corby Village",10
+"Tower Hill",15
+"Weldon and Gretton",10
+"Abbey North",50
+"Abbey South",15
+"Badby",5
+"Barby and Kilsby",5
+"Boughton and Pitsford",0
+"Brampton",5
+"Braunston",5
+"Brixworth",5
+"Byfield",0
+"Clipston",5
+"Crick",5
+"Drayton",15
+"Flore",5
+"Hill",45
+"Long Buckby",15
+"Moulton",5
+"Ravensthorpe",0
+"Spratton",0
+"Walgrave",5
+"Weedon",5
+"Welford",0
+"West Haddon and Guilsborough",5
+"Woodford",10
+"Yelvertoft",0
+"Barnwell",0
+"Fineshade",5
+"Higham Ferrers Chichele",10
+"Higham Ferrers Lancaster",10
+"Irthlingborough John Pyel",10
+"Irthlingborough Waterloo",5
+"King's Forest",5
+"Lower Nene",0
+"Lyveden",0
+"Oundle",10
+"Prebendal",5
+"Raunds Saxon",10
+"Raunds Windmill",5
+"Rushden Bates",10
+"Rushden Hayden",35
+"Rushden Pemberton",20
+"Rushden Sartoris",10
+"Rushden Spencer",20
+"Stanwick",0
+"Thrapston Lakes",10
+"Thrapston Market",10
+"Woodford",5
+"All Saints",35
+"Avondale Grange",40
+"Barton",10
+"Brambleside",10
+"Burton Latimer",15
+"Desborough Loatland",15
+"Desborough St Giles",15
+"Ise Lodge",10
+"Northfield",15
+"Pipers Hill",30
+"Queen Eleanor and Buccleuch",0
+"Rothwell",20
+"Slade",10
+"St Michael's and Wicksteed",40
+"St Peter's",10
+"Welland",0
+"William Knibb",45
+"Abington",40
+"Billing",20
+"Boothville",5
+"Brookside",30
+"Castle",90
+"Delapre and Briar Hill",40
+"East Hunsbury",10
+"Eastfield",30
+"Headlands",20
+"Kings Heath",30
+"Kingsley",15
+"Kingsthorpe",0
+"Nene Valley",20
+"New Duston",15
+"Obelisk",5
+"Old Duston",10
+"Park",5
+"Parklands",10
+"Phippsville",10
+"Rectory Farm",30
+"Riverside",20
+"Rushmills",10
+"Semilong",30
+"Spencer",15
+"Spring Park",5
+"St David's",30
+"St James",35
+"Sunnyside",15
+"Talavera",55
+"Trinity",15
+"Upton",15
+"West Hunsbury",5
+"Westone",5
+"Astwell",5
+"Blakesley and Cote",0
+"Blisworth and Roade",5
+"Brackley East",0
+"Brackley South",5
+"Brackley West",5
+"Brafield and Yardley",5
+"Cosgrove and Grafton",5
+"Danvers and Wardoun",0
+"Deanshanger",0
+"Grange Park",5
+"Hackleton",5
+"Harpole and Grange",0
+"Heyfords and Bugbrooke",5
+"Kings Sutton",5
+"Kingthorn",5
+"Little Brook",0
+"Middleton Cheney",5
+"Old Stratford",0
+"Salcey",0
+"Silverstone",0
+"Steane",0
+"Tove",0
+"Towcester Brook",10
+"Towcester Mill",5
+"Washington",0
+"Whittlewood",0
+"Brickhill",20
+"Castle",30
+"Croyland",25
+"Earls Barton",10
+"Finedon",15
+"Great Doddington and Wilby",0
+"Hemmingwell",35
+"Irchester",10
+"North",5
+"Queensway",35
+"Redwell East",5
+"Redwell West",5
+"South",0
+"Swanspool",30
+"West",0
+"Wollaston",0
+"Hucknall Central",30
+"Hucknall East",40
+"Hucknall North",20
+"Hucknall West",40
+"Jacksdale",15
+"Kirkby in Ashfield Central",20
+"Kirkby in Ashfield East",35
+"Kirkby in Ashfield West",30
+"Selston",30
+"Sutton in Ashfield Central",50
+"Sutton in Ashfield East",85
+"Sutton in Ashfield North",35
+"Sutton in Ashfield West",35
+"Underwood",5
+"Woodhouse",15
+"Beckingham",5
+"Blyth",0
+"Carlton",15
+"Clayworth",0
+"East Markham",5
+"East Retford East",35
+"East Retford North",20
+"East Retford South",20
+"East Retford West",30
+"Everton",5
+"Harworth",45
+"Langold",15
+"Misterton",5
+"Rampton",5
+"Ranskill",5
+"Sturton",5
+"Sutton",0
+"Tuxford and Trent",10
+"Welbeck",5
+"Worksop East",25
+"Worksop North",25
+"Worksop North East",20
+"Worksop North West",45
+"Worksop South",30
+"Worksop South East",60
+"Attenborough",0
+"Awsworth",5
+"Beeston Central",25
+"Beeston North",25
+"Beeston Rylands",15
+"Beeston West",5
+"Bramcote",5
+"Brinsley",5
+"Chilwell East",5
+"Chilwell West",25
+"Cossall and Kimberley",20
+"Eastwood North and Greasley (Beauvale)",5
+"Eastwood South",45
+"Greasley (Giltbrook and Newthorpe)",10
+"Nuthall East and Strelley",15
+"Nuthall West and Greasley (Watnall)",10
+"Stapleford North",20
+"Stapleford South East",15
+"Stapleford South West",30
+"Toton and Chilwell Meadows",5
+"Trowell",5
+"Bestwood Village",5
+"Bonington",25
+"Burton Joyce and Stoke Bardolph",0
+"Calverton",15
+"Carlton",30
+"Carlton Hill",20
+"Daybrook",25
+"Gedling",15
+"Killisick",30
+"Kingswell",15
+"Lambley",5
+"Mapperley Plains",15
+"Netherfield and Colwick",30
+"Newstead",10
+"Phoenix",15
+"Porchester",15
+"Ravenshead",5
+"St James",10
+"St Marys",25
+"Valley",20
+"Woodborough",0
+"Woodthorpe",15
+"Abbott",0
+"Berry Hill",0
+"Brick Kiln",10
+"Broomhill",25
+"Bull Farm and Pleasley Hill",15
+"Carr Bank",25
+"Eakring",10
+"Grange Farm",0
+"Holly",5
+"Hornby",5
+"Kings Walk",5
+"Kingsway",5
+"Ladybrook",20
+"Lindhurst",5
+"Ling Forest",5
+"Manor",5
+"Market Warsop",5
+"Maun Valley",10
+"Meden",10
+"Netherfield",10
+"Newgate",15
+"Newlands",10
+"Oak Tree",30
+"Oakham",5
+"Park Hall",5
+"Peafields",15
+"Penniment",10
+"Portland",40
+"Racecourse",10
+"Ransom Wood",25
+"Sandhurst",10
+"Sherwood",10
+"Warsop Carrs",10
+"Woodhouse",20
+"Woodlands",10
+"Yeoman Hill",10
+"Balderton North",10
+"Balderton West",20
+"Beacon",20
+"Blidworth",10
+"Boughton",30
+"Bridge",35
+"Castle",40
+"Caunton",5
+"Clipstone",10
+"Collingham and Meering",10
+"Devon",30
+"Edwinstowe",10
+"Farndon",15
+"Farnsfield and Bilsthorpe",10
+"Lowdham",0
+"Magnus",25
+"Muskham",0
+"Ollerton",25
+"Rainworth",20
+"Southwell East",5
+"Southwell North",5
+"Southwell West",5
+"Sutton-on-Trent",5
+"Trent",0
+"Winthorpe",5
+"Abbey",5
+"Bingham East",5
+"Bingham West",10
+"Compton Acres",10
+"Cotgrave",25
+"Cranmer",0
+"Edwalton Village",10
+"Gamston",5
+"Gotham",0
+"Keyworth North",0
+"Keyworth South",10
+"Lady Bay",15
+"Leake",15
+"Lutterell",5
+"Manvers",5
+"Melton",5
+"Musters",5
+"Nevile",0
+"Oak",0
+"Ruddington",15
+"Soar Valley",5
+"Stanford",0
+"Thoroton",0
+"Tollerton",0
+"Trent",10
+"Trent Bridge",10
+"Wiverton",5
+"Wolds",0
+"Aylestone",10
+"Backbury",5
+"Belmont",40
+"Bircher",5
+"Bringsty",0
+"Bromyard",10
+"Burghill, Holmer and Lyde",5
+"Castle",5
+"Central",15
+"Credenhill",5
+"Frome",0
+"Golden Cross with Weobley",5
+"Golden Valley North",0
+"Golden Valley South",0
+"Hagley",10
+"Hampton Court",5
+"Hollington",0
+"Hope End",5
+"Kerne Bridge",5
+"Kington Town",10
+"Ledbury",10
+"Leominster North",25
+"Leominster South",30
+"Llangarron",5
+"Mortimer",5
+"Old Gore",5
+"Pembridge and Lyonshall with Titley",5
+"Penyard",0
+"Pontrilas",5
+"Ross-on-Wye East",15
+"Ross-on-Wye West",15
+"St Martins and Hinton",50
+"St Nicholas",25
+"Stoney Street",5
+"Sutton Walls",5
+"Three Elms",20
+"Tupsley",15
+"Upton",0
+"Valletts",5
+"Wormsley Ridge",0
+"Abbey",5
+"Albrighton",20
+"Alveley and Claverley",5
+"Bagley",5
+"Battlefield",10
+"Bayston Hill, Column and Sutton",15
+"Belle Vue",10
+"Bishop's Castle",5
+"Bowbrook",10
+"Bridgnorth East and Astley Abbotts",20
+"Bridgnorth West and Tasley",20
+"Broseley",20
+"Brown Clee",5
+"Burnell",5
+"Castlefields and Ditherington",25
+"Cheswardine",5
+"Chirbury and Worthen",0
+"Church Stretton and Craven Arms",15
+"Clee",5
+"Cleobury Mortimer",10
+"Clun",0
+"Copthorne",5
+"Corvedale",5
+"Ellesmere Urban",10
+"Gobowen, Selattyn and Weston Rhyn",15
+"Harlescott",25
+"Highley",10
+"Hodnet",5
+"Llanymynech",5
+"Longden",10
+"Loton",10
+"Ludlow East",15
+"Ludlow North",5
+"Ludlow South",10
+"Market Drayton East",30
+"Market Drayton West",25
+"Meole",20
+"Monkmoor",20
+"Much Wenlock",10
+"Oswestry East",45
+"Oswestry South",20
+"Oswestry West",15
+"Porthill",5
+"Prees",10
+"Quarry and Coton Hill",15
+"Radbrook",5
+"Rea Valley",5
+"Ruyton and Baschurch",5
+"Severn Valley",5
+"Shawbury",10
+"Shifnal North",10
+"Shifnal South and Cosford",5
+"St Martin's",5
+"St Oswald",5
+"Sundorne",15
+"Tern",5
+"The Meres",10
+"Underdale",25
+"Wem",35
+"Whitchurch North",35
+"Whitchurch South",15
+"Whittington",10
+"Worfield",10
+"Abbey Hulton and Townsend",65
+"Baddeley, Milton and Norton",55
+"Bentilee and Ubberley",80
+"Birches Head and Central Forest Park",60
+"Blurton East",15
+"Blurton West and Newstead",30
+"Boothen and Oak Hill",35
+"Bradeley and Chell Heath",35
+"Broadway and Longton East",10
+"Burslem Central",45
+"Burslem Park",35
+"Dresden and Florence",25
+"Eaton Park",15
+"Etruria and Hanley",35
+"Fenton East",45
+"Fenton West and Mount Pleasant",30
+"Ford Green and Smallthorne",40
+"Goldenhill and Sandyford",25
+"Great Chell and Packmoor",45
+"Hanford and Trentham",10
+"Hanley Park and Shelton",35
+"Hartshill and Basford",30
+"Hollybush and Longton West",30
+"Joiner's Square",100
+"Lightwood North and Normacot",25
+"Little Chell and Stanfield",50
+"Meir Hay",10
+"Meir North",35
+"Meir Park",0
+"Meir South",40
+"Moorcroft",45
+"Penkhull and Stoke",25
+"Sandford Hill",45
+"Sneyd Green",10
+"Springfields and Trent Vale",30
+"Tunstall",30
+"Weston Coyney",15
+"Apley Castle",0
+"Arleston",10
+"Brookside",65
+"Church Aston and Lilleshall",5
+"College",15
+"Cuckoo Oak",45
+"Dawley Magna",40
+"Donnington",35
+"Dothill",5
+"Edgmond",0
+"Ercall",10
+"Ercall Magna",5
+"Hadley and Leegomery",55
+"Haygate",20
+"Horsehay and Lightmoor",15
+"Ironbridge Gorge",0
+"Ketley and Oakengates",45
+"Lawley and Overdale",20
+"Madeley",15
+"Malinslee",55
+"Muxton",25
+"Newport East",5
+"Newport North",5
+"Newport South",0
+"Newport West",10
+"Park",5
+"Priorslee",20
+"Shawbirch",5
+"St Georges",25
+"The Nedge",75
+"Woodside",80
+"Wrockwardine",10
+"Wrockwardine Wood and Trench",20
+"Brereton and Ravenhill",10
+"Cannock East",35
+"Cannock North",45
+"Cannock South",45
+"Cannock West",15
+"Etching Hill and The Heath",20
+"Hagley",10
+"Hawks Green",10
+"Heath Hayes East and Wimblebury",15
+"Hednesford Green Heath",20
+"Hednesford North",30
+"Hednesford South",5
+"Norton Canes",20
+"Rawnsley",15
+"Western Springs",25
+"Abbey",5
+"Anglesey",20
+"Bagots",0
+"Branston",10
+"Brizlincote",5
+"Burton",25
+"Churnet",0
+"Crown",0
+"Eton Park",30
+"Heath",10
+"Horninglow",25
+"Needwood",5
+"Rolleston on Dove",5
+"Shobnall",35
+"Stapenhill",35
+"Stretton",5
+"Town",10
+"Tutbury and Outwoods",10
+"Weaver",0
+"Winshill",30
+"Yoxall",0
+"All Saints",5
+"Alrewas and Fradley",5
+"Armitage with Handsacre",10
+"Boley Park",5
+"Boney Hay",15
+"Bourne Vale",0
+"Burntwood Central",5
+"Chadsmead",15
+"Chase Terrace",5
+"Chasetown",25
+"Colton and Mavesyn Ridware",5
+"Curborough",30
+"Fazeley",15
+"Hammerwich",5
+"Highfield",5
+"King's Bromley",5
+"Leomansley",10
+"Little Aston",0
+"Longdon",5
+"Mease and Tame",5
+"Shenstone",5
+"St John's",10
+"Stonnall",0
+"Stowe",10
+"Summerfield",10
+"Whittington",5
+"Audley and Bignall End",15
+"Bradwell",20
+"Butt Lane",25
+"Chesterton",25
+"Clayton",10
+"Cross Heath",50
+"Halmerend",5
+"Holditch",20
+"Keele,Silverdale and Parksite",15
+"Kidsgrove",20
+"Knutton and Silverdale",20
+"Loggerheads and Whitmore",5
+"Madeley",10
+"May Bank",10
+"Newchapel",5
+"Porthill",10
+"Ravenscliffe",20
+"Seabridge",5
+"Talke",10
+"Thistleberry",25
+"Town",45
+"Westlands",10
+"Wolstanton",20
+"Bilbrook",20
+"Brewood and Coven",5
+"Cheslyn Hay North and Saredon",10
+"Cheslyn Hay South",10
+"Codsall North",10
+"Codsall South",10
+"Essington",15
+"Featherstone and Shareshill",30
+"Great Wyrley Landywood",10
+"Great Wyrley Town",15
+"Himley and Swindon",5
+"Huntington and Hatherton",15
+"Kinver",10
+"Pattingham and Patshull",5
+"Penkridge North East and Acton Trussell",10
+"Penkridge South East",5
+"Penkridge West",0
+"Perton Dippons",5
+"Perton East",0
+"Perton Lakeside",10
+"Trysull and Seisdon",5
+"Wheaton Aston, Bishopswood and Lapley",5
+"Wombourne North and Lower Penn",15
+"Wombourne South East",5
+"Wombourne South West",15
+"Barlaston and Oulton",10
+"Baswich",0
+"Chartley",0
+"Church Eaton",5
+"Common",15
+"Coton",15
+"Eccleshall",5
+"Forebridge",15
+"Fulford",15
+"Gnosall and Woodseaves",10
+"Haywood and Hixon",10
+"Highfields and Western Downs",30
+"Holmcroft",20
+"Littleworth",15
+"Manor",25
+"Milford",5
+"Milwich",0
+"Penkside",15
+"Rowley",0
+"Seighford",0
+"St. Michael's",10
+"Stonefield and Christchurch",0
+"Swynnerton",5
+"Tillington",15
+"Walton",10
+"Weeping Cross",10
+"Alton",5
+"Bagnall and Stanley",0
+"Biddulph East",30
+"Biddulph Moor",0
+"Biddulph North",5
+"Biddulph South",0
+"Biddulph West",10
+"Brown Edge and Endon",5
+"Caverswall",5
+"Cellarhead",5
+"Cheadle North East",10
+"Cheadle South East",0
+"Cheadle West",10
+"Checkley",5
+"Cheddleton",5
+"Churnet",0
+"Dane",5
+"Forsbrook",15
+"Hamps Valley",0
+"Horton",0
+"Ipstones",0
+"Leek East",15
+"Leek North",15
+"Leek South",15
+"Leek West",5
+"Manifold",0
+"Werrington",5
+"Amington",50
+"Belgrave",35
+"Bolehall",25
+"Castle",20
+"Glascote",35
+"Mercian",20
+"Spital",20
+"Stonydelph",30
+"Trinity",5
+"Wilnecote",25
+"Arley and Whitacre",30
+"Atherstone Central",15
+"Atherstone North",15
+"Atherstone South and Mancetter",10
+"Baddesley and Grendon",15
+"Coleshill North",5
+"Coleshill South",5
+"Curdworth",5
+"Dordon",15
+"Fillongley",0
+"Hartshill",5
+"Hurley and Wood End",5
+"Kingsbury",5
+"Newton Regis and Warton",5
+"Polesworth East",15
+"Polesworth West",5
+"Water Orton",5
+"Abbey",65
+"Arbury",35
+"Attleborough",35
+"Bar Pool",35
+"Bede",30
+"Bulkington",5
+"Camp Hill",60
+"Exhall",30
+"Galley Common",25
+"Heath",30
+"Kingswood",35
+"Poplar",20
+"Slough",25
+"St Nicolas",15
+"Weddington",10
+"Wem Brook",60
+"Whitestone",5
+"Admirals",10
+"Avon and Swift",5
+"Benn",30
+"Bilton",5
+"Brownsover North",5
+"Brownsover South",25
+"Caldecott",15
+"Dunchurch and Knightlow",10
+"Earl Craven and Wolston",5
+"Eastlands",15
+"Fosse",5
+"Hillmorton",15
+"Lawford and King's Newnham",15
+"Leam Valley",0
+"New Bilton",25
+"Newbold",25
+"Overslade",20
+"Paddox",5
+"Ryton-on-Dunsmore",5
+"Wolvey",0
+"Alcester",10
+"Aston Cantlow",0
+"Bardon",5
+"Bidford and Salford",10
+"Brailes",0
+"Burton Dassett",0
+"Claverdon",0
+"Ettington",0
+"Fenny Compton",0
+"Harbury",5
+"Henley",5
+"Kineton",5
+"Kinwarton",0
+"Long Compton",0
+"Long Itchington",5
+"Quinton",5
+"Sambourne",0
+"Shipston",5
+"Snitterfield",0
+"Southam",5
+"Stockton and Napton",5
+"Stratford Alveston",10
+"Stratford Avenue and New Town",15
+"Stratford Guild and Hathaway",10
+"Stratford Mount Pleasant",5
+"Studley",15
+"Tanworth",5
+"Tredington",0
+"Vale of the Red Horse",0
+"Welford",0
+"Wellesbourne",10
+"Abbey",5
+"Bishop's Tachbrook",5
+"Brunswick",40
+"Budbrooke",5
+"Clarendon",20
+"Crown",25
+"Cubbington",10
+"Lapworth",0
+"Leek Wootton",5
+"Manor",15
+"Milverton",10
+"Park Hill",5
+"Radford Semele",0
+"St John's",5
+"Stoneleigh",5
+"Warwick North",10
+"Warwick South",15
+"Warwick West",10
+"Whitnash",15
+"Willes",15
+"Acocks Green",235
+"Aston",500
+"Bartley Green",255
+"Billesley",185
+"Bordesley Green",310
+"Bournville",160
+"Brandwood",195
+"Edgbaston",140
+"Erdington",180
+"Hall Green",105
+"Handsworth Wood",210
+"Harborne",95
+"Hodge Hill",245
+"Kings Norton",180
+"Kingstanding",260
+"Ladywood",225
+"Longbridge",205
+"Lozells and East Handsworth",505
+"Moseley and Kings Heath",145
+"Nechells",410
+"Northfield",165
+"Oscott",110
+"Perry Barr",170
+"Quinton",160
+"Selly Oak",130
+"Shard End",225
+"Sheldon",135
+"Soho",380
+"South Yardley",270
+"Sparkbrook",400
+"Springfield",300
+"Stechford and Yardley North",255
+"Stockland Green",305
+"Sutton Four Oaks",35
+"Sutton New Hall",55
+"Sutton Trinity",70
+"Sutton Vesey",55
+"Tyburn",215
+"Washwood Heath",395
+"Weoley",245
+"Bablake",35
+"Binley and Willenhall",110
+"Cheylesmore",50
+"Earlsdon",25
+"Foleshill",160
+"Henley",105
+"Holbrook",85
+"Longford",95
+"Lower Stoke",90
+"Radford",110
+"Sherbourne",70
+"St Michael's",180
+"Upper Stoke",65
+"Wainbody",20
+"Westwood",80
+"Whoberley",50
+"Woodlands",60
+"Wyken",70
+"Amblecote",40
+"Belle Vale",80
+"Brierley Hill",130
+"Brockmoor and Pensnett",100
+"Castle and Priory",155
+"Coseley East",85
+"Cradley and Wollescote",100
+"Gornal",70
+"Halesowen North",50
+"Halesowen South",40
+"Hayley Green and Cradley South",30
+"Kingswinford North and Wall Heath",30
+"Kingswinford South",35
+"Lye and Stourbridge North",70
+"Netherton, Woodside and St Andrews",110
+"Norton",35
+"Pedmore and Stourbridge East",30
+"Quarry Bank and Dudley Wood",75
+"Sedgley",55
+"St James's",115
+"St Thomas's",165
+"Upper Gornal and Woodsetton",70
+"Wollaston and Stourbridge Town",45
+"Wordsley",35
+"Abbey",50
+"Blackheath",65
+"Bristnall",75
+"Charlemont with Grove Vale",65
+"Cradley Heath and Old Hill",75
+"Friar Park",65
+"Great Barr with Yew Tree",70
+"Great Bridge",90
+"Greets Green and Lyng",95
+"Hateley Heath",120
+"Langley",70
+"Newton",55
+"Old Warley",55
+"Oldbury",70
+"Princes End",135
+"Rowley",75
+"Smethwick",85
+"Soho and Victoria",110
+"St Pauls",90
+"Tipton Green",115
+"Tividale",65
+"Wednesbury North",80
+"Wednesbury South",65
+"West Bromwich Central",110
+"Bickenhill",60
+"Blythe",15
+"Castle Bromwich",35
+"Chelmsley Wood",150
+"Dorridge and Hockley Heath",15
+"Elmdon",20
+"Kingshurst and Fordbridge",140
+"Knowle",5
+"Lyndon",40
+"Meriden",15
+"Olton",25
+"Shirley East",20
+"Shirley South",25
+"Shirley West",25
+"Silhill",30
+"Smith's Wood",150
+"St Alphege",15
+"Aldridge Central and South",35
+"Aldridge North and Walsall Wood",50
+"Bentley and Darlaston North",115
+"Birchills Leamore",170
+"Blakenall",160
+"Bloxwich East",95
+"Bloxwich West",90
+"Brownhills",75
+"Darlaston South",135
+"Paddock",40
+"Palfrey",110
+"Pelsall",45
+"Pheasey Park Farm",30
+"Pleck",130
+"Rushall-Shelfield",60
+"Short Heath",55
+"St Matthew's",140
+"Streetly",20
+"Willenhall North",80
+"Willenhall South",155
+"Bilston East",130
+"Bilston North",85
+"Blakenhall",85
+"Bushbury North",70
+"Bushbury South and Low Hill",165
+"East Park",150
+"Ettingshall",125
+"Fallings Park",100
+"Graiseley",85
+"Heath Town",150
+"Merry Hill",70
+"Oxley",110
+"Park",90
+"Penn",35
+"Spring Vale",70
+"St Peter's",145
+"Tettenhall Regis",50
+"Tettenhall Wightwick",35
+"Wednesfield North",70
+"Wednesfield South",70
+"Alvechurch",10
+"Beacon",10
+"Catshill",15
+"Charford",35
+"Drakes Cross and Walkers Heath",10
+"Furlongs",5
+"Hagley",0
+"Hillside",10
+"Hollywood and Majors Green",10
+"Linthurst",0
+"Marlbrook",10
+"Norton",5
+"Sidemoor",30
+"Slideslow",10
+"St Johns",10
+"Stoke Heath",5
+"Stoke Prior",5
+"Tardebigge",0
+"Uffdown",5
+"Waseley",10
+"Whitford",10
+"Woodvale",5
+"Wythall South",5
+"Alfrick and Leigh",5
+"Baldwin",0
+"Broadheath",0
+"Chase",10
+"Dyson Perrins",20
+"Hallow",0
+"Kempsey",10
+"Lindridge",0
+"Link",35
+"Longdon",0
+"Martley",0
+"Morton",0
+"Pickersleigh",35
+"Powick",5
+"Priory",10
+"Ripple",0
+"Teme Valley",5
+"Tenbury",10
+"Upton and Hanley",10
+"Wells",0
+"West",10
+"Woodbury",0
+"Abbey",30
+"Astwood Bank and Feckenham",10
+"Batchley & Brockhill",45
+"Central",40
+"Church Hill",55
+"Crabbs Cross",10
+"Greenlands",50
+"Headless Cross and Oakenshaw",20
+"Lodge Park",35
+"Matchborough",20
+"West",10
+"Winyates",30
+"Arboretum",20
+"Battenhall",10
+"Bedwardine",25
+"Cathedral",50
+"Claines",10
+"Gorse Hill",25
+"Nunnery",30
+"Rainbow Hill",35
+"St Clement",40
+"St John",40
+"St Peter's Parish",10
+"St Stephen",10
+"Warndon",35
+"Warndon Parish North",5
+"Warndon Parish South",10
+"Badsey",5
+"Bengeworth",15
+"Bowbrook",5
+"Bredon",5
+"Bretforton and Offenham",5
+"Broadway and Wickhamford",0
+"Dodderhill",5
+"Drakes Broughton",0
+"Droitwich Central",10
+"Droitwich East",15
+"Droitwich South East",10
+"Droitwich South West",15
+"Droitwich West",25
+"Eckington",0
+"Elmley Castle and Somerville",0
+"Evesham North",15
+"Evesham South",10
+"Fladbury",5
+"Great Hampton",10
+"Hartlebury",10
+"Harvington and Norton",5
+"Honeybourne and Pebworth",5
+"Inkberrow",0
+"Little Hampton",10
+"Lovett and North Claines",15
+"Norton and Whittington",5
+"Ombersley",0
+"Pershore",20
+"Pinvin",10
+"South Bredon Hill",0
+"The Littletons",0
+"Upton Snodsbury",0
+"Aggborough and Spennells",10
+"Areley Kings",20
+"Bewdley and Arley",10
+"Blakedown and Chaddesley",5
+"Broadwaters",45
+"Cookley",5
+"Franche",15
+"Greenhill",40
+"Habberley and Blakebrook",20
+"Lickhill",15
+"Mitton",15
+"Offmore and Comberton",25
+"Oldington and Foley Park",65
+"Rock",0
+"Sutton Park",25
+"Wolverley",0
+"Wribbenhall",5
+"Brickhill",25
+"Bromham and Biddenham",5
+"Castle",50
+"Cauldwell",55
+"Clapham",10
+"De Parys",20
+"Eastcotts",20
+"Elstow",15
+"Goldington",55
+"Great Barford",15
+"Harpur",80
+"Harrold",5
+"Kempston Central and East",15
+"Kempston North",25
+"Kempston Rural",10
+"Kempston South",5
+"Kempston West",30
+"Kingsbrook",40
+"Newnham",20
+"Oakley",0
+"Putnoe",15
+"Queens Park",45
+"Riseley",5
+"Sharnbrook",5
+"Wilshamstead",5
+"Wootton",10
+"Wyboston",5
+"Ampthill",20
+"Arlesey",25
+"Aspley and Woburn",5
+"Barton-le-Clay",5
+"Biggleswade North",30
+"Biggleswade South",15
+"Caddington",5
+"Cranfield and Marston Moretaine",20
+"Dunstable-Central",0
+"Dunstable-Icknield",15
+"Dunstable-Manshead",15
+"Dunstable-Northfields",25
+"Dunstable-Watling",10
+"Eaton Bray",5
+"Flitwick",15
+"Heath and Reach",5
+"Houghton Conquest and Haynes",5
+"Houghton Hall",25
+"Leighton Buzzard North",25
+"Leighton Buzzard South",20
+"Linslade",10
+"Northill",10
+"Parkside",15
+"Potton",15
+"Sandy",30
+"Shefford",15
+"Silsoe and Shillington",0
+"Stotfold and Langford",20
+"Tithe Farm",25
+"Toddington",10
+"Westoning, Flitton and Greenfield",5
+"Barnfield",15
+"Biscot",50
+"Bramingham",5
+"Challney",45
+"Crawley",25
+"Dallow",50
+"Farley",50
+"High Town",35
+"Icknield",15
+"Leagrave",40
+"Lewsey",45
+"Limbury",30
+"Northwell",30
+"Round Green",30
+"Saints",45
+"South",100
+"Stopsley",10
+"Sundon Park",15
+"Wigmore",15
+"Barnack",0
+"Bretton North",55
+"Bretton South",10
+"Central",65
+"Dogsthorpe",75
+"East",85
+"Eye and Thorney",20
+"Fletton and Woodston",60
+"Glinton and Wittering",10
+"Newborough",0
+"North",30
+"Northborough",0
+"Orton Longueville",60
+"Orton Waterville",25
+"Orton with Hampton",50
+"Park",70
+"Paston",40
+"Ravensthorpe",60
+"Stanground Central",35
+"Stanground East",15
+"Walton",25
+"Werrington North",20
+"Werrington South",10
+"West",30
+"Belfairs",20
+"Blenheim Park",30
+"Chalkwell",30
+"Eastwood Park",20
+"Kursaal",155
+"Leigh",10
+"Milton",65
+"Prittlewell",35
+"Shoeburyness",60
+"Southchurch",45
+"St Laurence",30
+"St. Luke's",35
+"Thorpe",15
+"Victoria",80
+"West Leigh",5
+"West Shoebury",30
+"Westborough",50
+"Aveley and Uplands",30
+"Belhus",55
+"Chadwell St Mary",50
+"Chafford and North Stifford",20
+"Corringham and Fobbing",5
+"East Tilbury",25
+"Grays Riverside",60
+"Grays Thurrock",30
+"Little Thurrock Blackshots",20
+"Little Thurrock Rectory",10
+"Ockendon",45
+"Orsett",5
+"South Chafford",15
+"Stanford East and Corringham Town",30
+"Stanford-le-Hope West",25
+"Stifford Clays",10
+"The Homesteads",10
+"Tilbury Riverside and Thurrock Park",55
+"Tilbury St Chads",60
+"West Thurrock and South Stifford",60
+"Abbey",25
+"Arbury",25
+"Castle",5
+"Cherry Hinton",10
+"Coleridge",25
+"East Chesterton",25
+"King's Hedges",25
+"Market",0
+"Newnham",5
+"Petersfield",15
+"Queen Edith's",10
+"Romsey",10
+"Trumpington",40
+"West Chesterton",20
+"Bottisham",0
+"Burwell",5
+"Cheveley",5
+"Downham Villages",5
+"Dullingham Villages",0
+"Ely East",5
+"Ely North",5
+"Ely South",15
+"Ely West",5
+"Fordham Villages",10
+"Haddenham",5
+"Isleham",5
+"Littleport East",10
+"Littleport West",10
+"Soham North",10
+"Soham South",10
+"Stretham",5
+"Sutton",0
+"The Swaffhams",0
+"Bassenhally",5
+"Benwick, Coates and Eastrea",10
+"Birch",5
+"Clarkson",10
+"Delph",0
+"Doddington",5
+"Elm and Christchurch",10
+"Hill",20
+"Kingsmoor",10
+"Kirkgate",5
+"Lattersey",10
+"Manea",5
+"March East",25
+"March North",35
+"March West",15
+"Medworth",15
+"Parson Drove and Wisbech St Mary",20
+"Peckover",15
+"Roman Bank",25
+"Slade Lode",10
+"St Andrews",5
+"St Marys",5
+"Staithe",20
+"The Mills",5
+"Waterlees",35
+"Wenneye",5
+"Wimblington",10
+"Alconbury and The Stukeleys",5
+"Brampton",5
+"Buckden",0
+"Earith",5
+"Ellington",5
+"Elton and Folksworth",0
+"Fenstanton",5
+"Godmanchester",10
+"Gransden and The Offords",0
+"Huntingdon East",15
+"Huntingdon North",45
+"Huntingdon West",15
+"Kimbolton and Staughton",0
+"Little Paxton",0
+"Ramsey",20
+"Sawtry",5
+"Somersham",10
+"St Ives East",5
+"St Ives South",10
+"St Ives West",0
+"St Neots Eaton Ford",10
+"St Neots Eaton Socon",10
+"St Neots Eynesbury",20
+"St Neots Priory Park",30
+"Stilton",5
+"The Hemingfords",5
+"Upwood and The Raveleys",5
+"Warboys and Bury",10
+"Yaxley and Farcet",30
+"Balsham",5
+"Bar Hill",5
+"Barton",0
+"Bassingbourn",5
+"Bourn",5
+"Caldecote",0
+"Comberton",0
+"Cottenham",10
+"Duxford",0
+"Fowlmere and Foxton",0
+"Fulbourn",10
+"Gamlingay",5
+"Girton",0
+"Hardwick",0
+"Harston and Hauxton",0
+"Haslingfield and The Eversdens",10
+"Histon and Impington",15
+"Linton",5
+"Longstanton",5
+"Melbourn",5
+"Meldreth",5
+"Milton",0
+"Orwell and Barrington",0
+"Papworth and Elsworth",10
+"Sawston",10
+"Swavesey",0
+"Teversham",0
+"The Abingtons",0
+"The Mordens",0
+"The Shelfords and Stapleford",0
+"The Wilbrahams",5
+"Waterbeach",5
+"Whittlesford",0
+"Willingham and Over",5
+"Billericay East",15
+"Billericay West",10
+"Burstead",10
+"Crouch",15
+"Fryerns",75
+"Laindon Park",55
+"Langdon Hills",15
+"Lee Chapel North",95
+"Nethermayne",45
+"Pitsea North West",65
+"Pitsea South East",60
+"St Martin's",65
+"Vange",80
+"Wickford Castledon",15
+"Wickford North",25
+"Wickford Park",15
+"Black Notley and Terling",5
+"Bocking Blackwater",10
+"Bocking North",15
+"Bocking South",15
+"Bradwell, Silver End and Rivenhall",5
+"Braintree Central",35
+"Braintree East",35
+"Braintree South",30
+"Bumpstead",5
+"Coggeshall and North Feering",0
+"Cressing and Stisted",5
+"Gosfield and Greenstead Green",0
+"Great Notley and Braintree West",5
+"Halstead St Andrew's",15
+"Halstead Trinity",10
+"Hatfield Peverel",5
+"Hedingham and Maplestead",5
+"Kelvedon",5
+"Panfield",0
+"Rayne",0
+"Stour Valley North",5
+"Stour Valley South",5
+"The Three Colnes",10
+"Three Fields",0
+"Upper Colne",5
+"Witham Chipping Hill and Central",20
+"Witham North",15
+"Witham South",35
+"Witham West",30
+"Yeldham",5
+"Brentwood North",15
+"Brentwood South",15
+"Brentwood West",20
+"Brizes and Doddinghurst",10
+"Herongate, Ingrave and West Horndon",5
+"Hutton Central",5
+"Hutton East",5
+"Hutton North",5
+"Hutton South",0
+"Ingatestone, Fryerning and Mountnessing",10
+"Pilgrims Hatch",15
+"Shenfield",5
+"South Weald",5
+"Tipps Cross",5
+"Warley",10
+"Appleton",10
+"Boyce",5
+"Canvey Island Central",25
+"Canvey Island East",10
+"Canvey Island North",15
+"Canvey Island South",25
+"Canvey Island West",5
+"Canvey Island Winter Gardens",30
+"Cedar Hall",15
+"St George's",15
+"St James",10
+"St Mary's",10
+"St Peter's",10
+"Victoria",10
+"Bicknacre and East and West Hanningfield",5
+"Boreham and The Leighs",5
+"Broomfield and The Walthams",15
+"Chelmer Village and Beaulieu Park",20
+"Chelmsford Rural West",5
+"Galleywood",10
+"Goat Hall",10
+"Great Baddow East",10
+"Great Baddow West",10
+"Little Baddow, Danbury and Sandon",5
+"Marconi",25
+"Moulsham and Central",40
+"Moulsham Lodge",10
+"Patching Hall",20
+"Rettendon and Runwell",10
+"South Hanningfield, Stock and Margaretting",0
+"South Woodham-Chetwood and Collingwood",10
+"South Woodham-Elmwood and Woodville",10
+"Springfield North",10
+"St Andrews",40
+"The Lawns",5
+"Trinity",10
+"Waterhouse Farm",25
+"Writtle",10
+"Berechurch",35
+"Birch and Winstree",5
+"Castle",40
+"Christ Church",15
+"Copford and West Stanway",5
+"Dedham and Langham",0
+"East Donyland",5
+"Fordham and Stour",5
+"Great Tey",0
+"Harbour",20
+"Highwoods",25
+"Lexden",15
+"Marks Tey",5
+"Mile End",30
+"New Town",75
+"Prettygate",20
+"Pyefleet",0
+"Shrub End",40
+"St Andrew's",60
+"St Anne's",25
+"St John's",10
+"Stanway",15
+"Tiptree",10
+"West Bergholt and Eight Ash Green",5
+"West Mersea",10
+"Wivenhoe Cross",5
+"Wivenhoe Quay",10
+"Broadley Common, Epping Upland and Nazeing",5
+"Buckhurst Hill East",10
+"Buckhurst Hill West",5
+"Chigwell Row",5
+"Chigwell Village",5
+"Chipping Ongar, Greensted and Marden Ash",0
+"Epping Hemnall",10
+"Epping Lindsey and Thornwood Common",5
+"Grange Hill",10
+"Hastingwood, Matching and Sheering Village",0
+"High Ongar, Willingale and The Rodings",0
+"Lambourne",0
+"Loughton Alderton",25
+"Loughton Broadway",25
+"Loughton Fairmead",10
+"Loughton Forest",5
+"Loughton Roding",10
+"Loughton St John's",5
+"Loughton St Mary's",10
+"Lower Nazeing",0
+"Lower Sheering",0
+"Moreton and Fyfield",5
+"North Weald Bassett",10
+"Passingford",5
+"Roydon",5
+"Shelley",10
+"Theydon Bois",5
+"Waltham Abbey High Beach",5
+"Waltham Abbey Honey Lane",15
+"Waltham Abbey North East",5
+"Waltham Abbey Paternoster",10
+"Waltham Abbey South West",10
+"Bush Fair",25
+"Church Langley",10
+"Great Parndon",15
+"Harlow Common",35
+"Little Parndon and Hare Street",45
+"Mark Hall",45
+"Netteswell",25
+"Old Harlow",15
+"Staple Tye",25
+"Sumners and Kingsmoor",20
+"Toddbrook",30
+"Althorne",5
+"Burnham-on-Crouch North",5
+"Burnham-on-Crouch South",15
+"Great Totham",5
+"Heybridge East",5
+"Heybridge West",20
+"Maldon East",15
+"Maldon North",15
+"Maldon South",5
+"Maldon West",5
+"Mayland",0
+"Purleigh",0
+"Southminster",15
+"Tillingham",5
+"Tollesbury",0
+"Tolleshunt D'Arcy",5
+"Wickham Bishops and Woodham",5
+"Ashingdon and Canewdon",5
+"Barling and Sutton",0
+"Downhall and Rawreth",10
+"Foulness and Great Wakering",25
+"Grange",5
+"Hawkwell North",5
+"Hawkwell South",10
+"Hawkwell West",5
+"Hockley Central",10
+"Hockley North",5
+"Hockley West",5
+"Hullbridge",5
+"Lodge",5
+"Rayleigh Central",5
+"Rochford",25
+"Sweyne Park",5
+"Trinity",0
+"Wheatley",5
+"Whitehouse",5
+"Alresford",5
+"Alton Park",50
+"Ardleigh and Little Bromley",5
+"Beaumont and Thorpe",0
+"Bockings Elm",35
+"Bradfield, Wrabness and Wix",0
+"Brightlingsea",15
+"Burrsville",5
+"Frinton",5
+"Golf Green",45
+"Great and Little Oakley",5
+"Great Bentley",5
+"Hamford",10
+"Harwich East",30
+"Harwich East Central",40
+"Harwich West",10
+"Harwich West Central",25
+"Haven",5
+"Holland and Kirby",10
+"Homelands",0
+"Lawford",10
+"Little Clacton and Weeley",5
+"Manningtree, Mistley, Little Bentley and Tendring",10
+"Peter Bruff",20
+"Pier",55
+"Ramsey and Parkeston",15
+"Rush Green",55
+"St Bartholomews",10
+"St James",15
+"St Johns",20
+"St Marys",40
+"St Osyth and Point Clear",20
+"St Pauls",20
+"Thorrington, Frating, Elmstead and Great Bromley",0
+"Walton",10
+"Ashdon",0
+"Barnston and High Easter",0
+"Birchanger",0
+"Broad Oak and the Hallingburys",0
+"Clavering",0
+"Elsenham and Henham",5
+"Felsted",5
+"Great Dunmow North",5
+"Great Dunmow South",10
+"Hatfield Heath",5
+"Littlebury",0
+"Newport",0
+"Saffron Walden Audley",5
+"Saffron Walden Castle",5
+"Saffron Walden Shire",5
+"Stansted North",0
+"Stansted South",5
+"Stebbing",0
+"Stort Valley",0
+"Takeley and the Canfields",5
+"Thaxted",5
+"The Chesterfords",5
+"The Eastons",5
+"The Rodings",0
+"The Sampfords",0
+"Wenden Lofts",0
+"Wimbish and Debden",0
+"Broxbourne",5
+"Bury Green",30
+"Cheshunt Central",10
+"Cheshunt North",20
+"Flamstead End",10
+"Goffs Oak",10
+"Hoddesdon North",5
+"Hoddesdon Town",20
+"Rosedale",10
+"Rye Park",15
+"Theobalds",30
+"Waltham Cross",40
+"Wormley & Turnford",20
+"Adeyfield East",20
+"Adeyfield West",15
+"Aldbury and Wigginton",0
+"Apsley and Corner Hall",15
+"Ashridge",0
+"Bennetts End",15
+"Berkhamsted Castle",0
+"Berkhamsted East",10
+"Berkhamsted West",5
+"Bovingdon, Flaunden and Chipperfield",5
+"Boxmoor",10
+"Chaulden and Warners End",25
+"Gadebridge",20
+"Grovehill",30
+"Hemel Hempstead Town",40
+"Highfield",20
+"Kings Langley",5
+"Leverstock Green",20
+"Nash Mills",10
+"Northchurch",0
+"Tring Central",10
+"Tring East",0
+"Tring West and Rural",5
+"Watling",10
+"Woodhall Farm",15
+"Bishop's Stortford All Saints",10
+"Bishop's Stortford Central",10
+"Bishop's Stortford Meads",10
+"Bishop's Stortford Silverleys",5
+"Bishop's Stortford South",5
+"Braughing",0
+"Buntingford",10
+"Datchworth & Aston",0
+"Great Amwell",5
+"Hertford Bengeo",10
+"Hertford Castle",30
+"Hertford Heath",5
+"Hertford Kingsmead",5
+"Hertford Rural North",0
+"Hertford Rural South",5
+"Hertford Sele",10
+"Hunsdon",5
+"Little Hadham",5
+"Much Hadham",5
+"Mundens and Cottered",5
+"Puckeridge",0
+"Sawbridgeworth",5
+"Stanstead Abbots",0
+"Thundridge & Standon",5
+"Walkern",5
+"Ware Chadwell",0
+"Ware Christchurch",5
+"Ware St Mary's",10
+"Ware Trinity",5
+"Watton-at-Stone",0
+"Aldenham East",5
+"Aldenham West",5
+"Borehamwood Brookmeadow",15
+"Borehamwood Cowley Hill",45
+"Borehamwood Hillside",25
+"Borehamwood Kenilworth",15
+"Bushey Heath",5
+"Bushey North",20
+"Bushey Park",10
+"Bushey St James",10
+"Elstree",5
+"Potters Bar Furzefield",10
+"Potters Bar Oakmere",25
+"Potters Bar Parkfield",10
+"Shenley",10
+"Arbury",0
+"Baldock East",0
+"Baldock Town",10
+"Cadwell",5
+"Chesfield",10
+"Codicote",0
+"Ermine",0
+"Hitchin Bearton",20
+"Hitchin Highbury",5
+"Hitchin Oughton",20
+"Hitchin Priory",5
+"Hitchin Walsworth",10
+"Hitchwood, Offa and Hoo",5
+"Kimpton",5
+"Knebworth",0
+"Letchworth East",20
+"Letchworth Grange",20
+"Letchworth South East",30
+"Letchworth South West",15
+"Letchworth Wilbury",15
+"Royston Heath",5
+"Royston Meridian",10
+"Royston Palace",10
+"Weston and Sandon",5
+"Ashley",15
+"Batchwood",30
+"Clarence",5
+"Colney Heath",15
+"Cunningham",15
+"Harpenden East",10
+"Harpenden North",5
+"Harpenden South",0
+"Harpenden West",5
+"London Colney",30
+"Marshalswick North",5
+"Marshalswick South",5
+"Park Street",10
+"Redbourn",5
+"Sandridge",0
+"Sopwell",15
+"St Peters",15
+"St Stephen",5
+"Verulam",5
+"Wheathampstead",15
+"Bandley Hill",20
+"Bedwell",30
+"Chells",10
+"Longmeadow",10
+"Manor",10
+"Martins Wood",30
+"Old Town",20
+"Pin Green",15
+"Roebuck",20
+"Shephall",15
+"St Nicholas",40
+"Symonds Green",10
+"Woodfield",10
+"Abbots Langley",5
+"Ashridge",15
+"Bedmond & Primrose Hill",5
+"Carpenders Park",5
+"Chorleywood East",0
+"Chorleywood West",5
+"Croxley Green",5
+"Croxley Green North",5
+"Croxley Green South",5
+"Hayling",20
+"Langleybury",10
+"Leavesden",20
+"Maple Cross & Mill End",20
+"Moor Park & Eastbury",0
+"Northwick",25
+"Oxhey Hall",10
+"Penn",10
+"Rickmansworth",0
+"Rickmansworth West",5
+"Sarratt",0
+"Callowland",25
+"Central",50
+"Holywell",25
+"Leggatts",25
+"Meriden",30
+"Nascot",5
+"Oxhey",15
+"Park",25
+"Stanborough",15
+"Tudor",5
+"Vicarage",15
+"Woodside",30
+"Brookmans Park and Little Heath",5
+"Haldens",15
+"Handside",15
+"Hatfield Central",25
+"Hatfield East",30
+"Hatfield South",15
+"Hatfield Villages",10
+"Hatfield West",25
+"Hollybush",20
+"Howlands",25
+"Northaw and Cuffley",5
+"Panshanger",10
+"Peartree",35
+"Sherrards",10
+"Welham Green",5
+"Welwyn East",5
+"Welwyn West",5
+"All Saints",5
+"Buckenham",0
+"Burgh and Haverscroft",10
+"Conifer",5
+"Dereham-Central",25
+"Dereham-Humbletoft",5
+"Dereham-Neatherd",15
+"Dereham-Toftwood",15
+"East Guiltcross",0
+"Eynsford",5
+"Haggard de Toni",5
+"Harling and Heathlands",0
+"Hermitage",0
+"Launditch",5
+"Mid Forest",5
+"Nar Valley",10
+"Necton",5
+"Queen's",10
+"Shipdham",5
+"Springvale and Scarning",10
+"Swaffham",25
+"Swanton Morley",5
+"Taverner",0
+"Templar",15
+"Thetford-Abbey",30
+"Thetford-Castle",5
+"Thetford-Guildhall",10
+"Thetford-Saxon",20
+"Two Rivers",5
+"Upper Wensum",0
+"Upper Yare",0
+"Watton",15
+"Wayland",5
+"Weeting",5
+"West Guiltcross",0
+"Wissey",5
+"Acle",5
+"Aylsham",20
+"Blofield with South Walsham",5
+"Brundall",10
+"Burlingham",5
+"Buxton",5
+"Coltishall",5
+"Drayton North",5
+"Drayton South",0
+"Eynesford",10
+"Great Witchingham",0
+"Hellesdon North West",10
+"Hellesdon South East",10
+"Hevingham",5
+"Horsford and Felthorpe",10
+"Marshes",5
+"Old Catton and Sprowston West",15
+"Plumstead",5
+"Reepham",5
+"Spixworth with St Faiths",10
+"Sprowston Central",10
+"Sprowston East",10
+"Taverham North",10
+"Taverham South",5
+"Thorpe St Andrew North West",10
+"Thorpe St Andrew South East",15
+"Wroxham",10
+"Bradwell North",10
+"Bradwell South and Hopton",10
+"Caister North",5
+"Caister South",10
+"Central and Northgate",95
+"Claydon",45
+"East Flegg",10
+"Fleggburgh",5
+"Gorleston",15
+"Lothingland",15
+"Magdalen",40
+"Nelson",100
+"Ormesby",10
+"Southtown and Cobholm",40
+"St Andrews",30
+"West Flegg",10
+"Yarmouth North",20
+"Airfield",5
+"Brancaster",0
+"Burnham",0
+"Clenchwarton",0
+"Denton",10
+"Dersingham",5
+"Docking",5
+"Downham Old Town",5
+"East Downham",5
+"Emneth with Outwell",20
+"Fairstead",40
+"Gayton",0
+"Gaywood Chase",20
+"Gaywood North Bank",10
+"Grimston",0
+"Heacham",0
+"Hilgay with Denver",5
+"Hunstanton",10
+"Mershe Lande",15
+"North Downham",10
+"North Lynn",40
+"North Wootton",0
+"Old Gaywood",10
+"Priory",5
+"Rudham",0
+"Snettisham",5
+"South and West Lynn",25
+"South Downham",0
+"South Wootton",5
+"Spellowfields",10
+"Springwood",0
+"St Lawrence",10
+"St Margarets with St Nicholas",35
+"Upwell and Delph",10
+"Valley Hill",5
+"Walpole",5
+"Walton",10
+"Watlington",10
+"West Winch",10
+"Wiggenhall",0
+"Wimbotsham with Fincham",0
+"Wissey",5
+"Astley",5
+"Briston",0
+"Chaucer",0
+"Corpusty",0
+"Cromer Town",5
+"Erpingham",5
+"Gaunt",0
+"Glaven Valley",0
+"Happisburgh",0
+"High Heath",0
+"Holt",5
+"Hoveton",5
+"Lancaster North",5
+"Lancaster South",10
+"Mundesley",10
+"North Walsham East",10
+"North Walsham North",20
+"North Walsham West",10
+"Poppyland",0
+"Priory",0
+"Roughton",5
+"Scottow",0
+"Sheringham North",5
+"Sheringham South",5
+"St Benet",0
+"Stalham and Sutton",10
+"Suffield Park",10
+"The Raynhams",10
+"The Runtons",5
+"Walsingham",0
+"Waterside",10
+"Waxham",5
+"Wensum",0
+"Worstead",0
+"Bowthorpe",60
+"Catton Grove",55
+"Crome",50
+"Eaton",15
+"Lakenham",45
+"Mancroft",125
+"Mile Cross",75
+"Nelson",15
+"Sewell",35
+"Thorpe Hamlet",35
+"Town Close",35
+"University",25
+"Wensum",75
+"Abbey",10
+"Beck Vale",5
+"Bressingham and Burston",0
+"Brooke",0
+"Bunwell",0
+"Chedgrave and Thurton",10
+"Cringleford",5
+"Cromwells",5
+"Dickleburgh",5
+"Diss",15
+"Ditchingham and Broome",5
+"Earsham",5
+"Easton",5
+"Forncett",0
+"Gillingham",5
+"Harleston",10
+"Hempnall",0
+"Hethersett",15
+"Hingham and Deopham",5
+"Loddon",5
+"Mulbarton",10
+"New Costessey",5
+"Newton Flotman",5
+"Northfields",5
+"Old Costessey",25
+"Poringland with the Framinghams",10
+"Rockland",5
+"Roydon",5
+"Rustens",15
+"Scole",5
+"Stoke Holy Cross",0
+"Stratton",15
+"Tasburgh",0
+"Thurlton",5
+"Town",5
+"Wicklewood",0
+"Alton",5
+"Berners",5
+"Boxford",5
+"Brett Vale",5
+"Brook",5
+"Bures St Mary",5
+"Chadacre",5
+"Dodnash",5
+"Glemsford and Stanstead",5
+"Great Cornard North",20
+"Great Cornard South",20
+"Hadleigh North",10
+"Hadleigh South",0
+"Holbrook",5
+"Lavenham",0
+"Leavenheath",0
+"Long Melford",5
+"Lower Brett",5
+"Mid Samford",5
+"Nayland",0
+"North Cosford",5
+"Pinewood",10
+"South Cosford",0
+"Sudbury East",15
+"Sudbury North",10
+"Sudbury South",30
+"Waldingfield",5
+"All Saints",5
+"Brandon East",15
+"Brandon West",5
+"Eriswell and The Rows",5
+"Exning",5
+"Great Heath",10
+"Iceni",5
+"Lakenheath",5
+"Manor",0
+"Market",5
+"Red Lodge",5
+"Severals",10
+"South",0
+"St Mary's",15
+"Alexandra",45
+"Bixley",10
+"Bridge",45
+"Castle Hill",10
+"Gainsborough",60
+"Gipping",45
+"Holywells",20
+"Priory Heath",45
+"Rushmere",20
+"Sprites",20
+"St John's",10
+"St Margaret's",20
+"Stoke Park",45
+"Westgate",70
+"Whitehouse",35
+"Whitton",30
+"Bacton and Old Newton",5
+"Badwell Ash",0
+"Barking and Somersham",5
+"Bramford and Blakenham",5
+"Claydon and Barham",5
+"Debenham",0
+"Elmswell and Norton",20
+"Eye",5
+"Fressingfield",5
+"Gislingham",0
+"Haughley and Wetherden",5
+"Helmingham and Coddenham",0
+"Hoxne",0
+"Mendlesham",0
+"Needham Market",5
+"Onehouse",5
+"Palgrave",10
+"Rattlesden",5
+"Rickinghall and Walsham",5
+"Ringshall",5
+"Stowmarket Central",20
+"Stowmarket North",20
+"Stowmarket South",20
+"Stowupland",5
+"Stradbroke and Laxfield",5
+"The Stonhams",5
+"Thurston and Hessett",0
+"Wetheringsett",10
+"Woolpit",5
+"Worlingworth",0
+"Abbeygate",15
+"Bardwell",10
+"Barningham",10
+"Barrow",5
+"Cavendish",0
+"Chedburgh",5
+"Clare",5
+"Eastgate",5
+"Fornham",0
+"Great Barton",0
+"Haverhill East",20
+"Haverhill North",45
+"Haverhill South",40
+"Haverhill West",10
+"Horringer and Whelnetham",5
+"Hundon",5
+"Ixworth",0
+"Kedington",0
+"Minden",10
+"Moreton Hall",10
+"Northgate",15
+"Pakenham",0
+"Risby",0
+"Risbygate",15
+"Rougham",5
+"Southgate",5
+"St Olaves",15
+"Stanton",5
+"Westgate",5
+"Wickhambrook",5
+"Withersfield",0
+"Aldeburgh",5
+"Earl Soham",5
+"Farlingaye",5
+"Felixstowe East",5
+"Felixstowe North",10
+"Felixstowe South",15
+"Felixstowe South East",0
+"Felixstowe West",30
+"Framlingham",10
+"Grundisburgh",0
+"Hacheston",0
+"Hollesley with Eyke",0
+"Kesgrave East",10
+"Kesgrave West",5
+"Kyson",5
+"Leiston",15
+"Martlesham",10
+"Melton and Ufford",5
+"Nacton",0
+"Orford and Tunstall",0
+"Otley",0
+"Peasenhall",0
+"Rendlesham",5
+"Riverside",0
+"Rushmere St Andrew",5
+"Saxmundham",15
+"Seckford",5
+"Snape",0
+"Sutton",5
+"Trimleys with Kirton",10
+"Walberswick and Wenhaston",5
+"Wickham Market",0
+"Witnesham",0
+"Yoxford",5
+"Beccles North",5
+"Beccles South",15
+"Blything",5
+"Bungay",10
+"Carlton",20
+"Carlton Colville",25
+"Gunton and Corton",5
+"Halesworth",15
+"Harbour",150
+"Kessingland",20
+"Kirkley",70
+"Lothingland",5
+"Normanston",45
+"Oulton",10
+"Oulton Broad",10
+"Pakefield",30
+"Southwold and Reydon",5
+"St Margaret's",40
+"The Saints",0
+"Wainford",5
+"Whitton",30
+"Worlingham",5
+"Wrentham",5
+"Belsize",20
+"Bloomsbury",15
+"Camden Town with Primrose Hill",50
+"Cantelowes",65
+"Fortune Green",25
+"Frognal and Fitzjohns",5
+"Gospel Oak",50
+"Hampstead Town",5
+"Haverstock",40
+"Highgate",30
+"Holborn and Covent Garden",35
+"Kentish Town",40
+"Kilburn",30
+"King's Cross",45
+"Regent's Park",50
+"St Pancras and Somers Town",80
+"Swiss Cottage",20
+"West Hampstead",20
+"Aldersgate,Cheap",0
+"Aldgate,Billingsgate,Bishopsgate,Bridge,Broad Street,Candlewick,Corn",5
+"Bassishaw,Coleman Street,Cripplegate",0
+"Bread Street,Castle Baynard,Cordwainer,Dowgate,Farringdon Within,Far",0
+"Brownswood",50
+"Cazenove",35
+"Chatham",70
+"Clissold",25
+"Dalston",50
+"De Beauvoir",50
+"Hackney Central",60
+"Hackney Downs",50
+"Haggerston",50
+"Hoxton",40
+"King's Park",75
+"Leabridge",60
+"Lordship",40
+"New River",50
+"Queensbridge",50
+"Springfield",40
+"Stoke Newington Central",35
+"Victoria",75
+"Wick",85
+"Addison",60
+"Askew",50
+"Avonmore and Brook Green",30
+"College Park and Old Oak",55
+"Fulham Broadway",30
+"Fulham Reach",25
+"Hammersmith Broadway",35
+"Munster",10
+"North End",30
+"Palace Riverside",5
+"Parsons Green and Walham",15
+"Ravenscourt Park",25
+"Sands End",35
+"Shepherd's Bush Green",60
+"Town",20
+"Wormholt and White City",85
+"Alexandra",15
+"Bounds Green",35
+"Bruce Grove",75
+"Crouch End",10
+"Fortis Green",15
+"Harringay",45
+"Highgate",20
+"Hornsey",65
+"Muswell Hill",15
+"Noel Park",60
+"Northumberland Park",95
+"Seven Sisters",65
+"St Ann's",45
+"Stroud Green",35
+"Tottenham Green",70
+"Tottenham Hale",90
+"West Green",50
+"White Hart Lane",80
+"Woodside",40
+"Barnsbury",45
+"Bunhill",40
+"Caledonian",50
+"Canonbury",30
+"Clerkenwell",55
+"Finsbury Park",75
+"Highbury East",40
+"Highbury West",50
+"Hillrise",50
+"Holloway",95
+"Junction",45
+"Mildmay",40
+"St George's",45
+"St Mary's",45
+"St Peter's",35
+"Tollington",60
+"Abingdon",20
+"Brompton",5
+"Campden",5
+"Colville",20
+"Courtfield",10
+"Cremorne",20
+"Earl's Court",15
+"Golborne",50
+"Hans Town",5
+"Holland",10
+"Norland",15
+"Notting Barns",35
+"Pembridge",15
+"Queen's Gate",0
+"Redcliffe",10
+"Royal Hospital",5
+"St Charles",30
+"Stanley",10
+"Bishop's",30
+"Brixton Hill",55
+"Clapham Common",30
+"Clapham Town",45
+"Coldharbour",95
+"Ferndale",50
+"Gipsy Hill",80
+"Herne Hill",95
+"Knight's Hill",80
+"Larkhall",120
+"Oval",40
+"Prince's",60
+"St Leonard's",55
+"Stockwell",50
+"Streatham Hill",60
+"Streatham South",40
+"Streatham Wells",45
+"Thornton",40
+"Thurlow Park",35
+"Tulse Hill",65
+"Vassall",75
+"Bellingham",85
+"Blackheath",60
+"Brockley",90
+"Catford South",60
+"Crofton Park",50
+"Downham",85
+"Evelyn",85
+"Forest Hill",75
+"Grove Park",50
+"Ladywell",50
+"Lee Green",30
+"Lewisham Central",85
+"New Cross",90
+"Perry Vale",75
+"Rushey Green",95
+"Sydenham",70
+"Telegraph Hill",65
+"Whitefoot",80
+"Beckton",70
+"Boleyn",55
+"Canning Town North",75
+"Canning Town South",85
+"Custom House",70
+"East Ham Central",35
+"East Ham North",30
+"East Ham South",60
+"Forest Gate North",60
+"Forest Gate South",70
+"Green Street East",40
+"Green Street West",40
+"Little Ilford",80
+"Manor Park",50
+"Plaistow North",55
+"Plaistow South",55
+"Royal Docks",45
+"Stratford and New Town",85
+"Wall End",65
+"West Ham",75
+"Brunswick Park",70
+"Camberwell Green",60
+"Cathedrals",60
+"Chaucer",50
+"College",35
+"East Dulwich",35
+"East Walworth",40
+"Faraday",65
+"Grange",60
+"Livesey",75
+"Newington",70
+"Nunhead",70
+"Peckham",75
+"Peckham Rye",45
+"Riverside",40
+"Rotherhithe",50
+"South Bermondsey",70
+"South Camberwell",60
+"Surrey Docks",30
+"The Lane",70
+"Village",20
+"Bethnal Green North",75
+"Bethnal Green South",80
+"Blackwall and Cubitt Town",95
+"Bow East",80
+"Bow West",60
+"Bromley-by-Bow",115
+"East India and Lansbury",130
+"Limehouse",85
+"Mile End and Globe Town",65
+"Mile End East",110
+"Millwall",105
+"Shadwell",75
+"Spitalfields and Banglatown",55
+"St Dunstan's and Stepney Green",110
+"St Katharine's and Wapping",35
+"Weavers",55
+"Whitechapel",70
+"Balham",15
+"Bedford",30
+"Earlsfield",25
+"East Putney",15
+"Fairfield",25
+"Furzedown",50
+"Graveney",40
+"Latchmere",70
+"Nightingale",15
+"Northcote",10
+"Queenstown",45
+"Roehampton and Putney Heath",60
+"Shaftesbury",30
+"Southfields",30
+"St Mary's Park",30
+"Thamesfield",20
+"Tooting",40
+"Wandsworth Common",30
+"West Hill",40
+"West Putney",25
+"Abbey Road",10
+"Bayswater",10
+"Bryanston and Dorset Square",15
+"Church Street",55
+"Churchill",30
+"Harrow Road",40
+"Hyde Park",5
+"Knightsbridge and Belgravia",0
+"Lancaster Gate",15
+"Little Venice",15
+"Maida Vale",20
+"Marylebone High Street",10
+"Queen's Park",45
+"Regent's Park",10
+"St James's",55
+"Tachbrook",15
+"Vincent Square",25
+"Warwick",20
+"West End",20
+"Westbourne",45
+"Abbey",65
+"Alibon",70
+"Becontree",65
+"Chadwell Heath",40
+"Eastbrook",70
+"Eastbury",50
+"Gascoigne",45
+"Goresbrook",45
+"Heath",40
+"Longbridge",30
+"Mayesbrook",40
+"Parsloes",45
+"River",40
+"Thames",75
+"Valence",50
+"Village",50
+"Whalebone",45
+"Brunswick Park",35
+"Burnt Oak",65
+"Childs Hill",55
+"Colindale",70
+"Coppetts",30
+"East Barnet",35
+"East Finchley",25
+"Edgware",20
+"Finchley Church End",15
+"Garden Suburb",15
+"Golders Green",45
+"Hale",35
+"Hendon",40
+"High Barnet",25
+"Mill Hill",45
+"Oakleigh",30
+"Totteridge",20
+"Underhill",45
+"West Finchley",25
+"West Hendon",45
+"Woodhouse",35
+"Barnehurst",30
+"Belvedere",55
+"Blackfen and Lamorbey",5
+"Blendon and Penhill",20
+"Brampton",10
+"Christchurch",20
+"Colyers",30
+"Cray Meadows",45
+"Crayford",40
+"Danson Park",25
+"East Wickham",20
+"Erith",50
+"Falconwood and Welling",10
+"Lesnes Abbey",25
+"Longlands",10
+"North End",60
+"Northumberland Heath",35
+"Sidcup",10
+"St Mary's",15
+"St Michael's",20
+"Thamesmead East",50
+"Alperton",30
+"Barnhill",55
+"Brondesbury Park",40
+"Dollis Hill",65
+"Dudden Hill",45
+"Fryent",30
+"Harlesden",95
+"Kensal Green",55
+"Kenton",15
+"Kilburn",65
+"Mapesbury",45
+"Northwick Park",30
+"Preston",30
+"Queens Park",30
+"Queensbury",40
+"Stonebridge",135
+"Sudbury",50
+"Tokyngton",45
+"Welsh Harp",40
+"Wembley Central",30
+"Willesden Green",65
+"Bickley",25
+"Biggin Hill",25
+"Bromley Common and Keston",45
+"Bromley Town",40
+"Chelsfield and Pratts Bottom",15
+"Chislehurst",25
+"Clock House",30
+"Copers Cope",20
+"Cray Valley East",70
+"Cray Valley West",75
+"Crystal Palace",60
+"Darwin",5
+"Farnborough and Crofton",15
+"Hayes and Coney Hall",25
+"Kelsey and Eden Park",25
+"Mottingham and Chislehurst North",40
+"Orpington",35
+"Penge and Cator",55
+"Petts Wood and Knoll",10
+"Plaistow and Sundridge",30
+"Shortlands",10
+"West Wickham",15
+"Addiscombe",85
+"Ashburton",70
+"Bensham Manor",120
+"Broad Green",170
+"Coulsdon East",35
+"Coulsdon West",30
+"Croham",50
+"Fairfield",110
+"Fieldway",85
+"Heathfield",70
+"Kenley",40
+"New Addington",55
+"Norbury",50
+"Purley",50
+"Sanderstead",25
+"Selhurst",130
+"Selsdon and Ballards",25
+"Shirley",50
+"South Norwood",105
+"Thornton Heath",135
+"Upper Norwood",80
+"Waddon",90
+"West Thornton",120
+"Woodside",105
+"Acton Central",40
+"Cleveland",50
+"Dormers Wells",40
+"Ealing Broadway",35
+"Ealing Common",70
+"East Acton",80
+"Elthorne",50
+"Greenford Broadway",55
+"Greenford Green",35
+"Hanger Hill",25
+"Hobbayne",60
+"Lady Margaret",30
+"North Greenford",25
+"Northfield",20
+"Northolt Mandeville",70
+"Northolt West End",75
+"Norwood Green",50
+"Perivale",35
+"South Acton",50
+"Southall Broadway",60
+"Southall Green",45
+"Southfield",25
+"Walpole",20
+"Bowes",55
+"Bush Hill Park",30
+"Chase",50
+"Cockfosters",25
+"Edmonton Green",120
+"Enfield Highway",90
+"Enfield Lock",70
+"Grange",25
+"Haselbury",75
+"Highlands",30
+"Jubilee",80
+"Lower Edmonton",100
+"Palmers Green",45
+"Ponders End",90
+"Southbury",80
+"Southgate",30
+"Southgate Green",35
+"Town",45
+"Turkey Street",75
+"Upper Edmonton",110
+"Winchmore Hill",20
+"Abbey Wood",75
+"Blackheath Westcombe",30
+"Charlton",60
+"Coldharbour and New Eltham",40
+"Eltham North",25
+"Eltham South",40
+"Eltham West",60
+"Glyndon",80
+"Greenwich West",80
+"Kidbrooke with Hornfair",75
+"Middle Park and Sutcliffe",40
+"Peninsula",40
+"Plumstead",75
+"Shooters Hill",55
+"Thamesmead Moorings",95
+"Woolwich Common",95
+"Woolwich Riverside",80
+"Belmont",15
+"Canons",20
+"Edgware",20
+"Greenhill",50
+"Harrow on the Hill",35
+"Harrow Weald",30
+"Hatch End",10
+"Headstone North",15
+"Headstone South",30
+"Kenton East",10
+"Kenton West",15
+"Marlborough",35
+"Pinner",20
+"Pinner South",10
+"Queensbury",15
+"Rayners Lane",15
+"Roxbourne",45
+"Roxeth",40
+"Stanmore Park",35
+"Wealdstone",45
+"West Harrow",25
+"Brooklands",70
+"Cranham",25
+"Elm Park",30
+"Emerson Park",10
+"Gooshays",80
+"Hacton",20
+"Harold Wood",50
+"Havering Park",65
+"Heaton",60
+"Hylands",40
+"Mawneys",45
+"Pettits",15
+"Rainham and Wennington",40
+"Romford Town",55
+"South Hornchurch",60
+"Squirrel's Heath",25
+"St Andrew's",20
+"Upminster",20
+"Barnhill",40
+"Botwell",75
+"Brunel",25
+"Cavendish",20
+"Charville",35
+"Eastcote and East Ruislip",15
+"Harefield",20
+"Heathrow Villages",15
+"Hillingdon East",45
+"Ickenham",5
+"Manor",15
+"Northwood",5
+"Northwood Hills",20
+"Pinkwell",50
+"South Ruislip",15
+"Townfield",50
+"Uxbridge North",30
+"Uxbridge South",55
+"West Drayton",55
+"West Ruislip",10
+"Yeading",55
+"Yiewsley",40
+"Bedfont",55
+"Brentford",60
+"Chiswick Homefields",20
+"Chiswick Riverside",10
+"Cranford",50
+"Feltham North",40
+"Feltham West",65
+"Hanworth",75
+"Hanworth Park",35
+"Heston Central",45
+"Heston East",50
+"Heston West",60
+"Hounslow Central",55
+"Hounslow Heath",60
+"Hounslow South",25
+"Hounslow West",45
+"Isleworth",40
+"Osterley and Spring Grove",30
+"Syon",50
+"Turnham Green",35
+"Alexandra",20
+"Berrylands",15
+"Beverley",30
+"Canbury",25
+"Chessington North and Hook",25
+"Chessington South",25
+"Coombe Hill",25
+"Coombe Vale",10
+"Grove",40
+"Norbiton",50
+"Old Malden",25
+"St James",15
+"St Mark's",20
+"Surbiton Hill",5
+"Tolworth and Hook Rise",30
+"Tudor",10
+"Abbey",25
+"Cannon Hill",15
+"Colliers Wood",35
+"Cricket Green",65
+"Dundonald",10
+"Figge's Marsh",60
+"Graveney",20
+"Hillside",10
+"Lavender Fields",45
+"Longthornton",40
+"Lower Morden",15
+"Merton Park",10
+"Pollards Hill",60
+"Ravensbury",45
+"Raynes Park",10
+"St Helier",25
+"Trinity",15
+"Village",5
+"West Barnes",15
+"Wimbledon Park",25
+"Aldborough",30
+"Barkingside",20
+"Bridge",25
+"Chadwell",50
+"Church End",10
+"Clayhall",35
+"Clementswood",55
+"Cranbrook",35
+"Fairlop",30
+"Fullwell",40
+"Goodmayes",60
+"Hainault",35
+"Loxford",70
+"Mayfield",55
+"Monkhams",10
+"Newbury",65
+"Roding",35
+"Seven Kings",55
+"Snaresbrook",15
+"Valentines",45
+"Wanstead",15
+"Barnes",10
+"East Sheen",10
+"Fulwell and Hampton Hill",15
+"Ham, Petersham and Richmond Riverside",20
+"Hampton",20
+"Hampton North",30
+"Hampton Wick",10
+"Heathfield",45
+"Kew",20
+"Mortlake and Barnes Common",15
+"North Richmond",10
+"South Richmond",10
+"South Twickenham",10
+"St Margarets and North Twickenham",10
+"Teddington",15
+"Twickenham Riverside",10
+"West Twickenham",20
+"Whitton",15
+"Beddington North",20
+"Beddington South",45
+"Belmont",15
+"Carshalton Central",15
+"Carshalton South and Clockhouse",15
+"Cheam",15
+"Nonsuch",10
+"St Helier",60
+"Stonecot",20
+"Sutton Central",50
+"Sutton North",30
+"Sutton South",10
+"Sutton West",10
+"The Wrythe",30
+"Wallington North",40
+"Wallington South",30
+"Wandle Valley",75
+"Worcester Park",20
+"Cann Hall",40
+"Cathall",55
+"Chapel End",50
+"Chingford Green",25
+"Endlebury",30
+"Forest",50
+"Grove Green",30
+"Hale End and Highams Park",40
+"Hatch Lane",30
+"High Street",45
+"Higham Hill",75
+"Hoe Street",85
+"Larkswood",30
+"Lea Bridge",55
+"Leyton",65
+"Leytonstone",45
+"Markhouse",65
+"Valley",45
+"William Morris",45
+"Wood Street",55
+"Ascot",0
+"Binfield with Warfield",10
+"Bullbrook",15
+"Central Sandhurst",5
+"College Town",5
+"Crown Wood",5
+"Crowthorne",5
+"Great Hollands North",10
+"Great Hollands South",10
+"Hanworth",15
+"Harmans Water",10
+"Little Sandhurst and Wellington",5
+"Old Bracknell",45
+"Owlsmoor",10
+"Priestwood and Garth",15
+"Warfield Harvest Ride",5
+"Wildridings and Central",15
+"Winkfield and Cranbourne",5
+"Brunswick and Adelaide",35
+"Central Hove",20
+"East Brighton",105
+"Goldsmid",35
+"Hangleton and Knoll",55
+"Hanover and Elm Grove",65
+"Hollingdean and Stanmer",40
+"Hove Park",15
+"Moulsecoomb and Bevendean",105
+"North Portslade",60
+"Patcham",40
+"Preston Park",25
+"Queen's Park",45
+"Regency",30
+"Rottingdean Coastal",25
+"South Portslade",50
+"St. Peter's and North Laine",85
+"Westbourne",30
+"Wish",20
+"Withdean",20
+"Woodingdean",45
+"Arreton and Newchurch",0
+"Binstead and Fishbourne",0
+"Brading, St Helens and Bembridge",10
+"Carisbrooke",10
+"Central Wight",5
+"Chale, Niton and Whitwell",10
+"Cowes Medina",10
+"Cowes North",5
+"Cowes South and Northwood",5
+"Cowes West and Gurnard",5
+"East Cowes",5
+"Freshwater North",10
+"Freshwater South",5
+"Godshill and Wroxall",10
+"Havenstreet, Ashey and Haylands",10
+"Lake North",5
+"Lake South",10
+"Nettlestone and Seaview",0
+"Newport Central",15
+"Newport East",25
+"Newport North",15
+"Newport South",15
+"Newport West",10
+"Parkhurst",10
+"Ryde East",5
+"Ryde North East",35
+"Ryde North West",15
+"Ryde South",25
+"Ryde West",20
+"Sandown North",15
+"Sandown South",20
+"Shanklin Central",5
+"Shanklin South",5
+"Totland",0
+"Ventnor East",10
+"Ventnor West",5
+"West Wight",5
+"Whippingham and Osborne",20
+"Wootton Bridge",5
+"Chatham Central",110
+"Cuxton and Halling",5
+"Gillingham North",145
+"Gillingham South",130
+"Hempstead and Wigmore",10
+"Lordswood and Capstone",20
+"Luton and Wayfield",100
+"Peninsula",45
+"Princes Park",40
+"Rainham Central",25
+"Rainham North",20
+"Rainham South",25
+"River",65
+"Rochester East",45
+"Rochester South and Horsted",40
+"Rochester West",45
+"Strood North",50
+"Strood Rural",40
+"Strood South",85
+"Twydall",60
+"Walderslade",45
+"Watling",40
+"Bletchley and Fenny Stratford",55
+"Bradwell",40
+"Campbell Park",65
+"Danesborough",5
+"Denbigh",15
+"Eaton Manor",40
+"Emerson Valley",30
+"Furzton",20
+"Hanslope Park",5
+"Linford North",10
+"Linford South",20
+"Loughton Park",25
+"Middleton",45
+"Newport Pagnell North",5
+"Newport Pagnell South",10
+"Olney",0
+"Sherington",0
+"Stantonbury",25
+"Stony Stratford",30
+"Walton Park",30
+"Whaddon",15
+"Wolverton",50
+"Woughton",50
+"Baffins",45
+"Central Southsea",45
+"Charles Dickens",155
+"Copnor",30
+"Cosham",50
+"Drayton and Farlington",20
+"Eastney and Craneswater",20
+"Fratton",50
+"Hilsea",20
+"Milton",45
+"Nelson",65
+"Paulsgrove",55
+"St Jude",40
+"St Thomas",50
+"Abbey",30
+"Battle",35
+"Caversham",15
+"Church",35
+"Katesgrove",30
+"Kentwood",20
+"Mapledurham",0
+"Minster",55
+"Norcot",35
+"Park",25
+"Peppard",10
+"Redlands",20
+"Southcote",20
+"Thames",10
+"Tilehurst",20
+"Whitley",55
+"Baylis and Stoke",30
+"Britwell",30
+"Central",40
+"Chalvey",50
+"Cippenham Green",20
+"Cippenham Meadows",25
+"Colnbrook with Poyle",10
+"Farnham",30
+"Foxborough",25
+"Haymill",20
+"Kedermister",20
+"Langley St Mary's",10
+"Upton",30
+"Wexham Lea",30
+"Bargate",85
+"Bassett",20
+"Bevois",140
+"Bitterne",90
+"Bitterne Park",40
+"Coxford",45
+"Freemantle",80
+"Harefield",65
+"Millbrook",55
+"Peartree",65
+"Portswood",40
+"Redbridge",80
+"Shirley",45
+"Sholing",40
+"Swaythling",50
+"Woolston",70
+"Aldermaston",0
+"Basildon",0
+"Birch Copse",0
+"Bucklebury",5
+"Burghfield",5
+"Calcot",20
+"Chieveley",0
+"Clay Hill",20
+"Cold Ash",0
+"Compton",5
+"Downlands",5
+"Falkland",5
+"Greenham",15
+"Hungerford",5
+"Kintbury",10
+"Lambourn Valley",0
+"Mortimer",10
+"Northcroft",10
+"Pangbourne",5
+"Purley on Thames",5
+"Speen",10
+"St Johns",20
+"Sulhamstead",5
+"Thatcham Central",5
+"Thatcham North",10
+"Thatcham South and Crookham",15
+"Thatcham West",10
+"Theale",5
+"Victoria",15
+"Westwood",5
+"Ascot and Cheapside",5
+"Belmont",10
+"Bisham and Cookham",0
+"Boyn Hill",5
+"Bray",5
+"Castle Without",0
+"Clewer East",0
+"Clewer North",20
+"Clewer South",10
+"Cox Green",5
+"Datchet",10
+"Eton and Castle",5
+"Eton Wick",0
+"Furze Platt",10
+"Horton and Wraysbury",5
+"Hurley and Walthams",10
+"Maidenhead Riverside",5
+"Old Windsor",5
+"Oldfield",25
+"Park",0
+"Pinkneys Green",10
+"Sunningdale",0
+"Sunninghill and South Ascot",0
+"Arborfield",5
+"Barkham",5
+"Bulmershe and Whitegates",15
+"Charvil",5
+"Coronation",5
+"Emmbrook",15
+"Evendons",10
+"Finchampstead North",5
+"Finchampstead South",5
+"Hawkedon",10
+"Hillside",5
+"Hurst",5
+"Loddon",20
+"Maiden Erlegh",10
+"Norreys",15
+"Remenham, Wargrave and Ruscombe",5
+"Shinfield North",5
+"Shinfield South",15
+"Sonning",0
+"South Lake",5
+"Swallowfield",0
+"Twyford",0
+"Wescott",5
+"Winnersh",15
+"Wokingham Without",5
+"Aston Clinton",10
+"Aylesbury Central",10
+"Bedgrove",10
+"Bierton",0
+"Brill",0
+"Buckingham North",10
+"Buckingham South",5
+"Cheddington",5
+"Coldharbour",15
+"Edlesborough",5
+"Elmhurst and Watermead",20
+"Gatehouse",35
+"Great Brickhill",0
+"Great Horwood",0
+"Grendon Underwood",5
+"Haddenham",5
+"Long Crendon",5
+"Luffield Abbey",0
+"Mandeville and Elm Farm",15
+"Marsh Gibbon",0
+"Newton Longville",0
+"Oakfield",10
+"Pitstone",0
+"Quainton",0
+"Quarrendon",30
+"Southcourt",25
+"Steeple Claydon",0
+"Stewkley",0
+"Tingewick",5
+"Waddesdon",0
+"Walton Court and Hawkslade",15
+"Weedon",15
+"Wendover",10
+"Wing",0
+"Wingrave",0
+"Winslow",10
+"Amersham Common",0
+"Amersham Town",5
+"Amersham-on-the-Hill",10
+"Asheridge Vale and Lowndes",5
+"Ashley Green, Latimer and Chenies",0
+"Austenwood",0
+"Ballinger, South Heath and Chartridge",0
+"Central",10
+"Chalfont Common",0
+"Chalfont St Giles",5
+"Chesham Bois and Weedon Hill",5
+"Cholesbury, The Lee and Bellingdon",0
+"Gold Hill",0
+"Great Missenden",0
+"Hilltop and Townsend",0
+"Holmer Green",5
+"Little Chalfont",5
+"Little Missenden",0
+"Newtown",5
+"Penn and Coleshill",5
+"Prestwood and Heath End",5
+"Ridgeway",15
+"Seer Green",0
+"St Mary's and Waterside",15
+"Vale",10
+"Beaconsfield North",5
+"Beaconsfield South",5
+"Beaconsfield West",5
+"Burnham Beeches",0
+"Burnham Church",15
+"Burnham Lent Rise",5
+"Denham North",5
+"Denham South",10
+"Dorney and Burnham South",0
+"Farnham Royal",5
+"Gerrards Cross East and Denham South West",0
+"Gerrards Cross North",0
+"Gerrards Cross South",0
+"Hedgerley and Fulmer",5
+"Iver Heath",5
+"Iver Village and Richings Park",10
+"Stoke Poges",5
+"Taplow",0
+"Wexham and Iver West",5
+"Abbey",20
+"Bledlow and Bradenham",5
+"Booker and Cressex",20
+"Bourne End-cum-Hedsor",0
+"Bowerdean",15
+"Chiltern Rise",10
+"Disraeli",20
+"Downley and Plomer Hill",10
+"Flackwell Heath and Little Marlow",5
+"Greater Hughenden",0
+"Greater Marlow",0
+"Hambleden Valley",0
+"Hazlemere North",5
+"Hazlemere South",0
+"Icknield",0
+"Lacey Green, Speen and the Hampdens",0
+"Marlow North and West",5
+"Marlow South East",5
+"Micklefield",20
+"Oakridge and Castlefield",40
+"Ryemead",15
+"Sands",15
+"Stokenchurch and Radnage",5
+"Terriers and Amersham Hill",25
+"The Risboroughs",10
+"The Wooburns",5
+"Totteridge",15
+"Tylers Green and Loudwater",5
+"Devonshire",80
+"Hampden Park",60
+"Langney",45
+"Meads",35
+"Old Town",40
+"Ratton",10
+"Sovereign",25
+"St Anthony's",40
+"Upperton",50
+"Ashdown",20
+"Baird",50
+"Braybrooke",30
+"Castle",50
+"Central St Leonards",55
+"Conquest",5
+"Gensing",45
+"Hollington",50
+"Maze Hill",15
+"Old Hastings",25
+"Ore",25
+"Silverhill",15
+"St Helens",10
+"Tressell",45
+"West St Leonards",25
+"Wishing Tree",40
+"Barcombe and Hamsey",5
+"Chailey and Wivelsfield",5
+"Ditchling and Westmeston",0
+"East Saltdean and Telscombe Cliffs",15
+"Kingston",5
+"Lewes Bridge",10
+"Lewes Castle",15
+"Lewes Priory",15
+"Newhaven Denton and Meeching",40
+"Newhaven Valley",35
+"Newick",0
+"Ouse Valley and Ringmer",20
+"Peacehaven East",20
+"Peacehaven North",15
+"Peacehaven West",10
+"Plumpton, Streat, East Chiltington and St John (Without)",0
+"Seaford Central",10
+"Seaford East",5
+"Seaford North",10
+"Seaford South",10
+"Seaford West",0
+"Battle Town",5
+"Brede Valley",10
+"Central",35
+"Collington",0
+"Crowhurst",5
+"Darwell",5
+"Eastern Rother",10
+"Ewhurst and Sedlescombe",5
+"Kewhurst",10
+"Marsham",10
+"Old Town",15
+"Rother Levels",10
+"Rye",15
+"Sackville",15
+"Salehurst",10
+"Sidley",45
+"St Marks",10
+"St Michaels",20
+"St Stephens",30
+"Ticehurst and Etchingham",5
+"Alfriston",5
+"Buxted and Maresfield",0
+"Chiddingly and East Hoathly",0
+"Cross in Hand/Five Ashes",0
+"Crowborough East",5
+"Crowborough Jarvis Brook",0
+"Crowborough North",5
+"Crowborough St. Johns",0
+"Crowborough West",5
+"Danehill/Fletching/Nutley",5
+"East Dean",5
+"Forest Row",0
+"Framfield",0
+"Frant/Withyham",5
+"Hailsham Central and North",15
+"Hailsham East",25
+"Hailsham South and West",25
+"Hartfield",0
+"Heathfield East",0
+"Heathfield North and Central",10
+"Hellingly",15
+"Herstmonceux",5
+"Horam",5
+"Mayfield",5
+"Ninfield and Hooe with Wartling",0
+"Pevensey and Westham",25
+"Polegate North",20
+"Polegate South",5
+"Rotherfield",0
+"Uckfield Central",5
+"Uckfield New Town",5
+"Uckfield North",15
+"Uckfield Ridgewood",5
+"Wadhurst",5
+"Willingdon",20
+"Basing",5
+"Baughurst and Tadley North",5
+"Bramley and Sherfield",10
+"Brighton Hill North",15
+"Brighton Hill South",15
+"Brookvale and Kings Furlong",20
+"Buckskin",30
+"Burghclere, Highclere and St Mary Bourne",5
+"Chineham",10
+"East Woodhay",0
+"Eastrop",30
+"Grove",20
+"Hatch Warren and Beggarwood",15
+"Kempshott",5
+"Kingsclere",5
+"Norden",45
+"Oakley and North Waltham",5
+"Overton, Laverstoke and Steventon",5
+"Pamber and Silchester",0
+"Popley East",20
+"Popley West",15
+"Rooksdown",15
+"Sherborne St John",5
+"South Ham",35
+"Tadley Central",0
+"Tadley South",10
+"Upton Grey and The Candovers",0
+"Whitchurch",5
+"Winklebury",15
+"Alton Amery",0
+"Alton Ashdell",0
+"Alton Eastbrooke",5
+"Alton Westbrooke",5
+"Alton Whitedown",5
+"Alton Wooteys",5
+"Binsted and Bentley",0
+"Bramshott and Liphook",5
+"Clanfield and Finchdean",10
+"Downland",0
+"East Meon",0
+"Four Marks and Medstead",10
+"Froxfield and Steep",0
+"Grayshott",0
+"Headley",10
+"Holybourne and Froyle",0
+"Horndean Catherington and Lovedean",0
+"Horndean Downs",10
+"Horndean Hazleton and Blendworth",0
+"Horndean Kings",0
+"Horndean Murray",5
+"Lindford",5
+"Liss",5
+"Petersfield Bell Hill",5
+"Petersfield Causeway",5
+"Petersfield Heath",5
+"Petersfield Rother",0
+"Petersfield St Marys",0
+"Petersfield St Peters",0
+"Ropley and Tisted",0
+"Rowlands Castle",0
+"Selborne",0
+"The Hangers and Forest",0
+"Whitehill Chase",5
+"Whitehill Deadwater",10
+"Whitehill Hogmoor",0
+"Whitehill Pinewood",5
+"Whitehill Walldown",0
+"Bishopstoke East",5
+"Bishopstoke West",15
+"Botley",10
+"Bursledon and Old Netley",25
+"Chandler's Ford East",5
+"Chandler's Ford West",5
+"Eastleigh Central",45
+"Eastleigh North",15
+"Eastleigh South",30
+"Fair Oak and Horton Heath",15
+"Hamble-le-Rice and Butlocks Heath",10
+"Hedge End Grange Park",15
+"Hedge End St John's",5
+"Hedge End Wildern",10
+"Hiltingbury East",0
+"Hiltingbury West",5
+"Netley Abbey",10
+"West End North",10
+"West End South",10
+"Fareham East",20
+"Fareham North",5
+"Fareham North-West",15
+"Fareham South",25
+"Fareham West",5
+"Hill Head",10
+"Locks Heath",10
+"Park Gate",15
+"Portchester East",10
+"Portchester West",10
+"Sarisbury",5
+"Stubbington",10
+"Titchfield",10
+"Titchfield Common",5
+"Warsash",0
+"Alverstoke",5
+"Anglesey",10
+"Bridgemary North",15
+"Bridgemary South",10
+"Brockhurst",15
+"Christchurch",20
+"Elson",15
+"Forton",20
+"Grange",45
+"Hardway",15
+"Lee East",5
+"Lee West",5
+"Leesland",10
+"Peel Common",10
+"Privett",5
+"Rowner and Holbrook",10
+"Town",30
+"Blackwater and Hawley",5
+"Church Crookham East",5
+"Church Crookham West",0
+"Crondall",5
+"Eversley",5
+"Fleet Central",5
+"Fleet Courtmoor",5
+"Fleet North",5
+"Fleet Pondtail",0
+"Fleet West",0
+"Frogmore and Darby Green",10
+"Hartley Wintney",5
+"Hook",5
+"Long Sutton",0
+"Odiham",5
+"Yateley East",0
+"Yateley North",5
+"Yateley West",5
+"Barncroft",25
+"Battins",35
+"Bedhampton",15
+"Bondfields",40
+"Cowplain",20
+"Emsworth",10
+"Hart Plain",25
+"Hayling East",15
+"Hayling West",10
+"Purbrook",10
+"St Faith's",25
+"Stakes",35
+"Warren Park",40
+"Waterloo",25
+"Ashurst, Copythorne South and Netley Marsh",5
+"Barton",5
+"Bashley",5
+"Becton",10
+"Boldre and Sway",5
+"Bramshaw, Copythorne North and Minstead",0
+"Bransgore and Burley",10
+"Brockenhurst and Forest South East",0
+"Buckland",5
+"Butts Ash and Dibden Purlieu",10
+"Dibden and Hythe East",10
+"Downlands and Forest",10
+"Fawley, Blackfield and Langley",10
+"Fernhill",20
+"Fordingbridge",5
+"Forest North West",0
+"Furzedown and Hardley",5
+"Holbury and North Blackfield",15
+"Hordle",0
+"Hythe West and Langdown",15
+"Lymington Town",5
+"Lyndhurst",5
+"Marchwood",5
+"Milford",0
+"Milton",10
+"Pennington",10
+"Ringwood East and Sopley",5
+"Ringwood North",5
+"Ringwood South",10
+"Totton Central",10
+"Totton East",20
+"Totton North",15
+"Totton South",10
+"Totton West",10
+"Cove and Southwood",10
+"Empress",10
+"Fernhill",10
+"Grange",10
+"Heron Wood",25
+"Knellwood",0
+"Manor Park",10
+"Mayfield",25
+"North Town",10
+"Rowhill",15
+"St. John's",15
+"St. Mark's",10
+"Wellington",35
+"Westheath",10
+"Abbey",5
+"Alamein",40
+"Ampfield and Braishfield",0
+"Amport",0
+"Anna",5
+"Blackwater",0
+"Bourne Valley",5
+"Broughton and Stockbridge",0
+"Charlton",0
+"Chilworth, Nursling and Rownhams",5
+"Cupernham",10
+"Dun Valley",5
+"Harewood",0
+"Harroway",10
+"Kings Somborne and Michelmersh",5
+"Millway",10
+"North Baddesley",10
+"Over Wallop",0
+"Penton Bellinger",5
+"Romsey Extra",5
+"St Mary's",40
+"Tadburn",5
+"Valley Park",5
+"Winton",20
+"Bishops Waltham",10
+"Boarhunt and Southwick",5
+"Cheriton and Bishops Sutton",5
+"Colden Common and Twyford",10
+"Compton and Otterbourne",5
+"Denmead",10
+"Droxford, Soberton and Hambledon",0
+"Itchen Valley",0
+"Kings Worthy",5
+"Littleton and Harestock",0
+"Olivers Battery and Badger Farm",0
+"Owslebury and Curdridge",5
+"Shedfield",0
+"Sparsholt",0
+"St Barnabas",10
+"St Bartholomew",15
+"St John and All Saints",15
+"St Luke",25
+"St Michael",15
+"St Paul",20
+"Swanmore and Newtown",0
+"The Alresfords",5
+"Upper Meon Valley",0
+"Whiteley",5
+"Wickham",5
+"Wonston and Micheldever",5
+"Aylesford Green",30
+"Beaver",30
+"Biddenden",5
+"Bockhanger",15
+"Boughton Aluph and Eastwell",10
+"Bybrook",15
+"Charing",5
+"Downs North",0
+"Downs West",5
+"Godinton",20
+"Great Chart with Singleton North",10
+"Highfield",0
+"Isle of Oxney",5
+"Kennington",0
+"Little Burton Farm",5
+"Norman",15
+"North Willesborough",15
+"Park Farm North",5
+"Park Farm South",5
+"Rolvenden and Tenterden West",0
+"Saxon Shore",5
+"Singleton South",10
+"South Willesborough",15
+"St Michaels",0
+"Stanhope",55
+"Stour",30
+"Tenterden North",5
+"Tenterden South",5
+"Victoria",40
+"Washford",5
+"Weald Central",10
+"Weald East",10
+"Weald North",5
+"Weald South",15
+"Wye",5
+"Barham Downs",5
+"Barton",60
+"Blean Forest",0
+"Chartham and Stone Street",20
+"Chestfield and Swalecliffe",10
+"Gorrell",20
+"Greenhill and Eddington",15
+"Harbledown",5
+"Harbour",10
+"Herne and Broomfield",15
+"Heron",35
+"Little Stour",10
+"Marshside",10
+"North Nailbourne",5
+"Northgate",75
+"Reculver",10
+"Seasalter",20
+"St Stephens",60
+"Sturry North",10
+"Sturry South",10
+"Tankerton",5
+"West Bay",30
+"Westgate",40
+"Wincheap",45
+"Bean and Darenth",10
+"Brent",15
+"Castle",10
+"Greenhithe",15
+"Heath",10
+"Joyce Green",35
+"Joydens Wood",10
+"Littlebrook",15
+"Longfield, New Barn and Southfleet",5
+"Newtown",30
+"Princes",30
+"Stone",20
+"Sutton-at-Hone and Hawley",5
+"Swanscombe",35
+"Town",20
+"West Hill",10
+"Wilmington",5
+"Aylesham",25
+"Buckland",75
+"Capel-le-Ferne",5
+"Castle",15
+"Eastry",10
+"Eythorne and Shepherdswell",10
+"Little Stour and Ashstone",15
+"Lydden and Temple Ewell",5
+"Maxton, Elms Vale and Priory",55
+"Middle Deal and Sholden",40
+"Mill Hill",45
+"North Deal",15
+"Ringwould",0
+"River",5
+"Sandwich",15
+"St Margaret's-at-Cliffe",10
+"St Radigunds",60
+"Tower Hamlets",55
+"Town and Pier",15
+"Walmer",15
+"Whitfield",20
+"Central",30
+"Chalk",5
+"Coldharbour",45
+"Higham",10
+"Istead Rise",0
+"Meopham North",10
+"Meopham South and Vigo",5
+"Northfleet North",50
+"Northfleet South",30
+"Painters Ash",20
+"Pelham",40
+"Riverside",60
+"Riverview",5
+"Shorne, Cobham and Luddesdown",5
+"Singlewell",45
+"Westcourt",45
+"Whitehill",15
+"Woodlands",15
+"Allington",5
+"Barming",5
+"Bearsted",5
+"Boughton Monchelsea and Chart Sutton",0
+"Boxley",10
+"Bridge",15
+"Coxheath and Hunton",15
+"Detling and Thurnham",0
+"Downswood and Otham",5
+"East",15
+"Fant",20
+"Harrietsham and Lenham",5
+"Headcorn",10
+"Heath",20
+"High Street",75
+"Leeds",5
+"Loose",5
+"Marden and Yalding",15
+"North",20
+"North Downs",0
+"Park Wood",30
+"Shepway North",35
+"Shepway South",25
+"South",25
+"Staplehurst",5
+"Sutton Valence and Langley",0
+"Ash and New Ash Green",10
+"Brasted, Chevening and Sundridge",0
+"Cowden and Hever",0
+"Crockenhill and Well Hill",5
+"Dunton Green and Riverhead",5
+"Edenbridge North and East",5
+"Edenbridge South and West",5
+"Eynsford",0
+"Farningham, Horton Kirby and South Darenth",0
+"Fawkham and West Kingsdown",5
+"Halstead, Knockholt and Badgers Mount",0
+"Hartley and Hodsoll Street",5
+"Hextable",5
+"Kemsing",5
+"Leigh and Chiddingstone Causeway",0
+"Otford and Shoreham",0
+"Penshurst, Fordcombe and Chiddingstone",0
+"Seal and Weald",0
+"Sevenoaks Eastern",5
+"Sevenoaks Kippington",0
+"Sevenoaks Northern",5
+"Sevenoaks Town and St John's",0
+"Swanley Christchurch and Swanley Village",10
+"Swanley St Mary's",30
+"Swanley White Oak",20
+"Westerham and Crockham Hill",0
+"Dymchurch and St Mary's Bay",15
+"Elham and Stelling Minnis",0
+"Folkestone Cheriton",30
+"Folkestone East",40
+"Folkestone Foord",60
+"Folkestone Harbour",45
+"Folkestone Harvey Central",55
+"Folkestone Harvey West",10
+"Folkestone Morehall",15
+"Folkestone Park",30
+"Folkestone Sandgate",20
+"Hythe Central",15
+"Hythe East",5
+"Hythe West",20
+"Lydd",25
+"Lympne and Stanford",5
+"New Romney Coast",10
+"New Romney Town",15
+"North Downs East",35
+"North Downs West",5
+"Romney Marsh",5
+"Tolsford",0
+"Abbey",25
+"Borden",5
+"Boughton and Courtenay",10
+"Chalkwell",35
+"Davington Priory",30
+"East Downs",5
+"Grove",35
+"Hartlip, Newington and Upchurch",15
+"Iwade and Lower Halstow",15
+"Kemsley",35
+"Leysdown and Warden",20
+"Milton Regis",40
+"Minster Cliffs",30
+"Murston",50
+"Queenborough and Halfway",40
+"Roman",25
+"Sheerness East",90
+"Sheerness West",80
+"Sheppey Central",65
+"St Ann's",20
+"St Michaels",25
+"Teynham and Lynsted",20
+"Watling",15
+"West Downs",5
+"Woodstock",10
+"Beacon Road",35
+"Birchington North",10
+"Birchington South",25
+"Bradstowe",5
+"Central Harbour",75
+"Cliffsend and Pegwell",10
+"Cliftonville East",15
+"Cliftonville West",100
+"Dane Valley",75
+"Eastcliff",60
+"Garlinge",30
+"Kingsgate",5
+"Margate Central",75
+"Nethercourt",25
+"Newington",50
+"Northwood",55
+"Salmestone",40
+"Sir Moses Montefiore",35
+"St Peters",20
+"Thanet Villages",20
+"Viking",25
+"Westbrook",15
+"Westgate-on-Sea",30
+"Aylesford",15
+"Blue Bell Hill and Walderslade",5
+"Borough Green and Long Mill",10
+"Burham, Eccles and Wouldham",10
+"Cage Green",5
+"Castle",10
+"Ditton",5
+"Downs",0
+"East Malling",20
+"East Peckham and Golden Green",5
+"Hadlow, Mereworth and West Peckham",5
+"Higham",5
+"Hildenborough",5
+"Ightham",0
+"Judd",10
+"Kings Hill",5
+"Larkfield North",10
+"Larkfield South",5
+"Medway",20
+"Snodland East",20
+"Snodland West",15
+"Trench",15
+"Vauxhall",10
+"Wateringbury",0
+"West Malling and Leybourne",10
+"Wrotham",0
+"Benenden and Cranbrook",10
+"Brenchley and Horsmonden",15
+"Broadwater",0
+"Capel",5
+"Culverden",25
+"Frittenden and Sissinghurst",0
+"Goudhurst and Lamberhurst",5
+"Hawkhurst and Sandhurst",5
+"Paddock Wood East",5
+"Paddock Wood West",5
+"Pantiles and St Mark's",5
+"Park",5
+"Pembury",5
+"Rusthall",10
+"Sherwood",15
+"Southborough and High Brooms",20
+"Southborough North",5
+"Speldhurst and Bidborough",0
+"St James'",10
+"St John's",5
+"Adderbury",0
+"Ambrosden and Chesterton",5
+"Banbury Calthorpe",5
+"Banbury Easington",20
+"Banbury Grimsbury and Castle",50
+"Banbury Hardwick",15
+"Banbury Neithrop",15
+"Banbury Ruscote",30
+"Bicester East",5
+"Bicester North",5
+"Bicester South",5
+"Bicester Town",10
+"Bicester West",10
+"Bloxham and Bodicote",10
+"Caversfield",0
+"Cropredy",0
+"Deddington",5
+"Fringford",0
+"Hook Norton",0
+"Kidlington North",5
+"Kidlington South",10
+"Kirtlington",0
+"Launton",0
+"Otmoor",0
+"Sibford",5
+"The Astons and Heyfords",5
+"Wroxton",0
+"Yarnton, Gosford and Water Eaton",5
+"Barton and Sandhills",20
+"Blackbird Leys",25
+"Carfax",5
+"Churchill",25
+"Cowley",15
+"Cowley Marsh",20
+"Headington",15
+"Headington Hill and Northway",15
+"Hinksey Park",15
+"Holywell,St Mary's",15
+"Iffley Fields",10
+"Jericho and Osney",10
+"Littlemore",15
+"Lye Valley",20
+"Marston",5
+"North",5
+"Northfield Brook",30
+"Quarry and Risinghurst",10
+"Rose Hill and Iffley",25
+"St Clement's",0
+"St Margaret's",0
+"Summertown",5
+"Wolvercote",0
+"Aston Rowant",0
+"Benson",5
+"Berinsfield",10
+"Brightwell",0
+"Chalgrove",5
+"Chiltern Woods",0
+"Chinnor",5
+"Cholsey and Wallingford South",5
+"Crowmarsh",0
+"Didcot All Saints",20
+"Didcot Ladygrove",10
+"Didcot Northbourne",10
+"Didcot Park",10
+"Forest Hill and Holton",0
+"Garsington",0
+"Goring",0
+"Great Milton",5
+"Hagbourne",5
+"Henley North",0
+"Henley South",5
+"Sandford",0
+"Shiplake",0
+"Sonning Common",5
+"Thame North",5
+"Thame South",10
+"Wallingford North",5
+"Watlington",0
+"Wheatley",0
+"Woodcote",0
+"Abingdon Abbey and Barton",15
+"Abingdon Caldecott",15
+"Abingdon Dunmore",5
+"Abingdon Fitzharris",5
+"Abingdon Northcourt",10
+"Abingdon Ock Meadow",10
+"Abingdon Peachcroft",0
+"Appleton and Cumnor",10
+"Blewbury and Upton",5
+"Craven",0
+"Drayton",0
+"Faringdon and The Coxwells",15
+"Greendown",5
+"Grove",10
+"Hanneys",5
+"Harwell",10
+"Hendreds",5
+"Kennington and South Hinksey",5
+"Kingston Bagpuize with Southmoor",5
+"Longworth",0
+"Marcham and Shippon",5
+"North Hinksey and Wytham",5
+"Radley",0
+"Shrivenham",10
+"Stanford",5
+"Sunningwell and Wootton",10
+"Sutton Courtenay and Appleford",5
+"Wantage Charlton",15
+"Wantage Segsbury",5
+"Alvescot and Filkins",0
+"Ascott and Shipton",5
+"Bampton and Clanfield",0
+"Brize Norton and Shilton",5
+"Burford",0
+"Carterton North East",15
+"Carterton North West",5
+"Carterton South",5
+"Chadlington and Churchill",0
+"Charlbury and Finstock",5
+"Chipping Norton",15
+"Ducklington",0
+"Eynsham and Cassington",10
+"Freeland and Hanborough",5
+"Hailey, Minster Lovell and Leafield",5
+"Kingham, Rollright and Enstone",0
+"Milton-under-Wychwood",0
+"North Leigh",0
+"Standlake, Aston and Stanton Harcourt",5
+"Stonesfield and Tackley",5
+"The Bartons",5
+"Witney Central",15
+"Witney East",10
+"Witney North",5
+"Witney South",15
+"Witney West",5
+"Woodstock and Bladon",0
+"Claygate",5
+"Cobham and Downside",5
+"Cobham Fairmile",0
+"Esher",5
+"Hersham North",10
+"Hersham South",5
+"Hinchley Wood",5
+"Long Ditton",5
+"Molesey East",5
+"Molesey North",5
+"Molesey South",10
+"Oatlands Park",0
+"Oxshott and Stoke D'Abernon",0
+"St George's Hill",5
+"Thames Ditton",0
+"Walton Ambleside",5
+"Walton Central",5
+"Walton North",15
+"Walton South",5
+"Weston Green",5
+"Weybridge North",5
+"Weybridge South",5
+"Auriol",0
+"College",0
+"Court",15
+"Cuddington",5
+"Ewell",10
+"Ewell Court",5
+"Nonsuch",5
+"Ruxley",10
+"Stamford",5
+"Stoneleigh",5
+"Town",15
+"West Ewell",5
+"Woodcote",5
+"Ash South and Tongham",5
+"Ash Vale",10
+"Ash Wharf",10
+"Burpham",5
+"Christchurch",5
+"Clandon and Horsley",5
+"Effingham",5
+"Friary and St Nicolas",30
+"Holy Trinity",15
+"Lovelace",0
+"Merrow",0
+"Normandy",5
+"Onslow",5
+"Pilgrims",0
+"Pirbright",5
+"Send",5
+"Shalford",5
+"Stoke",15
+"Stoughton",10
+"Tillingbourne",0
+"Westborough",15
+"Worplesdon",5
+"Ashtead Common",0
+"Ashtead Park",5
+"Ashtead Village",5
+"Beare Green",0
+"Bookham North",5
+"Bookham South",0
+"Box Hill and Headley",0
+"Brockham, Betchworth and Buckland",0
+"Capel, Leigh and Newdigate",0
+"Charlwood",0
+"Dorking North",5
+"Dorking South",5
+"Fetcham East",0
+"Fetcham West",0
+"Holmwoods",10
+"Leatherhead North",20
+"Leatherhead South",5
+"Leith Hill",0
+"Mickleham, Westhumble and Pixham",0
+"Okewood",10
+"Westcott",0
+"Banstead Village",10
+"Chipstead, Hooley and Woodmansterne",10
+"Earlswood and Whitebushes",5
+"Horley Central",15
+"Horley East",5
+"Horley West",5
+"Kingswood with Burgh Heath",0
+"Meadvale and St John's",10
+"Merstham",20
+"Nork",5
+"Preston",15
+"Redhill East",25
+"Redhill West",10
+"Reigate Central",5
+"Reigate Hill",0
+"Salfords and Sidlow",0
+"South Park and Woodhatch",5
+"Tadworth and Walton",5
+"Tattenhams",15
+"Addlestone Bourneside",10
+"Addlestone North",10
+"Chertsey Meads",5
+"Chertsey South and Row Town",10
+"Chertsey St Ann's",5
+"Egham Hythe",15
+"Egham Town",5
+"Englefield Green East",0
+"Englefield Green West",10
+"Foxhills",0
+"New Haw",10
+"Thorpe",5
+"Virginia Water",0
+"Woodham",5
+"Ashford Common",5
+"Ashford East",10
+"Ashford North and Stanwell South",20
+"Ashford Town",10
+"Halliford and Sunbury West",5
+"Laleham and Shepperton Green",10
+"Riverside and Laleham",5
+"Shepperton Town",5
+"Staines",15
+"Staines South",20
+"Stanwell North",30
+"Sunbury Common",20
+"Sunbury East",5
+"Bagshot",5
+"Bisley",0
+"Chobham",5
+"Frimley",5
+"Frimley Green",5
+"Heatherside",5
+"Lightwater",5
+"Mytchett and Deepcut",5
+"Old Dean",10
+"Parkside",0
+"St Michaels",10
+"St Pauls",0
+"Town",5
+"Watchetts",15
+"West End",5
+"Windlesham",0
+"Bletchingley and Nutfield",5
+"Burstow, Horne and Outwood",5
+"Chaldon",0
+"Dormansland and Felcourt",0
+"Felbridge",0
+"Godstone",5
+"Harestone",5
+"Limpsfield",0
+"Lingfield and Crowhurst",0
+"Oxted North and Tandridge",5
+"Oxted South",10
+"Portley",10
+"Queens Park",5
+"Tatsfield and Titsey",0
+"Valley",10
+"Warlingham East and Chelsham and Farleigh",5
+"Warlingham West",0
+"Westway",15
+"Whyteleafe",5
+"Woldingham",0
+"Alfold, Cranleigh Rural and Ellens Green",0
+"Blackheath and Wonersh",0
+"Bramley, Busbridge and Hascombe",5
+"Chiddingfold and Dunsfold",0
+"Cranleigh East",0
+"Cranleigh West",0
+"Elstead and Thursley",0
+"Ewhurst",0
+"Farnham Bourne",0
+"Farnham Castle",5
+"Farnham Firgrove",5
+"Farnham Hale and Heath End",5
+"Farnham Moor Park",5
+"Farnham Shortheath and Boundstone",5
+"Farnham Upper Hale",5
+"Farnham Weybourne and Badshot Lea",5
+"Farnham Wrecclesham and Rowledge",5
+"Frensham, Dockenfield and Tilford",0
+"Godalming Binscombe",5
+"Godalming Central and Ockford",5
+"Godalming Charterhouse",5
+"Godalming Farncombe and Catteshall",5
+"Godalming Holloway",0
+"Haslemere Critchmere and Shottermill",0
+"Haslemere East and Grayswood",5
+"Hindhead",5
+"Milford",10
+"Shamley Green and Cranleigh North",0
+"Witley and Hambledon",0
+"Brookwood",0
+"Byfleet",5
+"Goldsworth East",5
+"Goldsworth West",5
+"Hermitage and Knaphill South",10
+"Horsell East and Woodham",0
+"Horsell West",5
+"Kingfield and Westfield",15
+"Knaphill",15
+"Maybury and Sheerwater",30
+"Mayford and Sutton Green",0
+"Mount Hermon East",0
+"Mount Hermon West",5
+"Old Woking",5
+"Pyrford",0
+"St John's and Hook Heath",0
+"West Byfleet",0
+"Buckingham",5
+"Churchill",10
+"Cokeham",10
+"Eastbrook",15
+"Hillside",10
+"Manor",5
+"Marine",10
+"Mash Barn",20
+"Peverel",20
+"Southlands",15
+"Southwick Green",10
+"St Mary's",15
+"St Nicolas",10
+"Widewater",15
+"Aldwick East",0
+"Aldwick West",5
+"Angmering",10
+"Arundel",0
+"Barnham",10
+"Beach",15
+"Bersted",25
+"Brookfield",15
+"East Preston with Kingston",10
+"Felpham East",5
+"Felpham West",5
+"Ferring",5
+"Findon",5
+"Ham",35
+"Hotham",10
+"Marine",25
+"Middleton-on-Sea",5
+"Orchard",25
+"Pagham and Rose Green",10
+"Pevensey",20
+"River",20
+"Rustington East",5
+"Rustington West",15
+"Walberton",0
+"Wick with Toddington",15
+"Yapton",15
+"Bosham",5
+"Boxgrove",0
+"Bury",0
+"Chichester East",30
+"Chichester North",15
+"Chichester South",20
+"Chichester West",5
+"Donnington",5
+"Easebourne",0
+"East Wittering",15
+"Fernhurst",0
+"Fishbourne",5
+"Funtington",5
+"Harting",0
+"Lavant",5
+"Midhurst",10
+"North Mundham",5
+"Petworth",10
+"Plaistow",5
+"Rogate",0
+"Selsey North",10
+"Selsey South",5
+"Sidlesham",5
+"Southbourne",20
+"Stedham",0
+"Tangmere",5
+"West Wittering",5
+"Westbourne",5
+"Wisborough Green",0
+"Bewbush",35
+"Broadfield North",25
+"Broadfield South",25
+"Furnace Green",5
+"Gossops Green",10
+"Ifield",30
+"Langley Green",25
+"Maidenbower",5
+"Northgate",15
+"Pound Hill North",10
+"Pound Hill South and Worth",10
+"Southgate",25
+"Three Bridges",20
+"Tilgate",15
+"West Green",35
+"Billingshurst and Shipley",10
+"Bramber, Upper Beeding and Woodmancote",5
+"Broadbridge Heath",5
+"Chanctonbury",5
+"Chantry",15
+"Cowfold, Shermanbury and West Grinstead",5
+"Denne",10
+"Forest",0
+"Henfield",5
+"Holbrook East",5
+"Holbrook West",10
+"Horsham Park",35
+"Itchingfield, Slinfold and Warnham",5
+"Nuthurst",5
+"Pulborough and Coldwatham",5
+"Roffey North",10
+"Roffey South",10
+"Rudgwick",5
+"Rusper and Colgate",0
+"Southwater",10
+"Steyning",5
+"Trafalgar",0
+"Ardingly and Balcombe",5
+"Ashurst Wood",0
+"Bolney",5
+"Burgess Hill Dunstall",10
+"Burgess Hill Franklands",5
+"Burgess Hill Leylands",0
+"Burgess Hill Meeds",10
+"Burgess Hill St Andrews",5
+"Burgess Hill Victoria",10
+"Copthorne and Worth",0
+"Crawley Down and Turners Hill",5
+"Cuckfield",5
+"East Grinstead Ashplats",10
+"East Grinstead Baldwins",5
+"East Grinstead Herontye",0
+"East Grinstead Imberhorne",0
+"East Grinstead Town",10
+"Hassocks",5
+"Haywards Heath Ashenground",5
+"Haywards Heath Bentswood",10
+"Haywards Heath Franklands",5
+"Haywards Heath Heath",5
+"Haywards Heath Lucastes",5
+"High Weald",0
+"Hurstpierpoint and Downs",10
+"Lindfield",5
+"Broadwater",20
+"Castle",20
+"Central",45
+"Durrington",15
+"Gaisford",30
+"Goring",15
+"Heene",45
+"Marine",10
+"Northbrook",25
+"Offington",10
+"Salvington",20
+"Selden",30
+"Tarring",20
+"Abbey",20
+"Bathavon North",5
+"Bathavon South",0
+"Bathavon West",0
+"Bathwick",0
+"Chew Valley North",0
+"Chew Valley South",0
+"Clutton",0
+"Combe Down",15
+"Farmborough",0
+"High Littleton",5
+"Keynsham East",5
+"Keynsham North",10
+"Keynsham South",15
+"Kingsmead",15
+"Lambridge",5
+"Lansdown",5
+"Lyncombe",5
+"Mendip",5
+"Midsomer Norton North",10
+"Midsomer Norton Redfield",10
+"Newbridge",5
+"Odd Down",25
+"Oldfield",15
+"Paulton",15
+"Peasedown",15
+"Publow and Whitchurch",5
+"Radstock",20
+"Saltford",5
+"Southdown",20
+"Timsbury",0
+"Twerton",50
+"Walcot",15
+"Westfield",15
+"Westmoreland",15
+"Weston",10
+"Widcombe",15
+"Boscombe East",30
+"Boscombe West",40
+"Central",50
+"East Cliff and Springbourne",70
+"East Southbourne and Tuckton",10
+"Kinson North",45
+"Kinson South",55
+"Littledown and Iford",5
+"Moordown",10
+"Queen's Park",35
+"Redhill and Northbourne",20
+"Strouden Park",35
+"Talbot and Branksome Woods",15
+"Throop and Muscliff",15
+"Wallisdown and Winton West",25
+"West Southbourne",20
+"Westbourne and West Cliff",30
+"Winton East",40
+"Ashley",60
+"Avonmouth",45
+"Bedminster",25
+"Bishopston",30
+"Bishopsworth",55
+"Brislington East",35
+"Brislington West",20
+"Cabot",45
+"Clifton",15
+"Clifton East",5
+"Cotham",10
+"Easton",50
+"Eastville",40
+"Filwood",90
+"Frome Vale",30
+"Hartcliffe",65
+"Henbury",40
+"Hengrove",25
+"Henleaze",5
+"Hillfields",50
+"Horfield",35
+"Kingsweston",45
+"Knowle",40
+"Lawrence Hill",145
+"Lockleaze",65
+"Redland",15
+"Southmead",65
+"Southville",40
+"St George East",35
+"St George West",40
+"Stockwood",30
+"Stoke Bishop",10
+"Westbury-on-Trym",5
+"Whitchurch Park",65
+"Windmill Hill",60
+"Altarnun",5
+"Bodmin Central",30
+"Bodmin East",20
+"Bodmin West",25
+"Breage",5
+"Bude North and Stratton",20
+"Bude South",10
+"Bugle",20
+"Callington",15
+"Camborne Central",30
+"Camborne North",15
+"Camborne South",20
+"Camborne West",25
+"Camelford",15
+"Carn Brea North",25
+"Carn Brea South",35
+"Chacewater and Kenwyn",5
+"Colan and Mawgan",10
+"Constantine",5
+"Falmouth Arwenack",10
+"Falmouth Boslowick",10
+"Falmouth Gyllyngvase",5
+"Falmouth Penwerris",30
+"Falmouth Trescobeas",10
+"Feock and Kea",5
+"Flexbury and Poughill",5
+"Fowey",5
+"Gulval and Heamoor",10
+"Gunnislake",10
+"Gwinear-Gwithian and St Erth",5
+"Hayle North",15
+"Hayle South",15
+"Helston Central",10
+"Helston North",10
+"Illogan",0
+"Kelly Bray",5
+"Ladock, St Clement and St Erme",10
+"Lanivet",5
+"Launceston Central",15
+"Launceston North",10
+"Launceston South",25
+"Lelant and Carbis Bay",10
+"Liskeard Central",40
+"Liskeard North",10
+"Liskeard South and Dobwalls",20
+"Looe East",5
+"Looe West and Lansallos",5
+"Lostwithiel",15
+"Ludgvan",0
+"Mabe",5
+"Marazion",5
+"Menheniot",5
+"Mevagissey",0
+"Mount Charles",25
+"Mount Hawke and Portreath",10
+"Mullion",10
+"Newlyn and Goonhavern",10
+"Newlyn and Mousehole",10
+"Newquay Central",30
+"Newquay Pentire",15
+"Newquay Treloggan",15
+"Newquay Tretherras",5
+"Newquay Treviglas",5
+"Padstow",5
+"Pelynt",5
+"Penryn East and Mylor",15
+"Penryn West",25
+"Penwithick",15
+"Penzance Central",15
+"Penzance East",25
+"Penzance Promenade",20
+"Perranporth",10
+"Porthleven and Helston South",10
+"Poundstock",5
+"Probus",5
+"Rame",10
+"Redruth Central",10
+"Redruth North",25
+"Redruth South",25
+"Roche",10
+"Roseland",5
+"Saltash Burraton",5
+"Saltash Essa",15
+"Saltash Pill",10
+"Saltash St Stephens",10
+"St Agnes",5
+"St Austell Bay",5
+"St Austell Bethel",20
+"St Austell Gover",15
+"St Austell Poltair",20
+"St Blaise",15
+"St Buryan",5
+"St Cleer",10
+"St Columb",5
+"St Day and Lanner",20
+"St Dennis",15
+"St Endellion",0
+"St Enoder",10
+"St Germans",5
+"St Issey",0
+"St Ive",10
+"St Ives North",5
+"St Ives South",5
+"St Just in Penwith",10
+"St Keverne and Meneage",5
+"St Mewan",5
+"St Stephen",15
+"St Teath",5
+"Stithians",5
+"Stokeclimsland",5
+"Threemilestone and Gloweth",10
+"Tintagel",5
+"Torpoint East",15
+"Torpoint West",15
+"Troon and Beacon",30
+"Truro Boscawen",10
+"Truro Moresk",5
+"Truro Tregolls",30
+"Truro Trehaverne",5
+"Tywardreath",0
+"Wadebridge East",5
+"Wadebridge West",10
+"Wendron",10
+"Bryher,St. Agnes,St. Martin's,St. Mary's,Tresco",0
+"Backwell",5
+"Banwell and Winscombe",25
+"Blagdon and Churchill",0
+"Clevedon Central",5
+"Clevedon East",5
+"Clevedon North",0
+"Clevedon South",5
+"Clevedon Walton",0
+"Clevedon West",5
+"Clevedon Yeo",0
+"Congresbury",10
+"Easton-in-Gordano",0
+"Gordano",0
+"Hutton and Locking",10
+"Kewstoke",10
+"Nailsea East",5
+"Nailsea North and West",15
+"Pill",5
+"Portishead Central",5
+"Portishead Coast",0
+"Portishead East",0
+"Portishead Redcliffe Bay",0
+"Portishead South and North Weston",5
+"Portishead West",10
+"Weston-super-Mare Central",60
+"Weston-super-Mare Clarence and Uphill",35
+"Weston-super-Mare East",50
+"Weston-super-Mare Milton and Old Worle",25
+"Weston-super-Mare North Worle",20
+"Weston-super-Mare South",105
+"Weston-super-Mare South Worle",25
+"Weston-super-Mare West",30
+"Winford",0
+"Wraxall and Long Ashton",15
+"Wrington",0
+"Yatton",20
+"Budshead",60
+"Compton",40
+"Devonport",110
+"Drake",55
+"Efford and Lipson",100
+"Eggbuckland",20
+"Ham",75
+"Honicknowle",85
+"Moor View",25
+"Peverell",20
+"Plympton Chaddlewood",10
+"Plympton Erle",15
+"Plympton St Mary",20
+"Plymstock Dunstone",20
+"Plymstock Radford",20
+"Southway",50
+"St Budeaux",85
+"St Peter and the Waterfront",170
+"Stoke",75
+"Sutton and Mount Gould",105
+"Alderney",40
+"Branksome East",10
+"Branksome West",15
+"Broadstone",5
+"Canford Cliffs",5
+"Canford Heath East",10
+"Canford Heath West",10
+"Creekmoor",30
+"Hamworthy East",20
+"Hamworthy West",30
+"Merley and Bearwood",15
+"Newtown",35
+"Oakdale",20
+"Parkstone",15
+"Penn Hill",20
+"Poole Town",40
+"Almondsbury",5
+"Bitton",5
+"Boyd Valley",10
+"Bradley Stoke Central and Stoke Lodge",10
+"Bradley Stoke North",0
+"Bradley Stoke South",5
+"Charfield",5
+"Chipping Sodbury",5
+"Cotswold Edge",5
+"Dodington",15
+"Downend",10
+"Emersons Green",20
+"Filton",35
+"Frampton Cotterell",10
+"Frenchay and Stoke Park",20
+"Hanham",15
+"Kings Chase",35
+"Ladden Brook",5
+"Longwell Green",10
+"Oldland Common",10
+"Parkwall",20
+"Patchway",35
+"Pilning and Severn Beach",5
+"Rodway",20
+"Severn",0
+"Siston",15
+"Staple Hill",25
+"Stoke Gifford",25
+"Thornbury North",5
+"Thornbury South and Alveston",10
+"Westerleigh",5
+"Winterbourne",10
+"Woodstock",30
+"Yate Central",30
+"Yate North",20
+"Abbey Meads",35
+"Blunsdon",5
+"Central",40
+"Covingham and Nythe",20
+"Dorcan",30
+"Eastcott",50
+"Freshbrook and Grange Park",20
+"Gorse Hill and Pinehurst",50
+"Haydon Wick",15
+"Highworth",20
+"Moredon",30
+"Old Town and Lawn",45
+"Parks",60
+"Penhill",65
+"Ridgeway",0
+"Shaw and Nine Elms",15
+"St Margaret",15
+"St Philip",25
+"Toothill and Westlea",25
+"Walcot",50
+"Western",25
+"Wroughton and Chiseldon",15
+"Berry Head-with-Furzeham",15
+"Blatchcombe",45
+"Churston-with-Galmpton",5
+"Clifton-with-Maidenway",20
+"Cockington-with-Chelston",30
+"Ellacombe",50
+"Goodrington-with-Roselands",5
+"Preston",20
+"Roundham-with-Hyde",45
+"Shiphay-with-the-Willows",20
+"St Marychurch",35
+"St Mary's-with-Summercombe",20
+"Tormohun",85
+"Watcombe",35
+"Wellswood",20
+"Aldbourne and Ramsbury",5
+"Alderbury and Whiteparish",0
+"Amesbury East",15
+"Amesbury West",15
+"Bourne and Woodford Valley",5
+"Box and Colerne",5
+"Bradford-on-Avon North",5
+"Bradford-on-Avon South",10
+"Brinkworth",5
+"Bromham, Rowde and Potterne",15
+"Bulford, Allington and Figheldean",5
+"Burbage and the Bedwyns",5
+"By Brook",5
+"Calne Central",10
+"Calne Chilvester and Abberd",20
+"Calne North",15
+"Calne Rural",5
+"Calne South and Cherhill",5
+"Chippenham Cepen Park and Derriads",10
+"Chippenham Cepen Park and Redlands",10
+"Chippenham Hardenhuish",20
+"Chippenham Hardens and England",20
+"Chippenham Lowden and Rowden",25
+"Chippenham Monkton",10
+"Chippenham Pewsham",5
+"Chippenham Queens and Sheldon",15
+"Corsham Pickwick",15
+"Corsham Town",10
+"Corsham Without and Box Hill",10
+"Cricklade and Latton",5
+"Devizes and Roundway South",5
+"Devizes East",10
+"Devizes North",30
+"Downton and Ebble Valley",10
+"Durrington and Larkhill",5
+"Ethandune",15
+"Fovant and Chalke Valley",0
+"Hilperton",10
+"Holt and Staverton",5
+"Kington",5
+"Laverstock, Ford and Old Sarum",20
+"Ludgershall and Perham Down",15
+"Lyneham",0
+"Malmesbury",10
+"Marlborough East",5
+"Marlborough West",0
+"Melksham Central",10
+"Melksham North",5
+"Melksham South",10
+"Melksham Without North",5
+"Melksham Without South",10
+"Mere",5
+"Minety",5
+"Nadder and East Knoyle",5
+"Pewsey",10
+"Pewsey Vale",5
+"Purton",10
+"Redlynch and Landford",5
+"Roundway",20
+"Salisbury Bemerton",45
+"Salisbury Fisherton and Bemerton Village",10
+"Salisbury Harnham",5
+"Salisbury St Edmund and Milford",15
+"Salisbury St Francis and Stratford",5
+"Salisbury St Mark's and Bishopdown",10
+"Salisbury St Martin's and Cathedral",20
+"Salisbury St Paul's",15
+"Sherston",5
+"Southwick",5
+"Summerham and Seend",10
+"The Collingbournes and Netheravon",5
+"The Lavingtons and Erlestoke",5
+"Tidworth",15
+"Till and Wylye Valley",5
+"Tisbury",5
+"Trowbridge Adcroft",20
+"Trowbridge Central",20
+"Trowbridge Drynham",5
+"Trowbridge Grove",10
+"Trowbridge Lambrok",20
+"Trowbridge Park",15
+"Trowbridge Paxcroft",10
+"Urchfont and The Cannings",5
+"Warminster Broadway",5
+"Warminster Copheap and Wylye",5
+"Warminster East",15
+"Warminster West",10
+"Warminster Without",5
+"West Selkley",0
+"Westbury East",5
+"Westbury North",15
+"Westbury West",25
+"Wilton and Lower Wylye Valley",10
+"Winsley and Westwood",0
+"Winterslow",5
+"Wootton Bassett East",5
+"Wootton Bassett North",10
+"Wootton Bassett South",15
+"Axminster Rural",5
+"Axminster Town",10
+"Beer and Branscombe",0
+"Broadclyst",10
+"Budleigh",5
+"Clyst Valley",5
+"Coly Valley",15
+"Dunkeswell",0
+"Exe Valley",5
+"Exmouth Brixington",5
+"Exmouth Halsdon",5
+"Exmouth Littleham",15
+"Exmouth Town",15
+"Exmouth Withycombe Raleigh",20
+"Feniton and Buckerell",5
+"Honiton St Michael's",25
+"Honiton St Paul's",10
+"Newbridges",0
+"Newton Poppleford and Harpford",5
+"Otterhead",0
+"Ottery St Mary Rural",0
+"Ottery St Mary Town",5
+"Raleigh",5
+"Seaton",5
+"Sidmouth Rural",5
+"Sidmouth Sidford",10
+"Sidmouth Town",0
+"Tale Vale",5
+"Trinity",0
+"Whimple",0
+"Woodbury and Lympstone",0
+"Yarty",0
+"Alphington",15
+"Cowick",15
+"Duryard",5
+"Exwick",10
+"Heavitree",10
+"Mincinglake",15
+"Newtown",15
+"Pennsylvania",5
+"Pinhoe",15
+"Polsloe",10
+"Priory",25
+"St David's",55
+"St James",10
+"St Leonard's",0
+"St Loyes",5
+"St Thomas",20
+"Topsham",15
+"Whipton & Barton",20
+"Boniface",10
+"Bradninch",5
+"Cadbury",0
+"Canonsleigh",5
+"Castle",10
+"Clare and Shuttern",0
+"Cranmore",15
+"Cullompton North",5
+"Cullompton Outer",5
+"Cullompton South",5
+"Halberton",0
+"Lawrence",10
+"Lower Culm",5
+"Lowman",25
+"Newbrooke",0
+"Sandford and Creedy",0
+"Silverton",0
+"Taw",0
+"Taw Vale",15
+"Upper Culm",5
+"Upper Yeo",5
+"Way",0
+"Westexe",15
+"Yeo",5
+"Bickington and Roundswell",10
+"Bishop's Nympton",0
+"Bratton Fleming",0
+"Braunton East",5
+"Braunton West",5
+"Central Town",30
+"Chittlehampton",0
+"Chulmleigh",5
+"Combe Martin",5
+"Forches and Whiddon Valley",20
+"Fremington",10
+"Georgeham and Mortehoe",0
+"Heanton Punchardon",5
+"Ilfracombe Central",25
+"Ilfracombe East",5
+"Ilfracombe West",10
+"Instow",0
+"Landkey, Swimbridge and Taw",10
+"Longbridge",10
+"Lynton and Lynmouth",0
+"Marwood",5
+"Newport",20
+"North Molton",0
+"Pilton",5
+"South Molton",15
+"Witheridge",5
+"Yeo Valley",15
+"Allington and Loddiswell",0
+"Avon and Harbourne",0
+"Bickleigh and Shaugh",5
+"Charterlands",0
+"Cornwood and Sparkwell",5
+"Dartington",0
+"Dartmouth and Kingswear",0
+"Dartmouth Townstal",5
+"East Dart",0
+"Eastmoor",0
+"Erme Valley",5
+"Ivybridge Central",10
+"Ivybridge Filham",10
+"Ivybridge Woodlands",5
+"Kingsbridge East",0
+"Kingsbridge North",5
+"Marldon",5
+"Newton and Noss",5
+"Salcombe and Malborough",0
+"Saltstone",0
+"Skerries",5
+"South Brent",5
+"Stokenham",0
+"Thurlestone",0
+"Totnes Bridgetown",15
+"Totnes Town",5
+"Wembury and Brixton",5
+"West Dart",0
+"Westville and Alvington",0
+"Yealmpton",0
+"Ambrook",10
+"Ashburton and Buckfastleigh",10
+"Bishopsteignton",0
+"Bovey",15
+"Bradley",10
+"Buckland and Milber",15
+"Bushell",40
+"Chudleigh",10
+"College",20
+"Dawlish Central and North East",15
+"Dawlish South West",10
+"Haytor",5
+"Ipplepen",0
+"Kenn Valley",10
+"Kenton with Starcross",0
+"Kerswell-with-Combe",10
+"Kingsteignton East",5
+"Kingsteignton West",10
+"Moorland",0
+"Shaldon and Stokeinteignhead",0
+"Teign Valley",0
+"Teignbridge North",5
+"Teignmouth Central",5
+"Teignmouth East",5
+"Teignmouth West",15
+"Appledore",5
+"Bideford East",30
+"Bideford North",25
+"Bideford South",20
+"Broadheath",0
+"Clinton",5
+"Clovelly Bay",0
+"Coham Bridge",0
+"Forest",5
+"Hartland and Bradworthy",5
+"Holsworthy",20
+"Kenwith",0
+"Monkleigh and Littleham",5
+"Northam",20
+"Orchard Hill",5
+"Shebbear and Langtree",5
+"Tamarside",0
+"Three Moors",5
+"Torrington",15
+"Two Rivers",5
+"Waldon",0
+"Westward Ho!",0
+"Winkleigh",5
+"Bere Ferrers",15
+"Bridestowe",0
+"Buckland Monachorum",5
+"Burrator",0
+"Chagford",0
+"Drewsteignton",0
+"Exbourne",0
+"Hatherleigh",5
+"Lew Valley",5
+"Lydford",0
+"Mary Tavy",0
+"Milton Ford",0
+"North Tawton",0
+"Okehampton East",5
+"Okehampton West",10
+"South Tawton",0
+"Tamarside",0
+"Tavistock North",10
+"Tavistock South",5
+"Tavistock South West",5
+"Thrushel",10
+"Walkham",5
+"Burton and Winkton",5
+"Grange",25
+"Highcliffe",0
+"Jumpers",0
+"Mudeford and Friars Cliff",0
+"North Highcliffe and Walkford",0
+"Portfield",15
+"Purewell and Stanpit",10
+"St Catherine's and Hurn",5
+"Town Centre",10
+"West Highcliffe",10
+"Alderholt",0
+"Ameysford",0
+"Colehill East",5
+"Colehill West",0
+"Corfe Mullen Central",5
+"Corfe Mullen North",5
+"Corfe Mullen South",0
+"Crane",0
+"Ferndown Central",5
+"Ferndown Links",10
+"Handley Vale",5
+"Holt",0
+"Longham",0
+"Parley",5
+"St Leonards and St Ives East",5
+"St Leonards and St Ives West",5
+"Stapehill",0
+"Stour",5
+"Three Cross and Potterne",5
+"Verwood Dewlands",5
+"Verwood Newtown",5
+"Verwood Stephen's Castle",5
+"West Moors",10
+"Wimborne Minster",15
+"Abbey",0
+"Blackmore",0
+"Blandford Damory Down",0
+"Blandford Hilltop",0
+"Blandford Langton St Leonards",5
+"Blandford Old Town",10
+"Blandford Station",5
+"Bourton and District",5
+"Bulbarrow",5
+"Cranborne Chase",0
+"Gillingham Town",5
+"Hill Forts",5
+"Lodbourne",5
+"Lydden Vale",0
+"Marnhull",0
+"Milton",0
+"Motcombe and Ham",5
+"Portman",0
+"Riversdale",0
+"Shaftesbury Central",10
+"Shaftesbury Christy's",5
+"Shaftesbury Grosvenor",5
+"Shaftesbury Underhill",0
+"Stour Valley",10
+"The Beacon",0
+"The Lower Tarrants",0
+"The Stours",0
+"Wyke",5
+"Bere Regis",5
+"Castle",0
+"Creech Barrow",0
+"Langton",0
+"Lytchett Matravers",5
+"Lytchett Minster and Upton East",5
+"Lytchett Minster and Upton West",5
+"St. Martin",5
+"Swanage North",0
+"Swanage South",10
+"Wareham",10
+"West Purbeck",0
+"Winfrith",5
+"Wool",10
+"Beaminster",5
+"Bradford Abbas",5
+"Bradpole",0
+"Bridport North",10
+"Bridport South and Bothenhampton",10
+"Broadmayne",0
+"Broadwindsor",0
+"Burton Bradstock",0
+"Cam Vale",5
+"Charminster and Cerne Valley",10
+"Charmouth",0
+"Chesil Bank",0
+"Chickerell",10
+"Chideock and Symondsbury",0
+"Dorchester East",15
+"Dorchester North",20
+"Dorchester South",5
+"Dorchester West",5
+"Frome Valley",0
+"Halstock",0
+"Loders",0
+"Lyme Regis",5
+"Maiden Newton",5
+"Marshwood Vale",0
+"Netherbury",5
+"Owermoigne",0
+"Piddle Valley",0
+"Puddletown",0
+"Queen Thorne",0
+"Sherborne East",10
+"Sherborne West",5
+"Winterborne St Martin",10
+"Yetminster",5
+"Littlemoor",20
+"Melcombe Regis",35
+"Preston",0
+"Radipole",10
+"Tophill East",15
+"Tophill West",15
+"Underhill",20
+"Upwey and Broadwey",10
+"Westham East",15
+"Westham North",20
+"Westham West",10
+"Wey Valley",5
+"Weymouth East",5
+"Weymouth West",15
+"Wyke Regis",15
+"All Saints",15
+"Battledown",5
+"Benhall and The Reddings",5
+"Charlton Kings",5
+"Charlton Park",5
+"College",10
+"Hesters Way",40
+"Lansdown",5
+"Leckhampton",5
+"Oakley",40
+"Park",5
+"Pittville",0
+"Prestbury",5
+"Springbank",20
+"St Mark's",30
+"St Paul's",40
+"St Peter's",30
+"Swindon Village",10
+"Up Hatherley",0
+"Warden Hill",10
+"Ampney-Coln",0
+"Avening",0
+"Beacon-Stow",0
+"Blockley",0
+"Bourton-on-the-Water",5
+"Campden-Vale",10
+"Chedworth",0
+"Churn Valley",0
+"Cirencester Beeches",15
+"Cirencester Chesterton",10
+"Cirencester Park",5
+"Cirencester Stratton-Whiteway",5
+"Cirencester Watermoor",20
+"Ermin",5
+"Fairford",5
+"Fosseridge",5
+"Grumbolds Ash",0
+"Hampton",0
+"Kempsford-Lechlade",5
+"Moreton-in-Marsh",10
+"Northleach",0
+"Rissingtons",5
+"Riversmeet",0
+"Sandywell",0
+"Tetbury",10
+"Thames Head",5
+"Three Rivers",0
+"Water Park",5
+"Alvington, Aylburton and West Lydney",5
+"Awre",5
+"Berry Hill",0
+"Blaisdon and Longhope",0
+"Bream",10
+"Bromesberrow and Dymock",5
+"Christchurch and English Bicknor",5
+"Churcham and Huntley",5
+"Cinderford East",10
+"Cinderford West",20
+"Coleford Central",10
+"Coleford East",25
+"Hartpury",0
+"Hewelsfield and Woolaston",0
+"Littledean and Ruspidge",15
+"Lydbrook and Ruardean",5
+"Lydney East",30
+"Lydney North",0
+"Mitcheldean and Drybrook",15
+"Newent Central",20
+"Newland and St Briavels",5
+"Newnham and Westbury",5
+"Oxenhall and Newent North East",5
+"Pillowell",10
+"Redmarley",5
+"Tibberton",5
+"Tidenham",10
+"Abbey",20
+"Barnwood",30
+"Barton and Tredworth",65
+"Elmbridge",5
+"Grange",15
+"Hucclecote",10
+"Kingsholm and Wotton",40
+"Longlevens",15
+"Matson and Robinswood",70
+"Moreland",55
+"Podsmead",20
+"Quedgeley Fieldcourt",40
+"Quedgeley Severn Vale",15
+"Tuffley",25
+"Westgate",55
+"Amberley and Woodchester",0
+"Berkeley",5
+"Bisley",5
+"Cainscross",15
+"Cam East",5
+"Cam West",10
+"Central",10
+"Chalford",10
+"Coaley and Uley",0
+"Dursley",10
+"Eastington and Standish",5
+"Farmhill and Paganhill",5
+"Hardwicke",15
+"Kingswood",5
+"Minchinhampton",0
+"Nailsworth",10
+"Painswick",0
+"Randwick, Whiteshill and Ruscombe",0
+"Rodborough",0
+"Severn",5
+"Slade",5
+"Stonehouse",15
+"The Stanleys",5
+"Thrupp",5
+"Trinity",0
+"Uplands",5
+"Upton St Leonards",5
+"Vale",5
+"Valley",10
+"Wotton-under-Edge",5
+"Ashchurch with Walton Cardiff",10
+"Badgeworth",5
+"Brockworth",25
+"Churchdown Brookfield",5
+"Churchdown St John's",15
+"Cleeve Grange",5
+"Cleeve Hill",5
+"Cleeve St Michael's",20
+"Cleeve West",5
+"Coombe Hill",5
+"Highnam with Haw Bridge",10
+"Hucclecote",5
+"Innsworth with Down Hatherley",10
+"Isbourne",0
+"Northway",10
+"Oxenton Hill",0
+"Shurdington",0
+"Tewkesbury Newtown",0
+"Tewkesbury Prior's Park",15
+"Tewkesbury Town with Mitton",15
+"Twyning",0
+"Winchcombe",10
+"Ammerdown",10
+"Ashwick, Chilcompton and Stratton",5
+"Beckington and Selwood",5
+"Butleigh and Baltonsborough",0
+"Chewton Mendip and Ston Easton",5
+"Coleford and Holcombe",10
+"Cranmore, Doulting and Nunney",5
+"Creech",5
+"Croscombe and Pilton",0
+"Frome Berkley Down",5
+"Frome College",10
+"Frome Keyford",20
+"Frome Market",25
+"Frome Oakfield",10
+"Frome Park",20
+"Glastonbury St Benedict's",5
+"Glastonbury St Edmund's",10
+"Glastonbury St John's",5
+"Glastonbury St Mary's",0
+"Moor",5
+"Postlebury",5
+"Rode and Norton St Philip",0
+"Rodney and Westbury",0
+"Shepton East",25
+"Shepton West",10
+"St Cuthbert Out North",5
+"Street North",15
+"Street South",10
+"Street West",0
+"The Pennards and Ditcheat",0
+"Wells Central",5
+"Wells St Cuthbert's",20
+"Wells St Thomas'",5
+"Wookey and St Cuthbert Out West",5
+"Axevale",0
+"Berrow",5
+"Bridgwater Dunwear",25
+"Bridgwater Eastover",15
+"Bridgwater Fairfax",50
+"Bridgwater Hamp",45
+"Bridgwater Victoria",25
+"Bridgwater Westover",55
+"Bridgwater Wyndham",5
+"Burnham Central",10
+"Burnham North",5
+"Cannington and Wembdon",10
+"Cheddar and Shipham",10
+"East Polden",0
+"Highbridge and Burnham Marine",30
+"Huntspill and Pawlett",0
+"King's Isle",10
+"Knoll",10
+"North Petherton",25
+"Puriton and Woolavington",10
+"Quantocks",5
+"Wedmore and Mark",5
+"West Polden",0
+"Blackdown",0
+"Blackmoor Vale",5
+"Bruton",5
+"Brympton",10
+"Burrow Hill",5
+"Camelot",0
+"Cary",5
+"Chard Avishayes",10
+"Chard Combe",0
+"Chard Crimchard",5
+"Chard Holyrood",10
+"Chard Jocelyn",0
+"Coker",10
+"Crewkerne",10
+"Curry Rivel",0
+"Eggwood",0
+"Hamdon",5
+"Ilminster",10
+"Islemoor",0
+"Ivelchester",5
+"Langport and Huish",10
+"Martock",15
+"Milborne Port",5
+"Neroche",5
+"Northstone",5
+"Parrett",5
+"South Petherton",15
+"St Michael's",5
+"Tatworth and Forton",5
+"Tower",0
+"Turn Hill",5
+"Wessex",10
+"Wincanton",15
+"Windwhistle",0
+"Yeovil Central",40
+"Yeovil East",40
+"Yeovil South",20
+"Yeovil West",25
+"Yeovil Without",20
+"Bishop's Hull",10
+"Bishop's Lydeard",15
+"Blackdown",0
+"Bradford-on-Tone",5
+"Comeytrowe",10
+"Milverton and North Deane",5
+"Monument",0
+"Neroche",0
+"North Curry and Stoke St Gregory",5
+"Norton Fitzwarren",5
+"Ruishton and Creech",10
+"Staplegrove",10
+"Taunton Blackbrook and Holway",15
+"Taunton Eastgate",25
+"Taunton Fairwater",20
+"Taunton Halcon",30
+"Taunton Killams and Mountfield",5
+"Taunton Lyngford",25
+"Taunton Manor and Wilton",25
+"Taunton Pyrland and Rowbarton",20
+"Trull",0
+"Wellington East",20
+"Wellington North",20
+"Wellington Rockwell Green and West",15
+"West Monkton",10
+"Wiveliscombe and West Deane",5
+"Alcombe",5
+"Brendon Hills",0
+"Carhampton and Withycombe",0
+"Crowcombe and Stogumber",0
+"Dulverton and District",0
+"Dunster and Timberscombe",5
+"Greater Exmoor",0
+"Minehead Central",15
+"Minehead North",5
+"Minehead South",5
+"Old Cleeve",5
+"Porlock and District",0
+"Quantock Vale",5
+"Watchet",10
+"West Quantock",0
+"Williton",15
+"Aberffraw,Rhosneigr",0
+"Amlwch Port",10
+"Amlwch Rural",0
+"Beaumaris",5
+"Bodffordd",5
+"Bodorgan",0
+"Braint",5
+"Bryngwran",10
+"Brynteg",0
+"Cadnant",5
+"Cefni",5
+"Cwm Cadnant",0
+"Cyngar",10
+"Gwyngyll",5
+"Holyhead Town",10
+"Kingsland",5
+"Llanbadrig",0
+"Llanbedrgoch",5
+"Llanddyfnan",0
+"Llaneilian",0
+"Llanfaethlu",5
+"Llanfair-yn-Neubwll",5
+"Llanfihangel Ysgeifiog",5
+"Llangoed",0
+"Llanidan",5
+"Llannerch-y-medd",5
+"London Road",15
+"Maeshyfryd",15
+"Mechell",5
+"Moelfre",0
+"Morawelon",20
+"Parc a'r Mynydd",0
+"Pentraeth",5
+"Porthyfelin",15
+"Rhosyr",5
+"Trearddur",5
+"Tudur",10
+"Tysilio",5
+"Valley",5
+"Aberdaron,Botwnnog,Tudweiliog",0
+"Aberdovey",0
+"Abererch",0
+"Abermaw",5
+"Abersoch,Llanengan",5
+"Arllechwedd",5
+"Bala,Llanuwchllyn",5
+"Bethel",0
+"Bontnewydd",0
+"Bowydd and Rhiw",10
+"Brithdir and Llanfachreth/Ganllwyd/Llanelltyd",0
+"Bryn-crug/Llanfihangel,Llangelynin",0
+"Cadnant",10
+"Clynnog,Llanllyfni",0
+"Corris/Mawddwy",0
+"Criccieth",0
+"Cwm-y-Glo,Llanrug",0
+"Deiniol",15
+"Deiniolen",5
+"Dewi",5
+"Diffwys and Maenofferen",5
+"Dolbenmaen",5
+"Dolgellau North",5
+"Dolgellau South",5
+"Dyffryn Ardudwy",0
+"Efail-newydd/Buan",0
+"Garth,Menai (Bangor)",15
+"Gerlan",5
+"Glyder",0
+"Groeslon",5
+"Harlech",5
+"Hendre",20
+"Hirael",15
+"Llanaelhaearn",0
+"Llanbedr",0
+"Llanbedrog",0
+"Llanberis",5
+"Llandderfel",0
+"Llanwnda",5
+"Llanystumdwy",0
+"Marchog",30
+"Menai (Caernarfon)",5
+"Morfa Nefyn",5
+"Nefyn",5
+"Ogwen",10
+"Peblig (Caernarfon)",20
+"Penisarwaun",5
+"Penrhyndeudraeth",5
+"Pentir",5
+"Penygroes",5
+"Porthmadog East",5
+"Porthmadog West",5
+"Porthmadog-Tremadog",0
+"Pwllheli North",5
+"Pwllheli South",5
+"Seiont",15
+"Talysarn",10
+"Teigl",5
+"Trawsfynydd",5
+"Tregarth & Mynydd Llandygai",10
+"Tywyn",0
+"Waunfawr",5
+"Y Felinheli",5
+"Abergele Pensarn",25
+"Betws yn Rhos",0
+"Betws-y-Coed",0
+"Bryn",5
+"Caerhun",0
+"Capelulo",0
+"Colwyn",20
+"Conwy",5
+"Craig-y-Don",10
+"Crwst",5
+"Deganwy",10
+"Eglwysbach",0
+"Eirias",15
+"Gele",10
+"Glyn",45
+"Gogarth",20
+"Gower",0
+"Kinmel Bay",15
+"Llanddulas",10
+"Llandrillo yn Rhos",15
+"Llangernyw",5
+"Llansanffraid",0
+"Llansannan",0
+"Llysfaen",20
+"Marl",5
+"Mochdre",10
+"Mostyn",15
+"Pandy",5
+"Pant-yr-afon/Penmaenan",10
+"Penrhyn",5
+"Pensarn",10
+"Pentre Mawr",20
+"Rhiw",30
+"Towyn",5
+"Trefriw",0
+"Tudno",30
+"Uwch Conwy",0
+"Uwchaled",0
+"Bodelwyddan",5
+"Corwen",5
+"Denbigh Central",15
+"Denbigh Lower",10
+"Denbigh Upper/Henllan",15
+"Dyserth",0
+"Efenechtyd",0
+"Llanarmon-yn-Ial/Llandegla",5
+"Llanbedr Dyffryn Clwyd/Llangynhafal",0
+"Llandrillo",0
+"Llandyrnog",10
+"Llanfair Dyffryn Clwyd/Gwyddelwern",5
+"Llangollen",5
+"Llanrhaeadr-yng-Nghinmeirch",0
+"Prestatyn Central",10
+"Prestatyn East",15
+"Prestatyn Meliden",5
+"Prestatyn North",20
+"Prestatyn South West",15
+"Rhuddlan",10
+"Rhyl East",30
+"Rhyl South",20
+"Rhyl South East",35
+"Rhyl South West",50
+"Rhyl West",95
+"Ruthin",10
+"St. Asaph East",5
+"St. Asaph West",5
+"Trefnant",0
+"Tremeirchion",0
+"Argoed",10
+"Aston",10
+"Bagillt East",5
+"Bagillt West",20
+"Broughton North East",5
+"Broughton South",10
+"Brynford",5
+"Buckley Bistre East",15
+"Buckley Bistre West",30
+"Buckley Mountain",10
+"Buckley Pentrobin",10
+"Caergwrle",5
+"Caerwys",5
+"Cilcain",0
+"Connah's Quay Central",25
+"Connah's Quay Golftyn",30
+"Connah's Quay South",10
+"Connah's Quay Wepre",15
+"Ewloe",5
+"Ffynnongroyw",5
+"Flint Castle",15
+"Flint Coleshill",10
+"Flint Oakenholt",25
+"Flint Trelawny",15
+"Greenfield",20
+"Gronant",5
+"Gwernaffield",5
+"Gwernymynydd",0
+"Halkyn",5
+"Hawarden",5
+"Higher Kinnerton",5
+"Holywell Central",15
+"Holywell East",15
+"Holywell West",30
+"Hope",10
+"Leeswood",10
+"Llanfynydd",5
+"Mancot",5
+"Mold Broncoed",15
+"Mold East",10
+"Mold South",5
+"Mold West",25
+"Mostyn",10
+"New Brighton",0
+"Northop",5
+"Northop Hall",0
+"Penyffordd",5
+"Queensferry",10
+"Saltney Mold Junction",5
+"Saltney Stonebridge",15
+"Sealand",5
+"Shotton East",10
+"Shotton Higher",25
+"Shotton West",10
+"Trelawnyd and Gwaenysgor",0
+"Treuddyn",5
+"Whitford",5
+"Acton",10
+"Borras Park",5
+"Bronington",10
+"Brymbo",20
+"Bryn Cefn",5
+"Brynyffynnon",30
+"Cartrefle",20
+"Cefn",20
+"Chirk North",10
+"Chirk South",5
+"Coedpoeth",25
+"Dyffryn Ceiriog/Ceiriog Valley",0
+"Erddig",5
+"Esclusham",10
+"Garden Village",5
+"Gresford East and West",5
+"Grosvenor",20
+"Gwenfro",10
+"Gwersyllt East and South",15
+"Gwersyllt North",15
+"Gwersyllt West",15
+"Hermitage",5
+"Holt",10
+"Johnstown",5
+"Little Acton",5
+"Llangollen Rural",0
+"Llay",15
+"Maesydre",10
+"Marchwiel",5
+"Marford and Hoseley",5
+"Minera",0
+"New Broughton",20
+"Offa",15
+"Overton",5
+"Pant",10
+"Penycae",15
+"Penycae and Ruabon South",15
+"Plas Madoc",30
+"Ponciau",20
+"Queensway",30
+"Rhosnesni",5
+"Rossett",5
+"Ruabon",15
+"Smithfield",30
+"Stansty",5
+"Whitegate",25
+"Wynnstay",25
+"Aber-craf",0
+"Banwy",0
+"Beguildy",5
+"Berriew",0
+"Blaen Hafren",0
+"Bronllys",0
+"Builth",0
+"Bwlch",0
+"Caersws",0
+"Churchstoke",0
+"Crickhowell,Llangattock",5
+"Cwm-twrch",5
+"Disserth and Trecoed",0
+"Dolforwyn",0
+"Felin-f+ch",0
+"Forden",0
+"Glantwymyn,Llanbrynmair",5
+"Glasbury",0
+"Guilsfield",0
+"Gwernyfed",0
+"Hay",0
+"Kerry",0
+"Knighton",10
+"Llanafanfawr",0
+"Llanbadarn Fawr",5
+"Llandinam",0
+"Llandrindod East/Llandrindod West",5
+"Llandrindod North",10
+"Llandrindod South",10
+"Llandrinio",5
+"Llandysilio",0
+"Llanelwedd",0
+"Llanfair Caereinion",10
+"Llanfihangel",0
+"Llanfyllin",5
+"Llangors",5
+"Llangunllo",0
+"Llangynidr",0
+"Llanidloes",0
+"Llanrhaeadr-ym-Mochnant/Llansilin",5
+"Llansantffraid",10
+"Llanwddyn",0
+"Llanwrtyd Wells",0
+"Llanyre",0
+"Machynlleth",0
+"Maescar/Llywel",0
+"Meifod",0
+"Montgomery",0
+"Nantmel",0
+"Newtown Central",25
+"Newtown East",15
+"Newtown Llanllwchaiarn North",5
+"Newtown Llanllwchaiarn West",5
+"Newtown South",15
+"Old Radnor",0
+"Presteigne",5
+"Rhayader",0
+"Rhiwcynon",5
+"St. David Within",5
+"St. John",10
+"St. Mary",15
+"Talgarth",0
+"Talybont-on-Usk",0
+"Tawe-Uchaf",5
+"Trewern",0
+"Welshpool Castle",5
+"Welshpool Gungrog",5
+"Welshpool Llanerchyddol",5
+"Ynyscedwyn",5
+"Yscir",0
+"Ystradgynlais",15
+"Aberaeron",0
+"Aberporth",5
+"Aberteifi/Cardigan-Mwldan",5
+"Aberteifi/Cardigan-Rhyd-y-Fuwch",5
+"Aberteifi/Cardigan-Teifi",10
+"Aberystwyth Bronglais",5
+"Aberystwyth Canol/Central",10
+"Aberystwyth Gogledd/North",5
+"Aberystwyth Penparcau",10
+"Aberystwyth Rheidol",15
+"Beulah",5
+"Borth",5
+"Capel Dewi",0
+"Ceulanamaesmawr",5
+"Ciliau Aeron",0
+"Faenor",5
+"Lampeter",10
+"Llanarth",0
+"Llanbadarn Fawr-Padarn",0
+"Llanbadarn Fawr-Sulien",5
+"Llandyfriog",5
+"Llandysilio-gogo",0
+"Llandysul Town",5
+"Llanfarian",0
+"Llanfihangel Ystrad",5
+"Llangeitho",5
+"Llangybi",5
+"Llanrhystyd",0
+"Llansantffraed",5
+"Llanwenog",5
+"Lledrod",0
+"Melindwr",5
+"New Quay",0
+"Penbryn",0
+"Pen-parc",5
+"Tirymynach",0
+"Trefeurig",5
+"Tregaron",0
+"Troedyraur",5
+"Ystwyth",0
+"Amroth",0
+"Burton",0
+"Camrose",0
+"Carew",5
+"Cilgerran",0
+"Clydau",5
+"Crymych",5
+"Dinas Cross",0
+"East Williamston",5
+"Fishguard North East",10
+"Fishguard North West",10
+"Goodwick",10
+"Haverfordwest: Castle",15
+"Haverfordwest: Garth",30
+"Haverfordwest: Portfield",15
+"Haverfordwest: Prendergast,Rudbaxton",10
+"Haverfordwest: Priory",10
+"Hundleton",0
+"Johnston",5
+"Kilgetty/Begelly",5
+"Lampeter Velfrey",0
+"Lamphey",0
+"Letterston",0
+"Llangwm",5
+"Llanrhian",0
+"Maenclochog",0
+"Manorbier",5
+"Martletwy",0
+"Merlin's Bridge",10
+"Milford: Central",10
+"Milford: East",25
+"Milford: Hakin",15
+"Milford: Hubberston",15
+"Milford: North",10
+"Milford: West",15
+"Narberth",10
+"Narberth Rural",0
+"Newport",0
+"Neyland: East",5
+"Neyland: West",5
+"Pembroke Dock: Central",15
+"Pembroke Dock: Llanion",25
+"Pembroke Dock: Market",15
+"Pembroke Dock: Pennar",15
+"Pembroke: Monkton",20
+"Pembroke: St. Mary North",15
+"Pembroke: St. Mary South",5
+"Pembroke: St. Michael",0
+"Penally",0
+"Saundersfoot",5
+"Scleddau",5
+"Solva",5
+"St. David's",5
+"St. Dogmaels",5
+"St. Ishmael's",0
+"Tenby: North",0
+"Tenby: South",0
+"The Havens",0
+"Wiston",0
+"Abergwili",5
+"Ammanford",20
+"Betws",10
+"Bigyn",35
+"Burry Port",20
+"Bynea",10
+"Carmarthen Town North",20
+"Carmarthen Town South",10
+"Carmarthen Town West",20
+"Cenarth",10
+"Cilycwm",0
+"Cynwyl Elfed",0
+"Cynwyl Gaeo",0
+"Dafen",15
+"Elli",20
+"Felinfoel",10
+"Garnant",15
+"Glanamman",20
+"Glanymor",40
+"Glyn",0
+"Gorslas",10
+"Hendy",5
+"Hengoed",10
+"Kidwelly",10
+"Laugharne Township",5
+"Llanboidy",0
+"Llanddarog",5
+"Llandeilo",10
+"Llandovery",5
+"Llandybie",20
+"Llanegwad",0
+"Llanfihangel Aberbythych",5
+"Llanfihangel-ar-Arth",5
+"Llangadog",0
+"Llangeler",5
+"Llangennech",10
+"Llangunnor",5
+"Llangyndeyrn",10
+"Llannon",15
+"Llansteffan",5
+"Llanybydder",10
+"Lliedi",30
+"Llwynhendy",35
+"Manordeilo and Salem",0
+"Pembrey",15
+"Penygroes",10
+"Pontamman",15
+"Pontyberem",10
+"Quarter Bach",15
+"Saron",10
+"St. Clears",5
+"St. Ishmael",5
+"Swiss Valley",5
+"Trelech",5
+"Trimsaran",10
+"Tycroes",15
+"Tyisha",40
+"Whitland",5
+"Bishopston",5
+"Bonymaen",45
+"Castle",125
+"Clydach",30
+"Cockett",65
+"Cwmbwrla",40
+"Dunvant",15
+"Fairwood",10
+"Gorseinon",20
+"Gower",5
+"Gowerton",15
+"Killay North",0
+"Killay South",5
+"Kingsbridge",5
+"Landore",35
+"Llangyfelach",10
+"Llansamlet",60
+"Lower Loughor",5
+"Mawr",0
+"Mayals",0
+"Morriston",85
+"Mynyddbach",40
+"Newton",0
+"Oystermouth",5
+"Penclawdd",5
+"Penderry",160
+"Penllergaer",10
+"Pennard",5
+"Penyrheol",25
+"Pontardulais",35
+"Sketty",30
+"St. Thomas",35
+"Townhill",90
+"Uplands",40
+"Upper Loughor",5
+"West Cross",20
+"Aberavon",40
+"Aberdulais",15
+"Allt-wen",10
+"Baglan",25
+"Blaengwrach",15
+"Briton Ferry East",15
+"Briton Ferry West",30
+"Bryn and Cwmavon",20
+"Bryn-coch North",5
+"Bryn-coch South",30
+"Cadoxton",5
+"Cimla",10
+"Coedffranc Central",20
+"Coedffranc North",10
+"Coedffranc West",5
+"Crynant",10
+"Cwmllynfell",5
+"Cymmer",25
+"Dyffryn",10
+"Glyncorrwg",10
+"Glynneath",15
+"Godre'r graig",5
+"Gwaun-Cae-Gurwen",20
+"Gwynfi",15
+"Lower Brynamman",10
+"Margam",10
+"Neath East",45
+"Neath North",15
+"Neath South",25
+"Onllwyn",5
+"Pelenna",0
+"Pontardawe",25
+"Port Talbot",35
+"Resolven",15
+"Rhos",5
+"Sandfields East",40
+"Sandfields West",45
+"Seven Sisters",5
+"Tai-bach",40
+"Tonna",15
+"Trebanos",5
+"Ystalyfera",25
+"Aberkenfig",10
+"Bettws",15
+"Blackmill",10
+"Blaengarw",5
+"Brackla,Coity",60
+"Bryncethin",5
+"Bryncoch",20
+"Bryntirion, Laleston and Merthyr Mawr",35
+"Caerau",70
+"Cefn Cribwr",5
+"Cefn Glas",5
+"Cornelly",50
+"Coychurch Lower",5
+"Felindre",5
+"Hendre",15
+"Litchard",5
+"Llangeinor",5
+"Llangewydd and Brynhyfryd",10
+"Llangynwyd",10
+"Maesteg East",25
+"Maesteg West",35
+"Morfa",50
+"Nant-y-moel",15
+"Newcastle",20
+"Newton",10
+"Nottage",5
+"Ogmore Vale",20
+"Oldcastle",25
+"Pendre",10
+"Penprysg",5
+"Pen-y-fai",5
+"Pontycymmer",20
+"Porthcawl East Central",25
+"Porthcawl West Central",10
+"Pyle",30
+"Rest Bay",0
+"Sarn",15
+"Ynysawdre",15
+"Baruc",20
+"Buttrills",55
+"Cadoc",45
+"Castleland",45
+"Cornerswell",15
+"Court",45
+"Cowbridge",5
+"Dinas Powys",20
+"Dyfan",25
+"Gibbonsdown",65
+"Illtyd",30
+"Llandough",5
+"Llandow/Ewenny",5
+"Llantwit Major",20
+"Peterston-super-Ely",0
+"Plymouth",5
+"Rhoose",20
+"St. Athan",20
+"St. Augustine's",15
+"St. Bride's Major",10
+"Stanwell",20
+"Sully",5
+"Wenvoe",5
+"Adamsdown",110
+"Butetown",45
+"Caerau",85
+"Canton",40
+"Cathays",55
+"Creigiau/St. Fagans",10
+"Cyncoed",10
+"Ely",120
+"Fairwater",70
+"Gabalfa",30
+"Grangetown",115
+"Heath",20
+"Lisvane",5
+"Llandaff",5
+"Llandaff North",50
+"Llanishen",40
+"Llanrumney",100
+"Pentwyn",90
+"Pentyrch",5
+"Penylan",30
+"Plasnewydd",100
+"Pontprennau/Old St. Mellons",20
+"Radyr",10
+"Rhiwbina",10
+"Riverside",70
+"Rumney",40
+"Splott",95
+"Trowbridge",120
+"Whitchurch and Tongwynlais",35
+"Aberaman North",25
+"Aberaman South",30
+"Abercynon",25
+"Aberdare East",40
+"Aberdare West/Llwydcoed",35
+"Beddau",10
+"Brynna",5
+"Church Village",15
+"Cilfynydd",15
+"Cwm Clydach",15
+"Cwmbach",45
+"Cymmer",30
+"Ferndale",10
+"Gilfach Goch",10
+"Glyncoch",20
+"Graig",20
+"Hawthorn",15
+"Hirwaun",15
+"Llanharan",5
+"Llanharry",15
+"Llantrisant Town",10
+"Llantwit Fardre",10
+"Llwyn-y-pia",20
+"Maerdy",35
+"Mountain Ash East",10
+"Mountain Ash West",20
+"Penrhiwceiber",45
+"Pentre",35
+"Pen-y-graig",35
+"Pen-y-waun",30
+"Pont-y-clun",10
+"Pontypridd Town",25
+"Porth",20
+"Rhigos",5
+"Rhondda",25
+"Rhydfelen Central/Ilan",30
+"Taffs Well",10
+"Talbot Green",15
+"Ton-teg",5
+"Tonypandy",25
+"Tonyrefail East",20
+"Tonyrefail West",25
+"Trallwng",10
+"Trealaw",30
+"Treforest",25
+"Treherbert",45
+"Treorchy",35
+"Tylorstown",30
+"Tyn-y-nant",15
+"Ynyshir",20
+"Ynysybwl",20
+"Ystrad",45
+"Bedlinog",15
+"Cyfarthfa",50
+"Dowlais",35
+"Gurnos",50
+"Merthyr Vale",15
+"Park",35
+"Penydarren",35
+"Plymouth",15
+"Town",35
+"Treharris",25
+"Vaynor",20
+"Aber Valley",40
+"Aberbargoed",40
+"Abercarn",20
+"Argoed",10
+"Bargoed",60
+"Bedwas, Trethomas and Machen",55
+"Blackwood",40
+"Cefn Fforest",20
+"Crosskeys",15
+"Crumlin",25
+"Darren Valley",15
+"Gilfach",10
+"Hengoed",30
+"Llanbradach",25
+"Maesycwmmer",10
+"Morgan Jones",35
+"Moriah",35
+"Nelson",20
+"New Tredegar",45
+"Newbridge",30
+"Pengam",10
+"Penmaen",15
+"Penyrheol",55
+"Pontllanfraith",45
+"Pontlottyn",15
+"Risca East",30
+"Risca West",20
+"St. Cattwg",40
+"St. James",40
+"St. Martins",20
+"Twyn Carno",30
+"Ynysddu",20
+"Ystrad Mynach",20
+"Abertillery",35
+"Badminton",10
+"Beaufort",20
+"Blaina",20
+"Brynmawr",20
+"Cwm",15
+"Cwmtillery",35
+"Ebbw Vale North",25
+"Ebbw Vale South",35
+"Georgetown",10
+"Llanhilleth",35
+"Nantyglo",30
+"Rassau",20
+"Sirhowy",20
+"Six Bells",10
+"Tredegar Central and West",40
+"Abersychan",45
+"Blaenavon",40
+"Brynwern",15
+"Coed Eva",10
+"Croesyceiliog North",10
+"Croesyceiliog South",5
+"Cwmyniscoy",10
+"Fairwater",25
+"Greenmeadow",30
+"Llantarnam",30
+"Llanyrafon North",5
+"Llanyrafon South",5
+"New Inn",20
+"Panteg",25
+"Pontnewydd",45
+"Pontnewynydd",5
+"Pontypool",15
+"Snatchwood",15
+"St. Cadocs and Penygarn",15
+"St. Dials",25
+"Trevethin",40
+"Two Locks",40
+"Upper Cwmbran",35
+"Wainfelin",30
+"Caerwent",5
+"Caldicot Castle",0
+"Cantref",5
+"Castle",0
+"Croesonen",15
+"Crucorney",5
+"Devauden",0
+"Dewstow",5
+"Dixton with Osbaston",0
+"Drybridge",10
+"Goetre Fawr",10
+"Green Lane",10
+"Grofield",5
+"Lansdown",15
+"Larkfield",5
+"Llanbadoc",0
+"Llanelly Hill",10
+"Llanfoist Fawr",10
+"Llangybi Fawr",5
+"Llanover",0
+"Llantilio Crossenny",5
+"Llanwenarth Ultra",0
+"Mardy",5
+"Mill",0
+"Mitchel Troy",5
+"Overmonnow",10
+"Portskewett",5
+"Priory",10
+"Raglan",5
+"Rogiet",5
+"Severn",10
+"Shirenewton",0
+"St. Arvans",0
+"St. Christopher's",5
+"St. Kingsmark",0
+"St. Mary's",5
+"The Elms",0
+"Thornwell",10
+"Trellech United",0
+"Usk",5
+"West End",5
+"Wyesham",15
+"Allt-yr-yn",50
+"Alway",55
+"Beechwood",35
+"Bettws",75
+"Caerleon",15
+"Gaer",45
+"Graig",15
+"Langstone",5
+"Liswerry",60
+"Llanwern",15
+"Malpas",35
+"Marshfield",10
+"Pillgwenlly",75
+"Ringland",65
+"Rogerstone",20
+"Shaftesbury",40
+"St. Julians",40
+"Stow Hill",65
+"Tredegar Park",40
+"Victoria",50
+"Kincorth / Loirston",45
+"Torry / Ferryhill",130
+"Airyhall / Broomhill / Garthdee",40
+"Dyce / Bucksburn / Danestone",45
+"Lower Deeside",15
+"George St / Harbour",85
+"Midstocket / Rosemount",45
+"Tillydrone / Seaton / Old Aberdeen",80
+"Hilton / Stockethill",90
+"Northfield",95
+"Kingswells / Sheddocksley",55
+"Bridge of Don",15
+"Hazlehead / Ashley / Queens Cross",10
+"Turriff and District",20
+"Stonehaven and Lower Deeside",20
+"North Kincardine",25
+"Banchory and Mid Deeside",5
+"Banff and District",60
+"Aboyne, Upper Deeside and Donside",15
+"Huntly, Strathbogie and Howe of Alford",55
+"Troup",45
+"Fraserburgh and District",65
+"Central Buchan",35
+"Peterhead North and Rattray",100
+"Peterhead South and Cruden",45
+"Mearns",25
+"Mid Formartine",25
+"Ellon and District",30
+"West Garioch",20
+"Inverurie and District",50
+"East Garioch",20
+"Westhill and District",10
+"Monifieth and Sidlaw",40
+"Kirriemuir and Dean",30
+"Brechin and Edzell",70
+"Forfar and District",65
+"Carnoustie and District",20
+"Arbroath West and Letham",50
+"Arbroath East and Lunan",120
+"Montrose and District",90
+"Dunoon",40
+"Lomond North",15
+"Helensburgh Central",30
+"Helensburgh and Lomond South",15
+"Isle of Bute",30
+"Cowal",15
+"South Kintyre",30
+"Kintyre and the Islands",5
+"Mid Argyll",35
+"Oban South and the Isles",20
+"Oban North and Lorn",15
+"Clackmannanshire North",65
+"Clackmannanshire Central",80
+"Clackmannanshire South",90
+"Clackmannanshire East",30
+"Clackmannanshire West",70
+"Stranraer and North Rhins",70
+"Wigtown West",40
+"Annandale East and Eskdale",25
+"Annandale North",35
+"Annandale South",60
+"Nith",45
+"Lochar",35
+"Mid and Upper Nithsdale",30
+"Mid Galloway",20
+"Abbey",25
+"Castle Douglas and Glenkens",25
+"Dee",20
+"North West Dumfries",115
+"West End",75
+"East End",175
+"North East",125
+"Maryfield",135
+"Coldside",170
+"The Ferry",25
+"Lochee",210
+"Strathmartine",150
+"Annick",45
+"Kilmarnock North",90
+"Kilmarnock West and Crosshouse",80
+"Kilmarnock East and Hurlford",85
+"Kilmarnock South",105
+"Ballochmyle",95
+"Irvine Valley",110
+"Cumnock and New Cumnock",90
+"Doon Valley",100
+"Bearsden North",15
+"Bearsden South",10
+"Campsie and Kirkintilloch North",45
+"Bishopbriggs North and Torrance",15
+"Lenzie and Kirkintilloch South",35
+"Kirkintilloch East and Twechar",75
+"Bishopbriggs South",30
+"Milngavie",10
+"Musselburgh West",30
+"Musselburgh East and Carberry",70
+"Preston / Seton / Gosford",45
+"Fa'side",80
+"North Berwick Coastal",15
+"Haddington and Lammermuir",35
+"Dunbar and East Linton",30
+"Barrhead",90
+"Giffnock and Thornliebank",30
+"Netherlee, Stamperland and Williamwood",20
+"Newton Mearns South",10
+"Busby, Clarkston and Eaglesham",20
+"Neilston, Uplawmoor and Newton Mearns North",40
+"Leith Walk",75
+"Pentland Hills",40
+"Drum Brae / Gyle",35
+"Forth",150
+"Inverleith",30
+"Corstorphine / Murrayfield",15
+"Sighthill / Gorgie",160
+"Portobello / Craigmillar",85
+"Liberton / Gilmerton",100
+"Southside / Newington",35
+"Craigentinny / Duddingston",55
+"Leith",85
+"Almond",30
+"City Centre",40
+"Meadows / Morningside",20
+"Fountainbridge / Craiglockhart",30
+"Colinton / Fairmilehead",35
+"Barraigh, Bhatarsaigh, Eirisgeigh agus Uibhist a Deas",5
+"Loch a Tuath",5
+"Ste`rnabhagh a Tuath",10
+"Ste`rnabhagh a Deas",10
+"Sgire an Rubha",10
+"An Taobh Siar agus Nis",5
+"Sgir'Uige agus Ceann a Tuath nan Loch",5
+"Na Hearadh agus Ceann a Deas nan Loch",0
+"Beinn na Foghla agus Uibhist a Tuath",5
+"Carse, Kinnaird and Tryst",65
+"Falkirk North",115
+"Falkirk South",115
+"Lower Braes",45
+"Upper Braes",65
+"Bonnybridge and Larbert",50
+"Denny and Banknock",70
+"Bo'ness and Blackness",50
+"Grangemouth",135
+"Howe of Fife and Tay Coast",30
+"Glenrothes Central and Thornton",90
+"Glenrothes North, Leslie and Markinch",80
+"Glenrothes West and Kinglassie",110
+"Kirkcaldy East",125
+"Kirkcaldy Central",105
+"Kirkcaldy North",80
+"West Fife and Coastal Villages",75
+"Dunfermline North",80
+"Dunfermline Central",90
+"Dunfermline South",110
+"Buckhaven, Methil and Wemyss Villages",200
+"Leven, Kennoway and Largo",120
+"Cupar",50
+"East Neuk and Land Ward",25
+"St. Andrews",15
+"Burntisland, Kinghorn and Western Kirkcaldy",70
+"Rosyth",55
+"Inverkeithing and Dalgety Bay",30
+"The Lochs",115
+"Cowdenbeath",85
+"Lochgelly and Cardenden",115
+"Tay Bridgehead",40
+"Baillieston",185
+"Shettleston",140
+"East Centre",170
+"Springburn",165
+"Canal",220
+"Drumchapel / Anniesland",200
+"Garscadden / Scotstounhill",185
+"Partick West",120
+"Hillhead",70
+"Anderston / City",170
+"Calton",170
+"Southside Central",205
+"Langside",50
+"Pollokshields",70
+"Govan",210
+"Craigton",145
+"Greater Pollok",220
+"Newlands / Auldburn",140
+"Linn",195
+"Maryhill / Kelvin",175
+"North East",220
+"Badenoch and Strathspey",15
+"Inverness South",20
+"Nairn",20
+"Culloden and Ardersier",15
+"Inverness Millburn",15
+"Inverness Ness-Side",25
+"Inverness Central",95
+"Inverness West",20
+"Aird and Loch Ness",15
+"Caol and Mallaig",15
+"Eilean a' Ch`o",10
+"Black Isle",20
+"Dingwall and Seaforth",45
+"Tain and Easter Ross",30
+"Cromarty Firth",85
+"Wester Ross, Strathpeffer and Lochalsh",10
+"Fort William and Ardnamurchan",30
+"Land Caithness Ward",30
+"North, West and Central Sutherland",5
+"Thurso",35
+"Wick",55
+"East Sutherland and Edderton",15
+"Inverclyde East",100
+"Inverclyde East Central",135
+"Inverclyde North",100
+"Inverclyde South",80
+"Inverclyde West",20
+"Inverclyde South West",60
+"Penicuik",45
+"Bonnyrigg",40
+"Dalkeith",50
+"Midlothian West",45
+"Midlothian South",60
+"Midlothian East",65
+"Elgin City South",25
+"Forres",60
+"Fochabers Lhanbryde",35
+"Elgin City North",50
+"Heldon and Laich",35
+"Speyside Glenlivet",25
+"Keith and Cullen",45
+"Buckie",35
+"Kilwinning",95
+"Kilbirnie and Beith",85
+"Dalry and West Kilbride",65
+"Ardrossan and Arran",95
+"Saltcoats and Stevenston",200
+"Irvine West",175
+"Irvine East",120
+"North Coast and Cumbraes",50
+"Coatbridge South",80
+"Murdostoun",90
+"Wishaw",80
+"Airdrie South",110
+"Fortissat",65
+"Thorniewood",80
+"Bellshill",75
+"Mossend and Holytown",70
+"Coatbridge West",85
+"Airdrie Central",140
+"Airdrie North",115
+"Coatbridge North and Glenboig",120
+"Abronhill, Kildrum and the Village",80
+"Cumbernauld South",135
+"Cumbernauld North",25
+"Kilsyth",60
+"Motherwell West",60
+"Motherwell North",50
+"Motherwell South East and Ravenscraig",130
+"Strathkelvin",45
+"East Mainland, South Ronaldsay and Burray",5
+"West Mainland",0
+"Stromness and South Isles",5
+"North Isles",0
+"Kirkwall West and Orphir",15
+"Kirkwall East",10
+"Strathmore",35
+"Blairgowrie and Glens",35
+"Highland",5
+"Strathtay",20
+"Strathearn",20
+"Strathallan",5
+"Kinross-shire",25
+"Almond and Earn",20
+"Perth City South",20
+"Perth City North",90
+"Perth City Centre",100
+"Carse of Gowrie",10
+"Houston, Crosslee & Linwood",60
+"Johnstone North, Kilbarchan & Lochwinnoch",70
+"Johnstone South, Elderslie & Howwood",65
+"Paisley South",85
+"Paisley South West",90
+"Paisley North West",150
+"Erskine & Inchinnan",40
+"Renfrew North",40
+"Renfrew South & Gallowhill",70
+"Paisley East & Ralston",85
+"Bishopton, Bridge of Weir & Langbank",15
+"Tweeddale West",15
+"Tweeddale East",25
+"Galashiels and District",90
+"Selkirkshire",40
+"Leaderdale and Melrose",20
+"Mid Berwickshire",25
+"East Berwickshire",25
+"Kelso and District",25
+"Jedburgh and District",30
+"Hawick and Denholm",55
+"Hawick and Hermitage",55
+"North Isles",5
+"Shetland North",5
+"Shetland West",0
+"Shetland Central",5
+"Shetland South",5
+"Lerwick North",20
+"Lerwick South",10
+"Ayr East",70
+"Troon",50
+"Prestwick",50
+"Ayr North",170
+"Girvan and South Carrick",60
+"Ayr West",65
+"Kyle",35
+"Maybole, North Carrick and Coylton",50
+"Larkhall",100
+"Clydesdale West",80
+"Clydesdale North",60
+"Clydesdale East",45
+"Clydesdale South",65
+"Avondale and Stonehouse",55
+"Hamilton South",95
+"East Kilbride South",65
+"East Kilbride Central South",60
+"East Kilbride Central North",70
+"East Kilbride West",20
+"East Kilbride East",35
+"Rutherglen South",75
+"Rutherglen Central and North",55
+"Cambuslang West",50
+"Cambuslang East",90
+"Blantyre",105
+"Bothwell and Uddingston",20
+"Hamilton North and East",90
+"Hamilton West and Earnock",110
+"Bannockburn",70
+"Stirling East",60
+"Trossachs and Teith",15
+"Forth and Endrick",15
+"Dunblane and Bridge of Allan",20
+"Castle",70
+"Stirling West",40
+"Clydebank Central",105
+"Kilpatrick",70
+"Dumbarton",80
+"Leven",110
+"Lomond",50
+"Clydebank Waterfront",100
+"Bathgate",100
+"Linlithgow",20
+"Broxburn, Uphall and Winchburgh",70
+"Livingston North",80
+"Livingston South",105
+"East Livingston and East Calder",105
+"Fauldhouse and the Breich Valley",80
+"Whitburn and Blackburn",130
+"Armadale and Blackridge",60
+"Aldergrove",10
+"Balloo",10
+"Ballycraigy",10
+"Clady",0
+"Cranfield",10
+"Crumlin (Antrim LGD)",15
+"Drumanaway",5
+"Farranshane",10
+"Fountain Hill",10
+"Greystone (Antrim LGD)",10
+"Massereene",15
+"Parkgate",5
+"Randalstown",10
+"Shilvodan",5
+"Springfarm",15
+"Steeple",5
+"Stiles",5
+"Templepatrick",0
+"Toome",5
+"Ballygowan",10
+"Ballyrainey",10
+"Ballywalter",15
+"Bradshaw's Brae",5
+"Carrowdore",5
+"Central (Ards LGD)",15
+"Comber East",5
+"Comber North",10
+"Comber West",10
+"Donaghadee North",0
+"Donaghadee South",10
+"Glen",10
+"Gregstown",30
+"Killinchy",5
+"Kircubbin",10
+"Lisbane",5
+"Loughries",15
+"Millisle",10
+"Movilla",10
+"Portaferry",15
+"Portavogie",10
+"Scrabo",20
+"Whitespots",5
+"Abbey Park",10
+"Ballymartrim",5
+"Callan Bridge",15
+"Carrigatuke",5
+"Charlemont",10
+"Demesne",5
+"Derrynoose",10
+"Downs",15
+"Hamiltonsbawn",5
+"Hockley",0
+"Keady",10
+"Killeen",5
+"Killylea",0
+"Laurelvale",5
+"Loughgall",10
+"Markethill",10
+"Milford",5
+"Observatory",5
+"Poyntz Pass",5
+"Rich Hill",10
+"Tandragee",10
+"The Mall",5
+"Academy",10
+"Ahoghill",10
+"Ardeevin",15
+"Ballee",25
+"Ballykeel",10
+"Ballyloughan",0
+"Broughshane",5
+"Castle Demesne",15
+"Craigywarren",5
+"Cullybackey",15
+"Dunclug",15
+"Dunminning",5
+"Fair Green",10
+"Galgorm",5
+"Glenravel",5
+"Glenwhirry",5
+"Grange",10
+"Harryville",5
+"Kells",5
+"Moat",10
+"Park",5
+"Portglenone",5
+"Slemish",0
+"Summerfield",5
+"Ballyhoe and Corkey",0
+"Benvardin",15
+"Carnany",10
+"Clogh Mills",5
+"Dervock",10
+"Dunloy",5
+"Fairhill",10
+"Glebe (Ballymoney LGD)",0
+"Killoquin Lower",0
+"Killoquin Upper",10
+"Knockaholet",5
+"Newhill",10
+"Route",5
+"Seacon",10
+"Stranocum",5
+"The Vow",5
+"Ballydown",10
+"Ballyward",10
+"Banbridge West",5
+"Bannside",0
+"Dromore North",10
+"Dromore South",10
+"Edenderry (Banbridge LGD)",10
+"Fort",10
+"Gilford",10
+"Gransha",5
+"Katesbridge",0
+"Lawrencetown",5
+"Loughbrickland",0
+"Quilly",5
+"Rathfriland",10
+"Seapatrick",5
+"The Cut",10
+"Andersonstown",20
+"Ardoyne",20
+"Ballyhackamore",10
+"Ballymacarrett",30
+"Ballynafeigh",15
+"Ballysillan",10
+"Beechmount",30
+"Bellevue",25
+"Belmont",20
+"Blackstaff",15
+"Bloomfield (Belfast LGD)",15
+"Botanic",50
+"Castleview",5
+"Cavehill",0
+"Cherryvalley",5
+"Chichester Park",5
+"Cliftonville",10
+"Clonard",35
+"Crumlin (Belfast LGD)",40
+"Duncairn",15
+"Falls",40
+"Falls Park",25
+"Finaghy",5
+"Fortwilliam",5
+"Glen Road",15
+"Glencairn",15
+"Glencolin",30
+"Highfield",20
+"Island",20
+"Knock",10
+"Ladybrook",25
+"Legoniel",10
+"Malone",5
+"Musgrave",10
+"New Lodge",10
+"Orangefield",20
+"Ravenhill",15
+"Rosetta",5
+"Shaftesbury",40
+"Shankill",30
+"Stormont",5
+"Stranmillis",10
+"Sydenham",15
+"The Mount",40
+"Upper Malone",10
+"Upper Springfield",25
+"Water Works",20
+"Whiterock",35
+"Windsor",20
+"Woodstock",30
+"Woodvale",35
+"Blackhead",5
+"Bluefield",10
+"Boneybefore",5
+"Burleigh Hill",10
+"Clipperstown",20
+"Eden",15
+"Gortalee",15
+"Greenisland",5
+"Killycrot",15
+"Knockagh",5
+"Love Lane",10
+"Milebush",5
+"Northland",15
+"Sunnylands",10
+"Victoria (Carrickfergus LGD)",5
+"Whitehead",5
+"Woodburn",5
+"Ballyhanwood",5
+"Beechill",5
+"Cairnshill",10
+"Carrowreagh",10
+"Carryduff East",5
+"Carryduff West",5
+"Cregagh",10
+"Downshire",5
+"Dundonald",5
+"Enler",10
+"Galwally",5
+"Gilnahirk",5
+"Graham's Bridge",10
+"Hillfoot",0
+"Knockbracken",5
+"Lisnasharragh",5
+"Lower Braniel",5
+"Minnowburn",5
+"Moneyreagh",5
+"Newtownbreda",0
+"Tullycarnet",10
+"Upper Braniel",5
+"Wynchurch",0
+"Agivey",5
+"Atlantic",10
+"Ballysally",25
+"Castlerock",10
+"Central (Coleraine LGD)",15
+"Churchland",20
+"Cross Glebe",15
+"Dundooan",5
+"Dunluce",5
+"Garvagh",10
+"Hopefield",10
+"Kilrea",10
+"Knocklynn",10
+"Macosquin",5
+"Mount Sandel",15
+"Portstewart",5
+"Ringsend",5
+"Royal Portrush",5
+"Strand (Coleraine LGD)",0
+"The Cuts",10
+"University",15
+"Waterside",5
+"Ardboe",5
+"Coagh",0
+"Dunnamore",5
+"Gortalowry",5
+"Killycolpy",10
+"Killymoon",5
+"Lissan",5
+"Moneymore",10
+"Newbuildings",5
+"Oaklands",5
+"Oldtown",10
+"Pomeroy",10
+"Sandholes",5
+"Stewartstown",5
+"The Loop",5
+"Tullagh",5
+"Aghagallon",10
+"Annagh",15
+"Ballybay",10
+"Ballyoran",5
+"Bleary",10
+"Brownstown",10
+"Church",15
+"Corcrain",15
+"Court",25
+"Derrytrasna",10
+"Donaghcloney",10
+"Drumgask",25
+"Drumgor",15
+"Drumnamoe",15
+"Edenderry (Craigavon LGD)",5
+"Kernan",20
+"Killycomain",10
+"Knocknashane",10
+"Magheralin",10
+"Mourneview",15
+"Parklake",10
+"Taghnevan",15
+"Tavanagh",10
+"The Birches",5
+"Waringstown",5
+"Woodville",20
+"Altnagelvin",25
+"Ballynashallog",10
+"Banagher",10
+"Beechwood",20
+"Brandywell",20
+"Carn Hill",20
+"Caw",20
+"Clondermot",10
+"Claudy",15
+"Creggan Central",35
+"Creggan South",25
+"Crevagh",40
+"Culmore",60
+"Ebrington",25
+"Eglinton",20
+"Enagh (Derry LGD)",25
+"Foyle Springs",15
+"Holly Mount",10
+"Kilfennan",15
+"Lisnagelvin",10
+"New Buildings",15
+"Pennyburn",5
+"Rosemount",20
+"Shantallow East",30
+"Shantallow West",65
+"Springtown",20
+"Strand (Derry LGD)",50
+"The Diamond",35
+"Victoria (Derry LGD)",20
+"Westland",15
+"Ardglass",15
+"Audley's Acre",10
+"Ballymaglave",5
+"Ballymote",15
+"Ballynahinch East",15
+"Castlewellan",10
+"Cathedral",25
+"Crossgar",10
+"Derryboy",5
+"Donard",10
+"Drumaness",15
+"Dundrum",5
+"Dunmore",10
+"Killough",10
+"Killyleagh",20
+"Kilmore",10
+"Murlough",15
+"Quoile",15
+"Saintfield",10
+"Seaforde",10
+"Shimna",5
+"Strangford",15
+"Tollymore",10
+"Altmore",5
+"Augher",0
+"Aughnacloy",5
+"Ballygawley",0
+"Ballysaggart",10
+"Benburb",5
+"Caledon",5
+"Castlecaulfield",5
+"Clogher",5
+"Coalisland North",10
+"Coalisland South",10
+"Coalisland West and Newmills",10
+"Coolhill",5
+"Donaghmore (Dungannon LGD)",5
+"Drumglass",10
+"Fivemiletown",5
+"Killyman",5
+"Killymeal",10
+"Moy",5
+"Moygashel",5
+"Mullaghmore",10
+"Washing Bay",0
+"Ballinamallard",10
+"Belcoo and Garrison",10
+"Belleek and Boa",10
+"Boho Cleenish and Letterbreen",5
+"Brookeborough",10
+"Castlecoole",15
+"Derrygonnelly",5
+"Derrylin",5
+"Devenish",15
+"Donagh",5
+"Erne",10
+"Florence Court and Kinawley",5
+"Irvinestown",5
+"Kesh Ederney and Lack",10
+"Lisbellaw",10
+"Lisnarrick",10
+"Lisnaskea",10
+"Maguiresbridge",10
+"Newtownbutler",10
+"Portora",10
+"Rosslea",10
+"Rossorry",10
+"Tempo",10
+"Antiville",15
+"Ballycarry",5
+"Ballyloran",15
+"Blackcave",10
+"Carncastle",0
+"Carnlough",5
+"Central (Larne LGD)",15
+"Craigy Hill",10
+"Gardenmore",5
+"Glenarm",5
+"Glynn",5
+"Harbour (Larne LGD)",5
+"Island Magee",10
+"Kilwaughter",15
+"Town Parks",5
+"Aghanloo",20
+"Ballykelly",10
+"Coolessan",15
+"Dungiven",10
+"Enagh (Limavady LGD)",15
+"Feeny",10
+"Forest",5
+"Glack",5
+"Gresteel",15
+"Greystone (Limavady LGD)",30
+"Magilligan",5
+"Rathbrady",10
+"Roeside",5
+"The Highlands",5
+"Upper Glenshane",5
+"Ballinderry",10
+"Ballymacash",5
+"Ballymacbrennan",5
+"Ballymacoss",15
+"Blaris",5
+"Collin Glen",40
+"Derryaghy",35
+"Dromara",5
+"Drumbo",0
+"Dunmurry",10
+"Glenavy",5
+"Harmony Hill",0
+"Hilden",20
+"Hillhall",10
+"Hillsborough",5
+"Kilwee",20
+"Knockmore",10
+"Lagan Valley",10
+"Lambeg",10
+"Lisnagarvy",0
+"Maghaberry",10
+"Magheralave",5
+"Maze",5
+"Moira",10
+"Old Warren",5
+"Poleglass",15
+"Seymour Hill",5
+"Tonagh",15
+"Twinbrook",15
+"Wallace Park",5
+"Ballymaguigan",5
+"Bellaghy",10
+"Castledawson",5
+"Draperstown",5
+"Glebe (Magherafelt LGD)",10
+"Gulladuff",10
+"Knockcloghrim",5
+"Lecumpher",5
+"Lower Glenshane",10
+"Maghera",5
+"Swatragh",10
+"Tobermore",10
+"Town Parks East",20
+"Town Parks West",15
+"Upperlands",10
+"Valley (Magherafelt LGD)",5
+"Armoy",5
+"Ballylough",0
+"Bonamargy and Rathlin",0
+"Bushmills",10
+"Carnmoon",0
+"Dalriada",5
+"Dunseverick",0
+"Glenaan",5
+"Glenariff",0
+"Glendun",0
+"Glenshesk",0
+"Glentaisie",10
+"Kinbane",0
+"Knocklayd",5
+"Moss-Side and Moyarget",5
+"Annalong",10
+"Ballybot",10
+"Bessbrook",10
+"Binnian",5
+"Burren and Kilbroney",5
+"Camlough",10
+"Clonallan",15
+"Creggan",10
+"Crossmaglen",5
+"Daisy Hill",15
+"Derryleckagh",5
+"Derrymore",10
+"Donaghmore (Newry and Mourne LGD)",5
+"Drumalane",15
+"Drumgullion",25
+"Fathom",10
+"Forkhill",15
+"Kilkeel Central",25
+"Kilkeel South",15
+"Lisnacree",5
+"Mayobridge",10
+"Newtownhamilton",15
+"Rostrevor",5
+"Seaview",10
+"Silver Bridge",10
+"Spelga",5
+"St Mary's",5
+"St Patrick's",10
+"Tullyhappy",0
+"Windsor Hill",5
+"Abbey",5
+"Ballyclare North",15
+"Ballyclare South",10
+"Ballyduff",10
+"Ballyhenry",5
+"Ballynure",10
+"Ballyrobert",5
+"Burnthill",0
+"Carnmoney",5
+"Cloughfern",15
+"Collinbridge",5
+"Coole",10
+"Doagh",5
+"Dunanney",15
+"Glebe (Newtownabbey LGD)",5
+"Glengormley",15
+"Hawthorne",10
+"Hightown",5
+"Jordanstown",10
+"Mallusk",15
+"Monkstown",25
+"Mossley",10
+"Rostulla",5
+"Valley (Newtownabbey LGD)",25
+"Whitehouse",10
+"Ballycrochan",10
+"Ballyholme",0
+"Ballymaconnell",5
+"Ballymagee",5
+"Bangor Castle",5
+"Bloomfield (North Down LGD)",20
+"Broadway",10
+"Bryansburn",0
+"Churchill",10
+"Clandeboye",20
+"Conlig",10
+"Craigavad",0
+"Crawfordsburn",5
+"Cultra",0
+"Dufferin",15
+"Groomsport",0
+"Harbour (North Down LGD)",20
+"Holywood Demesne",10
+"Holywood Priory",5
+"Loughview",10
+"Princetown",0
+"Rathgael",10
+"Silverstream",10
+"Spring Hill",5
+"Whitehill",15
+"Beragh",10
+"Camowen",10
+"Clanabogan",10
+"Coolnagard",15
+"Dergmoney",10
+"Dromore",10
+"Drumnakilly",10
+"Drumquin",5
+"Drumragh",5
+"Fairy Water",0
+"Fintona",15
+"Gortin",5
+"Gortrush",10
+"Killyclogher",15
+"Lisanelly",25
+"Newtownsaville",5
+"Owenkillew",5
+"Sixmilecross",5
+"Strule",5
+"Termon",5
+"Trillick",5
+"Artigarvan",10
+"Ballycolman",15
+"Castlederg",15
+"Clare",5
+"Dunnamanagh",10
+"East",30
+"Finn",20
+"Glenderg",10
+"Newtownstewart",10
+"North",25
+"Plumbridge",5
+"Sion Mills",15
+"Slievekirk",10
+"South",20
+"Victoria Bridge",15
+"West",30
