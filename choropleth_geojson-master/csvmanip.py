@@ -37,7 +37,7 @@ for item in data["features"]:
 
 with open("final.json","w") as f:
     json.dump(data,f)
-    
+
 
 #print(len(stringarray))
 
