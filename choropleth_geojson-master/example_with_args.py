@@ -5,21 +5,21 @@ import plotly.offline as offline
 
 apikey = 'pk.eyJ1IjoiamFrZTQ3NjEiLCJhIjoiY2syZ3F5NzZxMGZ2YTNobnRzaTBvNWFwOCJ9.Ul2E9BycZxI6UNuRHRTADg'
 
-df = pd.read_csv('sg_density_data.csv', index_col = 0)
+df = pd.read_csv('try.csv', index_col = 0)
 
-with open(r'sg.json') as f:
+with open(r'try.json') as f:
     geojson = json.load(f)
 
-lat = 1.3521
-lon = 103.8198
+lat = 0.086889889015885
+lon = 51.537506269075045
 cmap = 'viridis'
 zoom = 9.8
 opacity = 0.7
-ptitle ='Singapore population density by planning area'
+ptitle ='Singapore population danksity by planning area'
 ctitle = 'Population per square kilometer'
 
-sg = cg.choropleth(apikey, df, geojson, 'name')
+sg = cg.choropleth(apikey, df, geojson, 'WD13NM')
 fig = sg.choroplot(cmap, ptitle, ctitle, lat, lon, zoom, opacity)
 
-savefile = 'sg_density.html'
+savefile = 'Jake.html'
 offline.plot(fig, filename = savefile, auto_open=True)
