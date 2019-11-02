@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import data from '../assets/final.json';
 
 declare let L;
-let mapboxAccessToken = "";
+let mapboxAccessToken = "YOUR_API_KEY_HERE";
 let statesData = data;
 let geojson;
 let info = L.control();
