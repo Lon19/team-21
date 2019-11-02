@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import data from '../assets/jake.json';
+import data from '../assets/final.json';
 
 declare let L;
 let mapboxAccessToken = "";
 let statesData = data;
 let geojson;
 let info = L.control();
-// const cityData = require(data);
 
 @Component({
   selector: 'app-root',
@@ -16,19 +15,12 @@ let info = L.control();
 
 
 export class AppComponent implements OnInit {
-  // title = 'my-app';
   constructor() {
 
   }
 
   ngOnInit() {
-    const map = L.map('map').setView([50, 0], 6);
-
-    // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    //         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    //     }).addTo(map);
-
-    // var newMap = L.map('map').setView([38.9188702, -77.0708398], 13);
+    const map = L.map('map').setView([53.4808,2.2426], 8);
 
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png?access_token=' + mapboxAccessToken, {
       attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
@@ -46,28 +38,14 @@ export class AppComponent implements OnInit {
 
     function style(feature) {
       return {
-        fillColor: getColor(feature.properties.data),
-        weight: 2,
+        fillColor: getColor(feature.properties.dataComb),
+        weight: 1,
         opacity: 1,
         color: 'white',
         dashArray: '3',
         fillOpacity: 0.7
       };
     }
-
-
-    // L.geoJson(statesData).addTo(map);
-    L.geoJson(statesData, { style: style }).addTo(map);
-
-    // L.getJSON("try.json",function(data){
-    //   // add GeoJSON layer to the map once the file is loaded
-    //   var datalayer = L.geoJson(data ,{
-    //   onEachFeature: function(feature, featureLayer) {
-    //   featureLayer.bindPopup(feature.properties.NAME_1);
-    //   }
-    //   }).addTo(map);
-    //   map.fitBounds(datalayer.getBounds());
-    //   });
 
     function highlightFeature(e) {
       var layer = e.target;
@@ -83,9 +61,8 @@ export class AppComponent implements OnInit {
       if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
       }
+      info.update(layer.feature.properties);
     }  
-
-      // geojson = L.geoJson();
 
       function resetHighlight(e) {
         geojson.resetStyle(e.target);
@@ -109,8 +86,6 @@ export class AppComponent implements OnInit {
         onEachFeature: onEachFeature
       }).addTo(map);
 
-      // let info = L.control();
-
       info.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
         this.update();
@@ -119,7 +94,7 @@ export class AppComponent implements OnInit {
 
       info.update = function (props) {
         this._div.innerHTML = '<h4>Unemployment</h4>' +  (props ?
-          '<b>' + props.WD13NM + '</b><br />' + props.data + ' people / mi<sup>2</sup>'
+          '<b>' + props.WD13NM + '</b><br />' + props.dataComb + ' people'
           : 'Hover over a state');
       };
 
