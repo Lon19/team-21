@@ -21,5 +21,5 @@ ctitle = 'Population per square kilometer'
 sg = cg.choropleth(apikey, df, geojson, 'WD13CD')
 fig = sg.choroplot(cmap, ptitle, ctitle, lat, lon, zoom, opacity)
 
-savefile = 'Jake1.html'
+savefile = 'Jake69.html'
 offline.plot(fig, filename = savefile, auto_open=True)
