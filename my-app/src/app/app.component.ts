@@ -20,5 +20,7 @@ export class AppComponent implements OnInit {
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
           attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
+
+      L.geoJSON(Wards.json).addTo(map);
   }
 }
