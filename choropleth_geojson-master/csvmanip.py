@@ -28,7 +28,7 @@ for item in data["features"]:
     
     #item["properties"]["WD13CD"] = "\""+identif+"\","+"\"data"+"\":"+"\""+str(dictionary.get(identif))+"\","
 
-with open("jake.json","w") as f:
+with open("works.json","w") as f:
     json.dump(data,f)
     
 
