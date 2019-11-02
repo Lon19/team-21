@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import data from '../assets/wards.json';
+import data from '../assets/jake.json';
 
 declare let L;
 let mapboxAccessToken = "";
@@ -34,19 +34,19 @@ export class AppComponent implements OnInit {
       attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
     }).addTo(map);
     function getColor(d) {
-      return d > 1000 ? '#800026' :
-        d > 500 ? '#BD0026' :
-          d > 200 ? '#E31A1C' :
-            d > 100 ? '#FC4E2A' :
-              d > 50 ? '#FD8D3C' :
-                d > 20 ? '#FEB24C' :
-                  d > 10 ? '#FED976' :
+      return d > 50 ? '#800026' :
+        d > 30 ? '#BD0026' :
+          d > 20 ? '#E31A1C' :
+            d > 10 ? '#FC4E2A' :
+              d > 5 ? '#FD8D3C' :
+                d > 3 ? '#FEB24C' :
+                  d > 0 ? '#FED976' :
                     '#FFEDA0';
     }
 
     function style(feature) {
       return {
-        fillColor: getColor(feature.properties.density),
+        fillColor: getColor(feature.properties.data),
         weight: 2,
         opacity: 1,
         color: 'white',
@@ -118,8 +118,8 @@ export class AppComponent implements OnInit {
       };
 
       info.update = function (props) {
-        this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
-          'people / mi<sup>2</sup>'
+        this._div.innerHTML = '<h4>Unemployment</h4>' +  (props ?
+          '<b>' + props.WD13NM + '</b><br />' + props.data + ' people / mi<sup>2</sup>'
           : 'Hover over a state');
       };
 
